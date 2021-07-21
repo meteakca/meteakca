@@ -1,50 +1,48 @@
 ---
 role: Associate Professor of Instructional Technology
 avatar_filename: img_0060_sq.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include online learning and teaching, computer
+  science education, problem solving, and motivation in education.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - online learning and teaching
+  - computer science education
+  - problem solving
+  - and motivation in education.
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mete_akca
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/meteakca
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/meteakcaoglu/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Southern University
+    url: https://www.georgiasouthern.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Educational Psychology and Educational Technology
+      institution: Michigan State University
+      year: 1982
+    - course: MA in Foreign Language Education
+      institution: Middle East Technical University (Ankara, Turkey)
+      year: 1970
+    - course: BS in Foreign Language Education (Applied Linguistics)
+      institution: Bogazici University (Istanbul, Turkey)
+      year: 2003
 superuser: true
 highlight_name: false
 title: Mete Akcaoglu, Ph.D.
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mete Akcaoglu (Ak-cha-oh-loo) is an associate professor of instructional technology at Georgia Southern University. His research interests  include online learning and teaching, computer science education, problem solving, and motivation in education. Currently, he leads a national science grant [project](https://projectgame.org) investigating the process of design, development, and implementation of a middle-school computer science curriculum based on game design using Unity 3D. In addition to his teaching at Georgia Southern, he has been the program director of the ITEC program since 2018.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
