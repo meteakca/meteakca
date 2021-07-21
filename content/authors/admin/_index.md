@@ -43,6 +43,7 @@ highlight_name: false
 title: Mete Akcaoglu, Ph.D.
 email: ""
 ---
-Mete Akcaoglu (Ak-cha-oh-loo) is an associate professor of instructional technology at Georgia Southern University. His research interests  include online learning and teaching, computer science education, problem solving, and motivation in education. Currently, he leads a national science grant [project](https://projectgame.org) investigating the process of design, development, and implementation of a middle-school computer science curriculum based on game design using Unity 3D. In addition to his teaching at Georgia Southern, he has been the program director of the ITEC program since 2018.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Mete Akcaoglu (Ak-cha-oh-loo) is an associate professor of instructional technology at Georgia Southern University. His research interests include online learning and teaching, computer science education, problem solving, and motivation in education. Currently, he leads a national science grant [project](https://projectgame.org) investigating the process of design, development, and implementation of a middle-school computer science curriculum based on game design using Unity 3D. In addition to his teaching at Georgia Southern, he has been the program director of the ITEC program since 2018.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
