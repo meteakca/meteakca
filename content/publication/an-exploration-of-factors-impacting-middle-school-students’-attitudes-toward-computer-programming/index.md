@@ -13,7 +13,7 @@ publication: Computers in the Schools
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/wcis20.v038.i01
   focal_point: Smart
   preview_only: false
 date: 2021-07-22T16:34:45.280Z
