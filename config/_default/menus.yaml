@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: Research
-    url: research/
+    url: "research/"
     weight: 70
   - name: CV
     url: uploads/cv.pdf
