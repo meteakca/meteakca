@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
-title: Recent Publications
-subtitle: ''
+title: Journal Articles
+subtitle: 'Peer-Reviewed'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 design:
