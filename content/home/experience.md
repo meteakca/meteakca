@@ -25,7 +25,7 @@ experience:
   - title: Associate Professor
     company: Georgia Southern University
     company_url: 'http://coe.georgiasouthern.edu'
-    company_logo: org-gc
+    company_logo: org-gsu
     location: Georgia
     date_start: '2018-08-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Assistant Professor
     company: Georgia Southern University
     company_url: 'http://coe.georgiasouthern.edu'
-    company_logo: org-gc
+    company_logo: org-gsu
     location: Georgia
     date_start: '2014-08-01'
     date_end: '2018-08-01'
