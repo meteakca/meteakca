@@ -12,6 +12,7 @@ doi: 10.1080/07380569.2021.1882209
 publication: Computers in the Schools
 draft: false
 featured: true
+slides: Test Slides
 image:
   filename: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/wcis20.v038.i01
   focal_point: Smart
