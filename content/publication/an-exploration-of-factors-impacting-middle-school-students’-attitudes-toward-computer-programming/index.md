@@ -31,7 +31,7 @@ abstract: Computer programming is becoming an essential skill for young students
   boys’ who had high pretest scores also reported higher levels of self-efficacy
   and utility value, it was the opposite for girls.
 draft: false
-featured: true
+featured: false
 slides: test-slides
 image:
   filename: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/wcis20.v038.i01
