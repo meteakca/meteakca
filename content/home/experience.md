@@ -45,6 +45,15 @@ experience:
     date_end: '2018-08-01'
     description: Taught instructional technology courses and researched game-desing and online learning.
 
+ - title: Assistant Professor
+    company: West Virginia University
+    company_logo: org-wvu
+    location: West Virginia
+    date_start: '2013-08-01'
+    date_end: '2014-06-01'
+    description: Taught instructional technology courses and researched game-desing and online learning.
+
+
 design:
   columns: '2'
 ---
