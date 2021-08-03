@@ -4,7 +4,7 @@ title: An Exploration of Factors Impacting Middle School Students’ Attitudes
 publication_types:
   - "2"
 authors:
-  - M Akcaoglu
+  - admin
   - JM Rosenberg
   - CB Hodges
   - JC Hilpert
