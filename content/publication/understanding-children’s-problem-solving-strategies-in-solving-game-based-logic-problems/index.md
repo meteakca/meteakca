@@ -42,6 +42,7 @@ image:
   preview_only: false
 date: 2021-08-04T14:22:48.606Z
 ---
-
-
+{{% callout note %}}
 Open access at https://www.ijtes.org/index.php/ijtes/article/view/98/pdf
+{{% /callout %}}
+
