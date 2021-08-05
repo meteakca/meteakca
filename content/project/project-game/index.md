@@ -10,11 +10,7 @@ tags:
 categories:
   - research
 external_link: https://www.projectgame.org
-links:
-  - icon: web
-    icon_pack: fab
-    name: Website
-    url: https://www.projectgame.org
+links: []
 image:
   filename: game_logo_sm.png
   focal_point: Smart
@@ -22,5 +18,3 @@ image:
 Centered on teaching game-design and computer programming using industry-standard game-development software (Unity 3D), the project aims to create and implement a middle school computer science (CS) curriculum. The project will involve teacher professional development (PD), a collaboration between teachers and researchers to co-develop a curriculum, and research and evaluation to understand the outcomes from the design and implementation efforts.
 
 ![](game_logo_sm.png)
-
-{{< icon name="download" pack="fas" >}}{{< staticref "https://www.projectgame.org" "newtab" >}}Project Website{{< /staticref >}}.
