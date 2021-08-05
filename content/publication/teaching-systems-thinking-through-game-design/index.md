@@ -3,7 +3,8 @@ title: Teaching systems thinking through game design
 publication_types:
   - "2"
 authors:
-  - admin & Lucy Santos Green
+  - admin 
+  - Lucy Santos Green
 doi: https://doi.org/10.1007/s11423-018-9596-8
 publication: Educational Technology Research and Development
 abstract: In this mixed-methods study, we examined if students benefitted from a
