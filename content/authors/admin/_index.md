@@ -31,10 +31,10 @@ education:
   courses:
     - course: PhD in Educational Psychology and Educational Technology
       institution: Michigan State University
-      year: 1982
+      year: 2013
     - course: MA in Foreign Language Education
       institution: Middle East Technical University (Ankara, Turkey)
-      year: 1970
+      year: 2008
     - course: BS in Foreign Language Education (Applied Linguistics)
       institution: Bogazici University (Istanbul, Turkey)
       year: 2003
