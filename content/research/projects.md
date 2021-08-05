@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Projects
-subtitle: ''
+title: Grant Projects
+subtitle: 'NSF Award #2027948'
 
 content:
   # Page type to display. E.g. project.
