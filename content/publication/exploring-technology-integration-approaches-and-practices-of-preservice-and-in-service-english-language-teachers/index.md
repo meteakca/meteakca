@@ -3,6 +3,8 @@ title: Exploring technology integration approaches and practices of preservice
   and in-service English language teachers
 publication_types:
   - "7"
+authors:
+  - Mete Akcaoğlu
 abstract: In this study, three aspects of technology integration in English
   Language Teaching within the context of private universities in Ankara, Turkey
   were investigated. Firstly, preservice and in-service teachers’ computer usage
