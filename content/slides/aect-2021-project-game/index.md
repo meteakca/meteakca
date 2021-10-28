@@ -19,6 +19,6 @@ Chuck Hodges, Ph.D.
 
 Andrew Allen, Ph.D.
 
-#### Georgia Southern University\
+#### Georgia Southern University
 
 \---
