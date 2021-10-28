@@ -9,9 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-\---
-
-# Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
+#### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
 
 Mete Akcaoglu, Ph.D.
 
@@ -21,5 +19,6 @@ Chuck Hodges, Ph.D.
 
 Andrew Allen, Ph.D.
 
-Georgia Southern University\
----
+#### Georgia Southern University\
+
+\---
