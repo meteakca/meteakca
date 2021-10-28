@@ -1,7 +1,15 @@
 ---
 title: AECT 2021 - Project GAME
 date: 2021-10-28T16:37:31.095Z
+summary: >-
+  In this session, we will describe the design process of a middle school
+  computer science curriculum based
+
+  on an industry-standard game-development software: Unity 3D.
 draft: false
+tags:
+  - game-design
+  - unity
 slides:
   theme: white
 image:
