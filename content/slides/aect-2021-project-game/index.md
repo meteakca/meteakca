@@ -21,9 +21,12 @@ Andrew Allen, Ph.D.
 
 #### Georgia Southern University
 
----
+![](game_logo_sm.png)
+
+- - -
+
 Second Slide
 
+- - -
 
----
 Third Slide
