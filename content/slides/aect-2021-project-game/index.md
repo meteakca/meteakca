@@ -114,4 +114,4 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 
 {{< icon name="inbox" pack="fas" >}} Email: mete dot akca at gmail com
 
-{{< icon name="twitter" pack="fas" >}} Twitter: [mete_akca](https://twitter.com/mete_akca)
+{{< icon name="twitter-square" pack="fas" >}} Twitter: [mete_akca](https://twitter.com/mete_akca)
