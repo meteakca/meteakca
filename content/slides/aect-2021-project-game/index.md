@@ -39,7 +39,7 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 - - -
 
 ### Why game design with Unity?
-{{< figure src="u_logo_black_rgb.png" height="40px" width="116px" >}}
+{{< figure src="u_logo_black_rgb.png" height="80px" width="230px" >}}
 
 * Unity is an industry-standard software
 * It is uses C# + and a Game-Development Engine
