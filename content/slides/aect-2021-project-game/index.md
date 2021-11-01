@@ -52,8 +52,6 @@ image:
 
 ![](screen-shot-2021-11-01-at-10.06.06-am.png)
 
-
-
 - - -
 
 #### Project GAME
@@ -89,5 +87,8 @@ image:
 
 ##### Key Resources
 
-* Project GAME Website
-* Project GAME games (on Play.Unity)
+* [Project GAME Website](https://www.projectgame.org)
+* Project GAME games
+
+  * {{< icon name="terminal" pack="fas" >}} [Escape Game](https://play.unity.com/p/6080755a86795c001f99a8ab)
+  * {{< icon name="gamepad" pack="fas" >}} [Move the Block](https://play.unity.com/p/6082cb5186795c001f9a63eb)
