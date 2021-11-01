@@ -21,18 +21,12 @@ image:
 
 ##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
 
-Mete Akcaoglu, Ph.D.
-
-Selcuk Dogan, Ph.D.
-
-Chuck Hodges, Ph.D.
-
-Andrew Allen, Ph.D.
+Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen, Ph.D.
 
 ###### Georgia Southern University
 
 ###### NSF **2027948**
-
+{{< figure src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100px" width="100px" >}}
 - - -
 
 ### Why game design?
@@ -55,8 +49,6 @@ Andrew Allen, Ph.D.
 ### Unity Workflow
 
 ![](screen-shot-2021-11-01-at-10.06.06-am.png)
-
-
 
 - - -
 
