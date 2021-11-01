@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: no
 bibliography: references.bib
+draft: true
+
 ---
 
 This is a test post made through the CMS.
@@ -15,4 +17,3 @@ This is a test post made through the CMS.
 Example citation [@hamilton2016]
 
 ![](intro-1590767390.jpg)
-draft: true
