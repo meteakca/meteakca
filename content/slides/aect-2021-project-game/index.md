@@ -52,13 +52,36 @@ image:
 
 ![](screen-shot-2021-11-01-at-10.06.06-am.png)
 
+
+
 - - -
 
 #### Project GAME
 
-- - -
+* Followed GDL (Akcaoglu, 2016)'s structure:
+
+  * Cognitive Goals
+  * Structured around Games as Units
+  * From simple to complex
+  * Repetition
+* ARCS (Attention, Relevance, Confidence, Satisfaction)
 
 - - -
+
+#### Project GAME
+
+* Year 1: Teacher Professional Development (Online)
+* Year 2 (this year): Pilot + Implementation
+
+- - -
+
+#### What works:
+
+* {{< hl >}}Designers (Research Team  & Teachers) {{< /hl >}}go through the process as learners
+* Flow (Simple Games --> More complex games)
+
+  * Simple games: quick achievements + easier to grasp concepts
+  * Complex games: more fun + repetition of older concepts and new concepts
 
 - - -
 
