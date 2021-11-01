@@ -17,7 +17,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-{{< figure src="game_logo_sm.png" height="250px" >}}
+{{< figure src="game_logo_sm.png" height="180px" width="180px" >}}
 
 ##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
 
@@ -26,7 +26,6 @@ Mete Akcaoglu, Ph.D.
 Selcuk Dogan, Ph.D.
 
 Chuck Hodges, Ph.D.
-
 
 Andrew Allen, Ph.D.
 
