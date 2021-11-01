@@ -1,9 +1,12 @@
 ---
-title: "AECT 2021 Presentation: Design and Development of a Unity 3D based
-  middle school CS curriculum"
-abstract: "In this session, we will describe the design process of a middle
-  school computer science curriculum based on an industry-standard
-  game-development software: Unity 3D."
+title: AECT 2021 Presentations
+abstract: >-
+  In this session, we will describe the design process of a middle school
+  computer science curriculum based on an industry-standard game-development
+  software: Unity 3D.
+
+
+  And slides for Early Career Symposium: Creating Spaces for Academic Writing
 location: AECT 2021 (Virtual)
 date: 2021-10-28T17:04:39.690Z
 date_end: 2021-10-28T17:04:40.995Z
