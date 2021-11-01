@@ -36,6 +36,7 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 * Game design is fun and engaging/appealing for students (and teachers)
 * It (can) target cognitive and motivational outcomes
 * It can lead to future jobs 
+* GA Bill - CS Mandate
 
 - - -
 
@@ -70,7 +71,10 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 
 #### Project GAME
 
-* Year 1: Teacher Professional Development (Online)
+* Year 1: Teacher Professional Development
+
+  * Online 
+  * Summer institute (f2f, 4 days)
 * Year 2 (this year): Pilot + Implementation
 
 - - -
@@ -99,7 +103,7 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 
 ##### Key Resources
 
-* [Project GAME Website](https://www.projectgame.org)
+* [Project GAME Website](https://www.projectgame.org) (lesson plans & video guide)
 * Project GAME games
 
   * {{< icon name="terminal" pack="fas" >}} [Escape Game](https://play.unity.com/p/6080755a86795c001f99a8ab)
