@@ -17,7 +17,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](game_logo_sm.png)
+{{< figure src="game_logo_sm.png" height="36px" width="36px" >}}
 
 ##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
 
