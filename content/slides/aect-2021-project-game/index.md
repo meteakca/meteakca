@@ -107,3 +107,11 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 * [Unity Learn ](https://learn.unity.com)(free resources)
 * YouTube (of course!)
 * Udemy (cheap courses)
+
+- - -
+
+#### Questions and Comments
+
+{{< icon name="inbox" pack="fas" >}} mete dot akca at gmail com
+
+{{< icon name="twitter" pack="fas" >}} [mete_akca](https://twitter.com/mete_akca)
