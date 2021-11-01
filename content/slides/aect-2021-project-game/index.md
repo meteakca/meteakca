@@ -17,6 +17,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](game_logo_sm.png)
+
 ##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
 
 Mete Akcaoglu, Ph.D.
@@ -30,11 +32,11 @@ Andrew Allen, Ph.D.
 
 ###### Georgia Southern University
 
-![](game_logo_sm.png)
+###### NSF **2027948**
 
 - - -
 
-##### Why game design?
+### Why game design?
 
 * Game design is fun and engaging/appealing for students (and teachers)
 * It (can) target cognitive and motivational outcomes
@@ -42,16 +44,30 @@ Andrew Allen, Ph.D.
 
 - - -
 
-##### Why game design with Unity?
+### Why game design with Unity?
 
 * Unity is an industry-standard software
 * It is uses C# + and a Game-Development Engine
+* Is a direct connection to real-life game development
+* Block-based coding has limits
 
 - - -
 
-##### Unity Workflow
+### Unity Workflow
 
 ![](screen-shot-2021-11-01-at-10.06.06-am.png)
+
+
+
+- - -
+
+#### Project GAME
+
+- - -
+
+- - -
+
+- - -
 
 - - -
 
