@@ -40,6 +40,7 @@ image:
 - - -
 
 ### Why game design with Unity?
+{{< figure src="u_logo_black_rgb.png" height="180px" width="180px" >}}
 
 * Unity is an industry-standard software
 * It is uses C# + and a Game-Development Engine
@@ -82,6 +83,16 @@ image:
   * Complex games: more fun + repetition of older concepts and new concepts
 
 - - -
+
+#### How to adopt and what to pay attention to:
+
+* Project GAME Website (last slide)
+* Follow key principles
+
+  * Simple to complex
+  * Games first
+  * Go through the design as learners
+  * Flexible curriculum
 
 - - -
 
