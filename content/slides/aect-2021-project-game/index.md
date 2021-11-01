@@ -17,21 +17,45 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-#### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
+##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
 
 Mete Akcaoglu, Ph.D.
+
 Selcuk Dogan, Ph.D.
+
 Chuck Hodges, Ph.D.
+
+
 Andrew Allen, Ph.D.
 
-#### Georgia Southern University
+###### Georgia Southern University
 
 ![](game_logo_sm.png)
 
 - - -
 
-Second Slide
+##### Why game design?
+
+* Game design is fun and engaging/appealing for students (and teachers)
+* It (can) target cognitive and motivational outcomes
+* It can lead to future jobs 
 
 - - -
 
-Third Slide
+##### Why game design with Unity?
+
+* Unity is an industry-standard software
+* It is uses C# + and a Game-Development Engine
+
+- - -
+
+##### Unity Workflow
+
+![](screen-shot-2021-11-01-at-10.06.06-am.png)
+
+- - -
+
+##### Key Resources
+
+* Project GAME Website
+* Project GAME games (on Play.Unity)
