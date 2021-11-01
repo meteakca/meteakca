@@ -43,6 +43,8 @@ all_day: false
 ---
 {{% callout note %}}
 [Click here for early career symposium slides.](https://meteakca.netlify.app/slides/aect-2021-early-career-symposium-creating-space-for-academic-writing/)
+
+[Click here for Project GAME slides.](https://meteakca.netlify.app/slides/aect-2021-project-game/)
 {{% /callout %}}
 
 Digital game design has been an attractive and appropriate context to engage young students in higherorder thinking (e.g., Akcaoglu, 2014), explore STEM content (e.g., Baytak & Land, 2011), learn basic knowledge of and develop interest toward computer programming (Comber et al., 2019), and form positive attitudes toward CS (Denner et al., 2019). Embedding computer programming in meaningful media-rich project-based contexts has promise for increased equity: i.e., it helps decrease the gender gap in CS (Guzdial, 2015). Game-design activities are meaningful media-rich contexts and can, therefore, provide
