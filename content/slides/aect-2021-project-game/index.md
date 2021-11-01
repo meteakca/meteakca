@@ -17,7 +17,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum 
+##### Project GAME: Design and Development of a Unity 3D based middle school CS curriculum
+
 {{< figure src="game_logo_sm.png" height="180px" width="180px" >}}
 
 Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen, Ph.D.
@@ -39,6 +40,7 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 - - -
 
 ### Why game design with Unity?
+
 {{< figure src="u_logo_black_rgb.png" height="80px" width="230px" >}}
 
 * Unity is an industry-standard software
@@ -102,3 +104,6 @@ Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen,
 
   * {{< icon name="terminal" pack="fas" >}} [Escape Game](https://play.unity.com/p/6080755a86795c001f99a8ab)
   * {{< icon name="gamepad" pack="fas" >}} [Move the Block](https://play.unity.com/p/6082cb5186795c001f9a63eb)
+* [Unity Learn ](https://learn.unity.com)(free resources)
+* YouTube (of course!)
+* Udemy (cheap courses)
