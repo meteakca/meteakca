@@ -40,7 +40,8 @@ image:
 - - -
 
 ### Why game design with Unity?
-{{< figure src="u_logo_black_rgb.png" height="180px" width="180px" >}}
+
+![](u_logo_black_rgb.png)
 
 * Unity is an industry-standard software
 * It is uses C# + and a Game-Development Engine
