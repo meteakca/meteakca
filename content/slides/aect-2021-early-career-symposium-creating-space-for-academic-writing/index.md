@@ -64,6 +64,7 @@ Mete Akcaoglu, Ph.D. Associate Professor Georgia Southern University
 * Open to learning new things (methods, concepts, theories)
 * New methods (for data collection & analysis) means new ways to look at things
 * Twitter (e.g., r \[studio] community)
+* Burn outs...normal...stay calm
 
 - - -
 
