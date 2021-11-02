@@ -9,11 +9,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](https://convention2.allacademic.com/one/aect/aect21/images/mobile_logo.png)
+
 #### AECT 2021 Early Career Symposium
 
 Creating Space for Academic Writing
 
 Mete Akcaoglu, Ph.D. Associate Professor Georgia Southern University
+
+![](https://cdn.georgiasouthern.edu/logos/eGSlogo-stacked.png)
 
 - - -
 
