@@ -1,11 +1,11 @@
 ---
 title: Identifying multiple learning spaces within a single teacher-focused
-  Twitter hashtag Spencer P. Greenhalgh University of Kentucky Joshua M.
-  Rosenberg University of Tennessee
+  Twitter hashtag
 publication_types:
   - "1"
 authors:
-  - K Bret Staudt Willet
+  - Spencer P. Greenhalgh University of Kentucky Joshua M. Rosenberg University
+    of TennesseeK Bret Staudt Willet
   - Matthew J Koehler
   - Mete Akcaoglu
 doi: https://doi.org/10.1016/j.compedu.2020.103809
