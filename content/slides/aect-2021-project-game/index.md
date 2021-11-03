@@ -21,7 +21,7 @@ image:
 
 {{< figure src="game_logo_sm.png" height="180px" width="180px" >}}
 
-Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Chuck Hodges, Ph.D. | Andrew Allen, Ph.D.
+Mete Akcaoglu, Ph.D. | Selcuk Dogan, Ph.D. | Charles B. Hodges, Ph.D. | Andrew Allen, Ph.D.
 
 ###### Georgia Southern University {style="color: gray"}
 
