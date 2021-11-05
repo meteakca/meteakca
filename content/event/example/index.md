@@ -51,7 +51,7 @@ slides.](https://meteakca.netlify.app/slides/aect-2021-project-game/)
 
 Recording of the session:
 
-{{< youtube Xf8TQzvq5RU >}}
+{{< youtube 0ORsQnQxHAw >}}
 
 Digital game design has been an attractive and appropriate context to engage young students in higherorder thinking -e.g., Akcaoglu (2014), explore STEM content -e.g., Baytak and Land (2011), learn basic knowledge of and develop interest toward computer programming Comber et al. (2019), and form positive attitudes toward CS Denner, Campe, and Werner (2019). Embedding computer programming in meaningful media-rich project-based contexts has promise for increased equity: i.e., it helps decrease the gender gap in CS Guzdial (2015). Game-design activities are meaningful media-rich contexts and can, therefore, provide benefits in terms of broadening participation by encouraging participation of underrepresented students in CS Werner et al. (2020). When incorporated into regular curricula, game-design courses help broaden participation by attracting students from different backgrounds into CS Repenning et al. (2015). Block-based programming tools have been popular platforms to introduce students to CS Grover and Basu (2017). and digital game-design “A Systematic Literature Review to Identify Empirical Evidence on the Game Design Framework and Model of Games-Based Learning” (2020). Despite their popularity and wide use in game-design contexts, however, researchers and practitioners have also pointed to some shortcomings of block-based programming and similar “opaque” (i.e., the inner mechanisms are hidden from users) approaches to CS Grover and Basu (2017); Repenning (2017); Meerbaum-Salant, Armoni, and Ben-Ari (2011).
 
