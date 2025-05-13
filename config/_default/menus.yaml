@@ -13,9 +13,6 @@ main:
   - name: Research
     url: "research/"
     weight: 30
-  - name: CV
-    url: uploads/cv.pdf
-    weight: 40
   - name: Blog
     url: "blog/"
     weight: 50
