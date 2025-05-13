@@ -1,6 +1,6 @@
 ---
 role: Professor of Instructional Technology
-avatar_filename: avatar.jpg
+avatar_filename: avatar2.jpg
 bio: My research interests include online learning and teaching, computer
   science education, problem solving, and motivation in education.
 interests:
