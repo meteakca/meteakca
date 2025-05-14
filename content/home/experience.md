@@ -22,16 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Interim Department Chair
+    company: Georgia Southern University
+    company_url: 'http://coe.georgiasouthern.edu'
+    company_logo: org-gsu
+    location: Georgia
+    date_start: '2024-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Leadership of the department
+        * Budget
+   - title: Professor
+    company: Georgia Southern University
+    company_url: 'http://coe.georgiasouthern.edu'
+    company_logo: org-gsu
+    location: Georgia
+    date_start: '2022-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Teaching
+        * Research
+        * Program Director
+          
   - title: Associate Professor
     company: Georgia Southern University
     company_url: 'http://coe.georgiasouthern.edu'
     company_logo: org-gsu
     location: Georgia
     date_start: '2018-08-01'
-    date_end: ''
+    date_end: '2022-07-30'
     description: |2-
         Responsibilities include:
-        
         * Teaching
         * Research
         * Program Director
