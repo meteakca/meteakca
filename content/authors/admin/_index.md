@@ -9,12 +9,9 @@ interests:
   - problem solving
   - and motivation in education.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/mete_akca
+    link: https://bsky.app/profile/meteakca.bsky.social
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en
