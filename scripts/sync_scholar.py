@@ -10,18 +10,13 @@ Requires:
     pip install scholarly PyYAML
 """
 
-import os
 import re
 import sys
-import time
-import random
 import yaml
 from pathlib import Path
 
 SCHOLAR_ID = "0y1b0oEAAAAJ"
 OUTPUT_DIR = Path("content/scholar-publications")
-DELAY_MIN = 3   # seconds between requests
-DELAY_MAX = 8
 
 
 def slugify(text: str) -> str:
@@ -134,7 +129,9 @@ def main() -> int:
 
     publications = author.get("publications", [])
     total = len(publications)
-    print(f"Found {total} publications. Fetching details...\n")
+    # Use only the data already returned by the author profile fetch — no
+    # per-publication fill() calls, which trigger Scholar's bot detection.
+    print(f"Found {total} publications. Writing files...\n")
 
     seen_slugs: dict[str, int] = {}
     success = 0
@@ -144,31 +141,18 @@ def main() -> int:
         raw_title = pub.get("bib", {}).get("title", f"publication-{i}")
         print(f"[{i+1}/{total}] {raw_title[:70]}")
 
-        # Rate-limit between detail fetches
-        if i > 0:
-            delay = random.uniform(DELAY_MIN, DELAY_MAX)
-            time.sleep(delay)
-
-        try:
-            pub_full = scholar_api.fill(pub)
-        except Exception as exc:
-            print(f"  WARNING: could not fetch full details ({exc}), using partial data")
-            pub_full = pub
-
         # Deduplicate slugs
-        title = (pub_full.get("bib", {}).get("title") or raw_title).strip()
+        title = raw_title.strip()
         base_slug = slugify(title) or f"publication-{i}"
         if base_slug in seen_slugs:
             seen_slugs[base_slug] += 1
-            slug_index = seen_slugs[base_slug]
-            # Patch title slug so write_publication uses the right folder
-            pub_full.setdefault("bib", {})["_slug_override"] = f"{base_slug}-{slug_index}"
+            pub.setdefault("bib", {})["_slug_override"] = f"{base_slug}-{seen_slugs[base_slug]}"
         else:
             seen_slugs[base_slug] = 0
 
         try:
-            filepath = write_publication(pub_full, output_dir, i)
-            citations = pub_full.get("num_citations", 0) or 0
+            filepath = write_publication(pub, output_dir, i)
+            citations = pub.get("num_citations", 0) or 0
             print(f"  Saved: {filepath}  [{citations} citations]")
             success += 1
         except Exception as exc:
