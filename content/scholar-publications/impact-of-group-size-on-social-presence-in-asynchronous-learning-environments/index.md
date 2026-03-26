@@ -1,0 +1,11 @@
+---
+title: Impact of group size on social presence in asynchronous learning environments
+authors:
+- Mete Akcaoğlu
+- Eunbae Lee
+date: '2015-01-01T00:00:00Z'
+citation_count: 0
+scholar_url: https://www.semanticscholar.org/paper/391b9f945bba74dcf44f63e50ab5a0eda930d219
+draft: false
+featured: false
+---
