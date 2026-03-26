@@ -2,8 +2,8 @@ name: Sync Google Scholar Publications
 
 on:
   schedule:
-    # Every Sunday at 06:00 UTC
-    - cron: "0 6 * * 0"
+    # Every 6 months: January 1st and July 1st at 06:00 UTC
+    - cron: "0 6 1 1,7 *"
   workflow_dispatch:
     # Allow manual runs from the Actions tab
 
