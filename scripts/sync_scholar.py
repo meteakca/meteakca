@@ -20,10 +20,7 @@ import yaml
 import requests
 from pathlib import Path
 
-# Semantic Scholar author ID for Mete Akcaoglu.
-# Found via: https://api.semanticscholar.org/graph/v1/author/search?query=Mete+Akcaoglu
-S2_AUTHOR_ID = "2069078540"
-
+AUTHOR_NAME = "Mete Akcaoglu"  # used to find the author in Semantic Scholar
 OUTPUT_DIR = Path("content/scholar-publications")
 S2_BASE = "https://api.semanticscholar.org/graph/v1"
 PAPER_FIELDS = "title,year,authors,venue,abstract,citationCount,externalIds,openAccessPdf,publicationDate"
@@ -49,6 +46,25 @@ def s2_get(url: str, params: dict = None, retries: int = 3) -> dict:
         resp.raise_for_status()
         return resp.json()
     raise RuntimeError(f"Failed after {retries} attempts: {url}")
+
+
+def find_author_id(name: str) -> str:
+    """Search Semantic Scholar for the author and return their ID."""
+    data = s2_get(
+        f"{S2_BASE}/author/search",
+        params={"query": name, "fields": "name,affiliations,paperCount", "limit": 5},
+    )
+    candidates = data.get("data", [])
+    if not candidates:
+        raise RuntimeError(f"No authors found for query: {name!r}")
+    print("Author candidates found:")
+    for c in candidates:
+        affils = ", ".join(c.get("affiliations") or []) or "no affiliation listed"
+        print(f"  [{c['authorId']}] {c['name']} — {c.get('paperCount', 0)} papers — {affils}")
+    # Pick the candidate with the most papers (most likely the right one)
+    best = max(candidates, key=lambda c: c.get("paperCount") or 0)
+    print(f"Using: [{best['authorId']}] {best['name']}")
+    return best["authorId"]
 
 
 def fetch_all_papers(author_id: str) -> list:
@@ -136,14 +152,18 @@ def main() -> int:
             encoding="utf-8",
         )
 
-    print(f"Fetching papers for Semantic Scholar author ID: {S2_AUTHOR_ID}")
+    print(f"Searching Semantic Scholar for author: {AUTHOR_NAME!r}")
     try:
-        papers = fetch_all_papers(S2_AUTHOR_ID)
+        author_id = find_author_id(AUTHOR_NAME)
+        papers = fetch_all_papers(author_id)
     except Exception as exc:
         print(f"ERROR fetching papers: {exc}")
         return 1
 
     total = len(papers)
+    if total == 0:
+        print("ERROR: 0 papers returned — check the author name or Semantic Scholar coverage.")
+        return 1
     print(f"\nFound {total} papers. Writing Hugo files...\n")
 
     seen_slugs: dict[str, int] = {}
