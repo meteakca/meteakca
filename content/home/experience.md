@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         * Leadership of the department
         * Budget
-   - title: Professor
+  - title: Professor
     company: Georgia Southern University
     company_url: 'http://coe.georgiasouthern.edu'
     company_logo: org-gsu
