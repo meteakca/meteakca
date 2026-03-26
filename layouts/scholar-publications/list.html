@@ -5,8 +5,8 @@
 
   <p class="text-muted mb-4">
     {{ len .Pages }} publications &middot; Automatically synced from
-    <a href="https://scholar.google.com/citations?user=0y1b0oEAAAAJ&sortby=pubdate" target="_blank" rel="noopener">
-      Google Scholar
+    <a href="https://www.semanticscholar.org/author/2803529" target="_blank" rel="noopener">
+      Semantic Scholar
     </a>
   </p>
 
@@ -36,7 +36,7 @@
         {{ end }}
         {{ if .Params.citation_count }}
           &middot;
-          <span class="badge badge-pill badge-light" title="Citations on Google Scholar">
+          <span class="badge badge-pill badge-light" title="Citations on Semantic Scholar">
             {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
           </span>
         {{ end }}

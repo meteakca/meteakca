@@ -25,7 +25,7 @@
     {{ end }}
     {{ if .Params.citation_count }}
       &middot;
-      <span class="badge badge-pill badge-light" title="Citations on Google Scholar">
+      <span class="badge badge-pill badge-light" title="Citations on Semantic Scholar">
         {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
       </span>
     {{ end }}
@@ -43,7 +43,7 @@
   <div style="margin-top: 1.5rem;">
     {{ with .Params.scholar_url }}
     <a href="{{ . }}" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">
-      View on Google Scholar
+      View on Semantic Scholar
     </a>
     {{ end }}
     {{ with .Params.eprint_url }}
