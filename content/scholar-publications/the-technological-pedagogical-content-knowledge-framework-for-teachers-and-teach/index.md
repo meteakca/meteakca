@@ -1,0 +1,14 @@
+---
+title: The Technological Pedagogical Content Knowledge Framework for Teachers and
+  Teacher Educators
+authors:
+- Matthew J. Koehler
+- Punya Mishra
+- Mete Akcaoğlu
+- J. Rosenberg
+date: '2013-01-01T00:00:00Z'
+citation_count: 124
+scholar_url: https://www.semanticscholar.org/paper/8d8098360cd542c98ac33c47e7b4232919c0a40a
+draft: false
+featured: false
+---
