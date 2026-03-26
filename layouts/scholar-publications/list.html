@@ -1,0 +1,57 @@
+{{ define "main" }}
+<div class="universal-wrapper pt-3 container-fluid">
+
+  <h1 class="pub-title">{{ .Title }}</h1>
+
+  <p class="text-muted mb-4">
+    {{ len .Pages }} publications &middot; Automatically synced from
+    <a href="https://scholar.google.com/citations?user=0y1b0oEAAAAJ&sortby=pubdate" target="_blank" rel="noopener">
+      Google Scholar
+    </a>
+  </p>
+
+  {{ range sort .Pages "Params.date" "desc" }}
+  <div class="media stream-item view-citation" style="margin-bottom: 1.5rem;">
+    <div class="media-body">
+
+      {{/* Title */}}
+      <div class="section-subheading article-title mb-0 mt-0">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+
+      {{/* Authors */}}
+      {{ with .Params.authors }}
+      <div class="article-metadata">
+        {{ delimit . ", " }}
+      </div>
+      {{ end }}
+
+      {{/* Venue + Year + Citations */}}
+      <div class="stream-meta article-metadata" style="margin-top: 0.25rem;">
+        {{ with .Params.publication }}
+          <em>{{ . }}</em>
+        {{ end }}
+        {{ with .Date }}
+          {{ if .Year }}&middot; {{ .Year }}{{ end }}
+        {{ end }}
+        {{ if .Params.citation_count }}
+          &middot;
+          <span class="badge badge-pill badge-light" title="Citations on Google Scholar">
+            {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
+          </span>
+        {{ end }}
+      </div>
+
+      {{/* Abstract snippet */}}
+      {{ with .Params.abstract }}
+      <p class="article-description" style="margin-top: 0.5rem; color: #555;">
+        {{ . | truncate 220 }}
+      </p>
+      {{ end }}
+
+    </div>
+  </div>
+  {{ end }}
+
+</div>
+{{ end }}

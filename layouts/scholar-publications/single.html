@@ -1,0 +1,57 @@
+{{ define "main" }}
+<div class="universal-wrapper pt-3 container-fluid">
+
+  {{/* Back link */}}
+  <p>
+    <a href="{{ "/scholar-publications/" | relURL }}">&larr; All Publications</a>
+  </p>
+
+  <h1 class="pub-title">{{ .Title }}</h1>
+
+  {{/* Authors */}}
+  {{ with .Params.authors }}
+  <div class="article-metadata" style="margin-top: 0.5rem;">
+    {{ delimit . ", " }}
+  </div>
+  {{ end }}
+
+  {{/* Venue + Year + Citations */}}
+  <div class="article-metadata" style="margin-top: 0.25rem;">
+    {{ with .Params.publication }}
+      <em>{{ . }}</em>
+    {{ end }}
+    {{ with .Date }}
+      {{ if .Year }}&middot; {{ .Year }}{{ end }}
+    {{ end }}
+    {{ if .Params.citation_count }}
+      &middot;
+      <span class="badge badge-pill badge-light" title="Citations on Google Scholar">
+        {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
+      </span>
+    {{ end }}
+  </div>
+
+  {{/* Abstract */}}
+  {{ with .Params.abstract }}
+  <div style="margin-top: 1.5rem;">
+    <h3>Abstract</h3>
+    <p>{{ . }}</p>
+  </div>
+  {{ end }}
+
+  {{/* External links */}}
+  <div style="margin-top: 1.5rem;">
+    {{ with .Params.scholar_url }}
+    <a href="{{ . }}" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">
+      View on Google Scholar
+    </a>
+    {{ end }}
+    {{ with .Params.eprint_url }}
+    <a href="{{ . }}" class="btn btn-outline-primary btn-sm ml-1" target="_blank" rel="noopener">
+      PDF / Preprint
+    </a>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}
