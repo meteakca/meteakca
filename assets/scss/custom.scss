@@ -3,16 +3,13 @@
 // Mete Akcaoglu — Professor of Instructional Technology
 //
 // Brand Colors:
-//   GS Blue   Pantone 281 CVC → #002B7F
+//   GS Blue    Pantone 281 CVC → #002B7F
 //   Eagle Gold Pantone 872 CVC → #C5A84E
-//
-// Aesthetic: Editorial academic — clean floating card layout,
-// bold serif display headings, warm off-white ground.
 // ============================================================
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap');
 
-// ── Palette ──────────────────────────────────────────────────
+// ── Static brand constants ─────────────────────────────────────
 :root {
   --gs-blue:        #002B7F;
   --gs-blue-dark:   #001852;
@@ -23,27 +20,83 @@
   --gs-gold-light:  #DCC97C;
   --gs-gold-faint:  #FAF5E8;
 
-  --bg:             #F5F3EE;
-  --card-bg:        #FFFFFF;
-  --text:           #1A1A1A;
-  --text-mid:       #3D3D3D;
-  --text-muted:     #7A7878;
-  --border:         #E3E0D8;
-  --shadow-sm:      0 2px 8px rgba(0,0,0,0.06);
-  --shadow-md:      0 6px 24px rgba(0,0,0,0.09);
-  --shadow-lg:      0 12px 40px rgba(0,0,0,0.12);
-
-  // Wowchemy primary override
-  --color-primary:        var(--gs-blue);
-  --color-primary-dark:   var(--gs-blue-dark);
-  --color-primary-light:  var(--gs-blue-pale);
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.06);
+  --shadow-md: 0 6px 24px rgba(0,0,0,0.09);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.12);
 }
 
-// ── Global Typography ─────────────────────────────────────────
+// ── Light mode semantic tokens (default) ──────────────────────
+:root {
+  --bg:              #F5F3EE;
+  --card-bg:         #FFFFFF;
+  --body-color:      #1A1A1A;
+  --text-mid:        #3D3D3D;
+  --text-muted:      #6B6969;
+  --border:          #E3E0D8;
+
+  --name-color:      #002B7F;    // portrait name
+  --heading-color:   #1A1A1A;
+  --link-color:      #002B7F;
+  --link-hover:      #9E832D;
+  --section-heading-color: #1A1A1A;
+
+  --navbar-bg:       #FFFFFF;
+  --navbar-border:   #002B7F;
+  --navbar-link:     #3D3D3D;
+  --navbar-link-hover: #002B7F;
+  --navbar-brand:    #002B7F;
+
+  --social-bg:       #E8EDF8;
+  --social-color:    #002B7F;
+  --tag-bg:          #E8EDF8;
+  --tag-color:       #002B7F;
+
+  --input-bg:        #F5F3EE;
+  --input-color:     #1A1A1A;
+  --input-border:    #E3E0D8;
+}
+
+// ── Dark mode semantic tokens ─────────────────────────────────
+// Wowchemy v5 applies dark class to <html>
+html.dark {
+  --bg:              #0E1520;
+  --card-bg:         #182030;
+  --body-color:      #DCD9D3;
+  --text-mid:        #B8B5AE;
+  --text-muted:      #7A7870;
+  --border:          rgba(255,255,255,0.09);
+
+  --name-color:      #DCC97C;    // gold in dark mode — readable
+  --heading-color:   #EDE9E0;
+  --link-color:      #DCC97C;
+  --link-hover:      #C5A84E;
+  --section-heading-color: #EDE9E0;
+
+  --navbar-bg:       #101825;
+  --navbar-border:   #C5A84E;
+  --navbar-link:     #B8B5AE;
+  --navbar-link-hover: #DCC97C;
+  --navbar-brand:    #DCC97C;
+
+  --social-bg:       rgba(197,168,78,0.14);
+  --social-color:    #DCC97C;
+  --tag-bg:          rgba(197,168,78,0.12);
+  --tag-color:       #DCC97C;
+
+  --input-bg:        #0E1520;
+  --input-color:     #DCD9D3;
+  --input-border:    rgba(255,255,255,0.12);
+
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.25);
+  --shadow-md: 0 6px 24px rgba(0,0,0,0.35);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.45);
+}
+
+// ── Global ────────────────────────────────────────────────────
 body {
   font-family: 'DM Sans', sans-serif !important;
   background-color: var(--bg) !important;
-  color: var(--text) !important;
+  color: var(--body-color) !important;
   font-size: 16px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
@@ -55,47 +108,51 @@ h1, h2, h3, h4, h5, h6,
 .section-heading h2 {
   font-family: 'Playfair Display', serif !important;
   font-weight: 700;
-  color: var(--text) !important;
+  color: var(--heading-color) !important;
   letter-spacing: -0.02em;
   line-height: 1.2;
 }
 
 a {
-  color: var(--gs-blue) !important;
-  transition: color 0.2s ease, opacity 0.2s ease;
-  &:hover { color: var(--gs-gold-dark) !important; opacity: 1; }
+  color: var(--link-color) !important;
+  transition: color 0.2s ease;
+  &:hover { color: var(--link-hover) !important; }
+}
+
+p, li, td, th, span, div {
+  color: inherit;
 }
 
 // ── Navbar ────────────────────────────────────────────────────
 .navbar {
-  background: var(--card-bg) !important;
+  background: var(--navbar-bg) !important;
   box-shadow: 0 1px 0 var(--border), var(--shadow-sm) !important;
   padding: 0.6rem 0 !important;
-  border-bottom: 2px solid var(--gs-blue) !important;
+  border-bottom: 2px solid var(--navbar-border) !important;
 
   .navbar-brand {
     font-family: 'Playfair Display', serif !important;
     font-weight: 900;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     letter-spacing: -0.01em;
-    color: var(--gs-blue) !important;
+    color: var(--navbar-brand) !important;
+  }
 
-    // Circle avatar replacement
-    .avatar {
-      width: 34px !important;
-      height: 34px !important;
-      border: 2px solid var(--gs-gold) !important;
-      border-radius: 50% !important;
-    }
+  // Avatar ring
+  .avatar {
+    width: 34px !important;
+    height: 34px !important;
+    border: 2px solid var(--gs-gold) !important;
+    border-radius: 50% !important;
   }
 
   .nav-link {
     font-family: 'DM Sans', sans-serif !important;
-    font-size: 0.8rem !important;
-    font-weight: 500 !important;
-    letter-spacing: 0.06em !important;
+    font-size: 0.78rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em !important;
     text-transform: uppercase !important;
-    color: var(--text-mid) !important;
+    color: var(--navbar-link) !important;
     padding: 0.4rem 1rem !important;
     position: relative;
 
@@ -112,33 +169,34 @@ a {
     }
 
     &:hover, &.active {
-      color: var(--gs-blue) !important;
+      color: var(--navbar-link-hover) !important;
       &::after { transform: scaleX(1); }
     }
   }
 
-  // Theme toggle & search icons
+  // Theme toggle & search icons — inherit from nav context
   .nav-item .btn,
-  .js-search { color: var(--text-mid) !important; }
+  .js-search { color: var(--navbar-link) !important; }
 }
 
-// ── Page Layout ───────────────────────────────────────────────
+// ── Page background ───────────────────────────────────────────
 .page-body { background: var(--bg) !important; }
 
-// Wrap main page sections in a clean card
+// ── Home sections — floating card look ───────────────────────
 .home-section {
   background: var(--card-bg) !important;
+  color: var(--body-color) !important;
   border-radius: 12px !important;
   box-shadow: var(--shadow-md) !important;
   margin: 1.5rem auto !important;
   max-width: 960px !important;
   padding: 3rem 3.5rem !important;
   border: 1px solid var(--border) !important;
+  position: relative;
 
   &:first-of-type { margin-top: 2rem !important; }
 
-  // Gold accent bar on left of each section
-  position: relative;
+  // Gold accent bar on left
   &::before {
     content: '';
     position: absolute;
@@ -149,17 +207,20 @@ a {
     background: var(--gs-gold);
     border-radius: 0 2px 2px 0;
   }
+
+  // All text inside a section inherits the card's readable color
+  p, li, span, td, th, label {
+    color: var(--body-color);
+  }
 }
 
-// Override the default full-width blue section backgrounds
-.home-section.dark,
-.home-section.bg-primary {
-  background: var(--gs-blue) !important;
-  border-color: var(--gs-blue-dark) !important;
-
-  h1, h2, h3, h4, p, span { color: #fff !important; }
-  a { color: var(--gs-gold-light) !important; }
-  &::before { background: var(--gs-gold); }
+// Wowchemy sometimes adds .dark class to sections — override it
+.home-section.dark {
+  background: var(--card-bg) !important;
+  color: var(--body-color) !important;
+  h1, h2, h3, h4, h5, h6 { color: var(--heading-color) !important; }
+  p { color: var(--body-color) !important; }
+  a { color: var(--link-color) !important; }
 }
 
 // ── Section Headings ──────────────────────────────────────────
@@ -167,10 +228,8 @@ a {
   h1, h2 {
     font-size: 2.2rem !important;
     font-weight: 900 !important;
-    color: var(--text) !important;
+    color: var(--section-heading-color) !important;
     margin-bottom: 0.25rem !important;
-
-    // Gold underline
     display: inline-block;
     padding-bottom: 0.4rem;
     border-bottom: 3px solid var(--gs-gold);
@@ -181,87 +240,103 @@ a {
     font-size: 0.95rem !important;
     color: var(--text-muted) !important;
     font-weight: 400 !important;
-    letter-spacing: 0.01em;
   }
 }
 
 // ── About / Biography ─────────────────────────────────────────
 #about {
-  .article-header-avatar {
-    img, .avatar {
-      border: 3px solid var(--gs-gold) !important;
-      border-radius: 50% !important;
-      box-shadow: 0 0 0 6px rgba(197, 168, 78, 0.15) !important;
-    }
+  .article-header-avatar img,
+  #about .avatar {
+    border: 3px solid var(--gs-gold) !important;
+    border-radius: 50% !important;
+    box-shadow: 0 0 0 6px rgba(197,168,78,0.15) !important;
   }
 
   .portrait-title {
     h2 {
       font-family: 'Playfair Display', serif !important;
-      font-size: 1.9rem !important;
+      font-size: 1.8rem !important;
       font-weight: 700 !important;
-      color: var(--gs-blue) !important;
+      color: var(--name-color) !important;
       letter-spacing: -0.02em;
+      line-height: 1.2;
     }
     h3 {
       font-family: 'DM Sans', sans-serif !important;
-      font-size: 0.95rem !important;
-      font-weight: 500 !important;
+      font-size: 0.85rem !important;
+      font-weight: 600 !important;
       color: var(--text-muted) !important;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.1em;
     }
-  }
-
-  // Social icons row
-  .social-icons {
+    // Organisation link (e.g. "Georgia Southern University")
     a {
-      color: var(--gs-blue) !important;
-      background: var(--gs-blue-pale) !important;
-      border-radius: 8px !important;
-      padding: 6px 8px !important;
-      margin: 2px !important;
-      transition: background 0.2s, color 0.2s;
-      &:hover {
-        background: var(--gs-blue) !important;
-        color: #fff !important;
-      }
+      color: var(--link-color) !important;
+      &:hover { color: var(--link-hover) !important; }
     }
   }
 
-  // Biography text
+  // Social icons
+  .social-icons a {
+    color: var(--social-color) !important;
+    background: var(--social-bg) !important;
+    border-radius: 8px !important;
+    padding: 6px 8px !important;
+    margin: 2px !important;
+    transition: background 0.2s, color 0.2s;
+    &:hover {
+      background: var(--gs-gold) !important;
+      color: #fff !important;
+    }
+  }
+
+  // Biography paragraph
   .article-style {
     font-size: 1rem !important;
     line-height: 1.8 !important;
     color: var(--text-mid) !important;
+    p { color: var(--text-mid) !important; }
+    a { color: var(--link-color) !important; }
   }
 
-  // Interests & Education columns
+  // Interests & Education lists
   .col-md-5 {
+    h3 {
+      font-family: 'Playfair Display', serif !important;
+      font-size: 1.1rem !important;
+      font-weight: 700 !important;
+      color: var(--heading-color) !important;
+      border-bottom: 2px solid var(--gs-gold);
+      padding-bottom: 0.3rem;
+      margin-bottom: 0.75rem;
+    }
+
     ul { padding-left: 0; list-style: none; }
     li {
-      padding: 0.25rem 0;
-      padding-left: 1.2rem;
+      padding: 0.25rem 0 0.25rem 1.25rem;
       position: relative;
       font-size: 0.9rem;
-      color: var(--text-mid);
+      color: var(--text-mid) !important;
       &::before {
         content: '◆';
         position: absolute;
         left: 0;
         color: var(--gs-gold);
-        font-size: 0.45rem;
-        top: 0.55rem;
+        font-size: 0.4rem;
+        top: 0.58rem;
       }
+    }
+
+    // Education item details
+    .course, .institution, .year {
+      color: var(--text-mid) !important;
     }
   }
 }
 
 // ── Experience Widget ─────────────────────────────────────────
 .experience-widget {
-  .exp-fill {
-    background: var(--gs-blue) !important;
-  }
+  .exp-fill { background: var(--gs-blue) !important; }
 
   .experience-item {
     .card {
@@ -271,7 +346,6 @@ a {
       box-shadow: var(--shadow-sm) !important;
       padding: 1.25rem 1.5rem !important;
       transition: box-shadow 0.2s, transform 0.2s;
-
       &:hover {
         box-shadow: var(--shadow-md) !important;
         transform: translateY(-2px);
@@ -282,43 +356,40 @@ a {
       font-family: 'Playfair Display', serif !important;
       font-weight: 700 !important;
       font-size: 1.05rem !important;
-      color: var(--text) !important;
-      margin-bottom: 0.2rem !important;
+      color: var(--heading-color) !important;
     }
 
-    // Company link
     a {
+      color: var(--link-color) !important;
       font-weight: 500 !important;
-      color: var(--gs-blue) !important;
       font-size: 0.9rem;
     }
 
-    // Date range
     .date-range, time {
-      font-family: 'DM Sans', sans-serif !important;
       font-size: 0.78rem !important;
       color: var(--text-muted) !important;
       font-weight: 500;
       letter-spacing: 0.04em;
     }
+
+    p, li { color: var(--text-mid) !important; }
   }
 
-  // Timeline line
   .border-left {
     border-left-color: var(--gs-gold) !important;
     border-left-width: 2px !important;
   }
 
-  // Timeline dot
-  .badge-primary, .dot {
+  .badge-primary {
     background-color: var(--gs-gold) !important;
     border-color: var(--gs-gold) !important;
   }
 }
 
-// ── Cards (Publications, Projects, Posts) ─────────────────────
+// ── Cards ─────────────────────────────────────────────────────
 .card {
   background: var(--card-bg) !important;
+  color: var(--body-color) !important;
   border: 1px solid var(--border) !important;
   border-radius: 10px !important;
   box-shadow: var(--shadow-sm) !important;
@@ -344,39 +415,31 @@ a {
   .article-title, h3.article-title {
     font-size: 1.1rem !important;
     font-weight: 700 !important;
+    color: var(--heading-color) !important;
     line-height: 1.3 !important;
     margin-bottom: 0.6rem !important;
   }
+
+  p { color: var(--text-mid) !important; }
 }
 
-// Featured post (large card at top)
-.article-card-simple {
-  .featured-image-wrapper {
-    border-radius: 8px !important;
-    overflow: hidden !important;
-  }
-}
-
-// Post card thumbnail placeholder (gradient like the reference)
-.article-card {
-  .featured-image {
-    background: linear-gradient(135deg, var(--gs-blue-mid) 0%, var(--gs-blue) 50%, var(--gs-gold-dark) 100%) !important;
-    min-height: 160px;
-  }
+// Post thumbnail gradient fallback
+.article-card .featured-image {
+  background: linear-gradient(135deg, var(--gs-blue-mid) 0%, var(--gs-blue) 60%, var(--gs-gold-dark) 100%) !important;
+  min-height: 160px;
 }
 
 // ── Publication List ──────────────────────────────────────────
 .pub-list-item {
   padding: 1.25rem 0 !important;
   border-bottom: 1px solid var(--border) !important;
-
   &:last-child { border-bottom: none !important; }
 
   .pub-title {
     font-family: 'Playfair Display', serif !important;
     font-weight: 600 !important;
     font-size: 1rem !important;
-    color: var(--text) !important;
+    color: var(--heading-color) !important;
     line-height: 1.4 !important;
   }
 
@@ -417,16 +480,16 @@ a {
 }
 
 .btn-outline-primary {
-  color: var(--gs-blue) !important;
-  border-color: var(--gs-blue) !important;
+  color: var(--link-color) !important;
+  border-color: var(--link-color) !important;
   background: transparent !important;
   &:hover {
     background: var(--gs-blue) !important;
     color: #fff !important;
+    border-color: var(--gs-blue) !important;
   }
 }
 
-// Gold call-to-action variant
 .btn-light {
   background: var(--gs-gold-faint) !important;
   border-color: var(--gs-gold) !important;
@@ -443,31 +506,29 @@ a {
 
 // ── Tags / Badges ─────────────────────────────────────────────
 .badge-light, .badge {
-  background: var(--gs-blue-pale) !important;
-  color: var(--gs-blue) !important;
+  background: var(--tag-bg) !important;
+  color: var(--tag-color) !important;
   border-radius: 4px !important;
   font-weight: 600 !important;
   font-size: 0.7rem !important;
   letter-spacing: 0.04em !important;
 }
 
-// Skill/interest tags
-.tag-cloud .tag,
-a.tag {
-  background: var(--gs-blue-pale) !important;
-  color: var(--gs-blue) !important;
+.tag-cloud .tag, a.tag {
+  background: var(--tag-bg) !important;
+  color: var(--tag-color) !important;
   border-radius: 4px !important;
   padding: 0.2rem 0.6rem !important;
   font-size: 0.78rem !important;
   font-weight: 500 !important;
   transition: background 0.2s, color 0.2s;
   &:hover {
-    background: var(--gs-blue) !important;
+    background: var(--gs-gold) !important;
     color: #fff !important;
   }
 }
 
-// ── Contact Section ───────────────────────────────────────────
+// ── Contact ───────────────────────────────────────────────────
 .contact-widget {
   li {
     font-size: 0.9rem !important;
@@ -477,7 +538,6 @@ a.tag {
   }
 }
 
-// Contact form
 .form-group {
   label {
     font-size: 0.78rem !important;
@@ -487,9 +547,10 @@ a.tag {
     color: var(--text-muted) !important;
   }
   .form-control {
-    border: 1px solid var(--border) !important;
+    border: 1px solid var(--input-border) !important;
     border-radius: 6px !important;
-    background: var(--bg) !important;
+    background: var(--input-bg) !important;
+    color: var(--input-color) !important;
     font-family: 'DM Sans', sans-serif !important;
     font-size: 0.9rem !important;
     &:focus {
@@ -502,35 +563,18 @@ a.tag {
 // ── Footer ────────────────────────────────────────────────────
 .page-footer {
   background: var(--gs-blue) !important;
-  color: rgba(255,255,255,0.7) !important;
+  border-top: 3px solid var(--gs-gold) !important;
   padding: 2rem 0 !important;
   margin-top: 3rem !important;
 
-  p, a {
-    color: rgba(255,255,255,0.65) !important;
-    font-size: 0.82rem !important;
-  }
-
+  p, a, span { color: rgba(255,255,255,0.65) !important; font-size: 0.82rem !important; }
   a:hover { color: var(--gs-gold-light) !important; }
-
-  // Gold accent line at top
-  border-top: 3px solid var(--gs-gold) !important;
-}
-
-// ── Featured Hero Section ─────────────────────────────────────
-.hero-title {
-  font-family: 'Playfair Display', serif !important;
-  font-weight: 900 !important;
-  font-size: 3.5rem !important;
-  color: var(--gs-blue) !important;
-  line-height: 1.1 !important;
-  letter-spacing: -0.03em !important;
 }
 
 // ── Scholar Publications ──────────────────────────────────────
 .scholar-publications-widget,
 #scholar-publications {
-  table, .pub-table {
+  table {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0 6px;
@@ -554,64 +598,27 @@ a.tag {
   }
 }
 
-// ── Dark Mode Adjustments ─────────────────────────────────────
-.dark {
-  body { background: #0F1621 !important; }
-  .home-section {
-    background: #1A2333 !important;
-    border-color: rgba(255,255,255,0.08) !important;
-    &::before { background: var(--gs-gold); }
-  }
-  .card {
-    background: #1A2333 !important;
-    border-color: rgba(255,255,255,0.08) !important;
-  }
-  .section-heading h1, .section-heading h2 {
-    color: #F0EFEB !important;
-  }
-  h1, h2, h3, h4, h5, h6 { color: #F0EFEB !important; }
-  .portrait-title h2 { color: var(--gs-gold-light) !important; }
-  .navbar {
-    background: #141E2E !important;
-    border-bottom-color: var(--gs-gold-dark) !important;
-  }
-  .form-control {
-    background: #0F1621 !important;
-    color: #F0EFEB !important;
-    border-color: rgba(255,255,255,0.1) !important;
-  }
-  .pub-list-item { border-bottom-color: rgba(255,255,255,0.08) !important; }
-}
-
 // ── Utility ───────────────────────────────────────────────────
-// Smooth all page transitions
 *, *::before, *::after { box-sizing: border-box; }
 
-// Consistent scrollbar
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: var(--bg); }
 ::-webkit-scrollbar-thumb {
   background: var(--gs-blue);
   border-radius: 3px;
-  &:hover { background: var(--gs-gold); }
 }
+::-webkit-scrollbar-thumb:hover { background: var(--gs-gold); }
 
-// Selection highlight
-::selection {
-  background: var(--gs-blue);
-  color: #fff;
-}
+::selection { background: var(--gs-blue); color: #fff; }
 
-// ── Responsive Adjustments ────────────────────────────────────
+// ── Responsive ────────────────────────────────────────────────
 @media (max-width: 768px) {
   .home-section {
     padding: 2rem 1.5rem !important;
     border-radius: 8px !important;
-    margin: 1rem !important;
+    margin: 1rem 0.75rem !important;
     &::before { top: 2rem; height: 2rem; }
   }
-
-  .hero-title { font-size: 2.5rem !important; }
 
   .section-heading h1, .section-heading h2 {
     font-size: 1.8rem !important;
