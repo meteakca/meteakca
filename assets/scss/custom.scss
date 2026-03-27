@@ -1,0 +1,626 @@
+// ============================================================
+// Georgia Southern University Academic Theme
+// Mete Akcaoglu — Professor of Instructional Technology
+//
+// Brand Colors:
+//   GS Blue   Pantone 281 CVC → #002B7F
+//   Eagle Gold Pantone 872 CVC → #C5A84E
+//
+// Aesthetic: Editorial academic — clean floating card layout,
+// bold serif display headings, warm off-white ground.
+// ============================================================
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap');
+
+// ── Palette ──────────────────────────────────────────────────
+:root {
+  --gs-blue:        #002B7F;
+  --gs-blue-dark:   #001852;
+  --gs-blue-mid:    #0A3A9E;
+  --gs-blue-pale:   #E8EDF8;
+  --gs-gold:        #C5A84E;
+  --gs-gold-dark:   #9E832D;
+  --gs-gold-light:  #DCC97C;
+  --gs-gold-faint:  #FAF5E8;
+
+  --bg:             #F5F3EE;
+  --card-bg:        #FFFFFF;
+  --text:           #1A1A1A;
+  --text-mid:       #3D3D3D;
+  --text-muted:     #7A7878;
+  --border:         #E3E0D8;
+  --shadow-sm:      0 2px 8px rgba(0,0,0,0.06);
+  --shadow-md:      0 6px 24px rgba(0,0,0,0.09);
+  --shadow-lg:      0 12px 40px rgba(0,0,0,0.12);
+
+  // Wowchemy primary override
+  --color-primary:        var(--gs-blue);
+  --color-primary-dark:   var(--gs-blue-dark);
+  --color-primary-light:  var(--gs-blue-pale);
+}
+
+// ── Global Typography ─────────────────────────────────────────
+body {
+  font-family: 'DM Sans', sans-serif !important;
+  background-color: var(--bg) !important;
+  color: var(--text) !important;
+  font-size: 16px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6,
+.article-title,
+.section-heading h1,
+.section-heading h2 {
+  font-family: 'Playfair Display', serif !important;
+  font-weight: 700;
+  color: var(--text) !important;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+a {
+  color: var(--gs-blue) !important;
+  transition: color 0.2s ease, opacity 0.2s ease;
+  &:hover { color: var(--gs-gold-dark) !important; opacity: 1; }
+}
+
+// ── Navbar ────────────────────────────────────────────────────
+.navbar {
+  background: var(--card-bg) !important;
+  box-shadow: 0 1px 0 var(--border), var(--shadow-sm) !important;
+  padding: 0.6rem 0 !important;
+  border-bottom: 2px solid var(--gs-blue) !important;
+
+  .navbar-brand {
+    font-family: 'Playfair Display', serif !important;
+    font-weight: 900;
+    font-size: 1.1rem;
+    letter-spacing: -0.01em;
+    color: var(--gs-blue) !important;
+
+    // Circle avatar replacement
+    .avatar {
+      width: 34px !important;
+      height: 34px !important;
+      border: 2px solid var(--gs-gold) !important;
+      border-radius: 50% !important;
+    }
+  }
+
+  .nav-link {
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.8rem !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    color: var(--text-mid) !important;
+    padding: 0.4rem 1rem !important;
+    position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 1rem;
+      right: 1rem;
+      height: 2px;
+      background: var(--gs-gold);
+      transform: scaleX(0);
+      transition: transform 0.2s ease;
+    }
+
+    &:hover, &.active {
+      color: var(--gs-blue) !important;
+      &::after { transform: scaleX(1); }
+    }
+  }
+
+  // Theme toggle & search icons
+  .nav-item .btn,
+  .js-search { color: var(--text-mid) !important; }
+}
+
+// ── Page Layout ───────────────────────────────────────────────
+.page-body { background: var(--bg) !important; }
+
+// Wrap main page sections in a clean card
+.home-section {
+  background: var(--card-bg) !important;
+  border-radius: 12px !important;
+  box-shadow: var(--shadow-md) !important;
+  margin: 1.5rem auto !important;
+  max-width: 960px !important;
+  padding: 3rem 3.5rem !important;
+  border: 1px solid var(--border) !important;
+
+  &:first-of-type { margin-top: 2rem !important; }
+
+  // Gold accent bar on left of each section
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    width: 4px;
+    height: 2.5rem;
+    background: var(--gs-gold);
+    border-radius: 0 2px 2px 0;
+  }
+}
+
+// Override the default full-width blue section backgrounds
+.home-section.dark,
+.home-section.bg-primary {
+  background: var(--gs-blue) !important;
+  border-color: var(--gs-blue-dark) !important;
+
+  h1, h2, h3, h4, p, span { color: #fff !important; }
+  a { color: var(--gs-gold-light) !important; }
+  &::before { background: var(--gs-gold); }
+}
+
+// ── Section Headings ──────────────────────────────────────────
+.section-heading {
+  h1, h2 {
+    font-size: 2.2rem !important;
+    font-weight: 900 !important;
+    color: var(--text) !important;
+    margin-bottom: 0.25rem !important;
+
+    // Gold underline
+    display: inline-block;
+    padding-bottom: 0.4rem;
+    border-bottom: 3px solid var(--gs-gold);
+  }
+
+  p.section-subheading {
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.95rem !important;
+    color: var(--text-muted) !important;
+    font-weight: 400 !important;
+    letter-spacing: 0.01em;
+  }
+}
+
+// ── About / Biography ─────────────────────────────────────────
+#about {
+  .article-header-avatar {
+    img, .avatar {
+      border: 3px solid var(--gs-gold) !important;
+      border-radius: 50% !important;
+      box-shadow: 0 0 0 6px rgba(197, 168, 78, 0.15) !important;
+    }
+  }
+
+  .portrait-title {
+    h2 {
+      font-family: 'Playfair Display', serif !important;
+      font-size: 1.9rem !important;
+      font-weight: 700 !important;
+      color: var(--gs-blue) !important;
+      letter-spacing: -0.02em;
+    }
+    h3 {
+      font-family: 'DM Sans', sans-serif !important;
+      font-size: 0.95rem !important;
+      font-weight: 500 !important;
+      color: var(--text-muted) !important;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+  }
+
+  // Social icons row
+  .social-icons {
+    a {
+      color: var(--gs-blue) !important;
+      background: var(--gs-blue-pale) !important;
+      border-radius: 8px !important;
+      padding: 6px 8px !important;
+      margin: 2px !important;
+      transition: background 0.2s, color 0.2s;
+      &:hover {
+        background: var(--gs-blue) !important;
+        color: #fff !important;
+      }
+    }
+  }
+
+  // Biography text
+  .article-style {
+    font-size: 1rem !important;
+    line-height: 1.8 !important;
+    color: var(--text-mid) !important;
+  }
+
+  // Interests & Education columns
+  .col-md-5 {
+    ul { padding-left: 0; list-style: none; }
+    li {
+      padding: 0.25rem 0;
+      padding-left: 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: var(--text-mid);
+      &::before {
+        content: '◆';
+        position: absolute;
+        left: 0;
+        color: var(--gs-gold);
+        font-size: 0.45rem;
+        top: 0.55rem;
+      }
+    }
+  }
+}
+
+// ── Experience Widget ─────────────────────────────────────────
+.experience-widget {
+  .exp-fill {
+    background: var(--gs-blue) !important;
+  }
+
+  .experience-item {
+    .card {
+      background: var(--card-bg) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 10px !important;
+      box-shadow: var(--shadow-sm) !important;
+      padding: 1.25rem 1.5rem !important;
+      transition: box-shadow 0.2s, transform 0.2s;
+
+      &:hover {
+        box-shadow: var(--shadow-md) !important;
+        transform: translateY(-2px);
+      }
+    }
+
+    h4 {
+      font-family: 'Playfair Display', serif !important;
+      font-weight: 700 !important;
+      font-size: 1.05rem !important;
+      color: var(--text) !important;
+      margin-bottom: 0.2rem !important;
+    }
+
+    // Company link
+    a {
+      font-weight: 500 !important;
+      color: var(--gs-blue) !important;
+      font-size: 0.9rem;
+    }
+
+    // Date range
+    .date-range, time {
+      font-family: 'DM Sans', sans-serif !important;
+      font-size: 0.78rem !important;
+      color: var(--text-muted) !important;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+    }
+  }
+
+  // Timeline line
+  .border-left {
+    border-left-color: var(--gs-gold) !important;
+    border-left-width: 2px !important;
+  }
+
+  // Timeline dot
+  .badge-primary, .dot {
+    background-color: var(--gs-gold) !important;
+    border-color: var(--gs-gold) !important;
+  }
+}
+
+// ── Cards (Publications, Projects, Posts) ─────────────────────
+.card {
+  background: var(--card-bg) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  box-shadow: var(--shadow-sm) !important;
+  transition: box-shadow 0.25s ease, transform 0.25s ease !important;
+  overflow: hidden !important;
+
+  &:hover {
+    box-shadow: var(--shadow-lg) !important;
+    transform: translateY(-3px) !important;
+  }
+
+  .card-body { padding: 1.4rem !important; }
+
+  .article-metadata {
+    font-size: 0.75rem !important;
+    color: var(--text-muted) !important;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem !important;
+  }
+
+  .article-title, h3.article-title {
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    line-height: 1.3 !important;
+    margin-bottom: 0.6rem !important;
+  }
+}
+
+// Featured post (large card at top)
+.article-card-simple {
+  .featured-image-wrapper {
+    border-radius: 8px !important;
+    overflow: hidden !important;
+  }
+}
+
+// Post card thumbnail placeholder (gradient like the reference)
+.article-card {
+  .featured-image {
+    background: linear-gradient(135deg, var(--gs-blue-mid) 0%, var(--gs-blue) 50%, var(--gs-gold-dark) 100%) !important;
+    min-height: 160px;
+  }
+}
+
+// ── Publication List ──────────────────────────────────────────
+.pub-list-item {
+  padding: 1.25rem 0 !important;
+  border-bottom: 1px solid var(--border) !important;
+
+  &:last-child { border-bottom: none !important; }
+
+  .pub-title {
+    font-family: 'Playfair Display', serif !important;
+    font-weight: 600 !important;
+    font-size: 1rem !important;
+    color: var(--text) !important;
+    line-height: 1.4 !important;
+  }
+
+  .article-metadata {
+    font-size: 0.8rem !important;
+    color: var(--text-muted) !important;
+  }
+
+  .btn {
+    font-size: 0.72rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    border-radius: 4px !important;
+    padding: 0.2rem 0.6rem !important;
+  }
+}
+
+// ── Buttons ───────────────────────────────────────────────────
+.btn-primary, .btn-outline-primary {
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 0.8rem !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+  border-radius: 6px !important;
+}
+
+.btn-primary {
+  background: var(--gs-blue) !important;
+  border-color: var(--gs-blue) !important;
+  color: #fff !important;
+  &:hover {
+    background: var(--gs-blue-dark) !important;
+    border-color: var(--gs-blue-dark) !important;
+    box-shadow: 0 4px 12px rgba(0,43,127,0.3) !important;
+  }
+}
+
+.btn-outline-primary {
+  color: var(--gs-blue) !important;
+  border-color: var(--gs-blue) !important;
+  background: transparent !important;
+  &:hover {
+    background: var(--gs-blue) !important;
+    color: #fff !important;
+  }
+}
+
+// Gold call-to-action variant
+.btn-light {
+  background: var(--gs-gold-faint) !important;
+  border-color: var(--gs-gold) !important;
+  color: var(--gs-gold-dark) !important;
+  font-weight: 600 !important;
+  font-size: 0.8rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  &:hover {
+    background: var(--gs-gold) !important;
+    color: #fff !important;
+  }
+}
+
+// ── Tags / Badges ─────────────────────────────────────────────
+.badge-light, .badge {
+  background: var(--gs-blue-pale) !important;
+  color: var(--gs-blue) !important;
+  border-radius: 4px !important;
+  font-weight: 600 !important;
+  font-size: 0.7rem !important;
+  letter-spacing: 0.04em !important;
+}
+
+// Skill/interest tags
+.tag-cloud .tag,
+a.tag {
+  background: var(--gs-blue-pale) !important;
+  color: var(--gs-blue) !important;
+  border-radius: 4px !important;
+  padding: 0.2rem 0.6rem !important;
+  font-size: 0.78rem !important;
+  font-weight: 500 !important;
+  transition: background 0.2s, color 0.2s;
+  &:hover {
+    background: var(--gs-blue) !important;
+    color: #fff !important;
+  }
+}
+
+// ── Contact Section ───────────────────────────────────────────
+.contact-widget {
+  li {
+    font-size: 0.9rem !important;
+    margin-bottom: 0.5rem !important;
+    color: var(--text-mid) !important;
+    i, svg { color: var(--gs-gold) !important; }
+  }
+}
+
+// Contact form
+.form-group {
+  label {
+    font-size: 0.78rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    color: var(--text-muted) !important;
+  }
+  .form-control {
+    border: 1px solid var(--border) !important;
+    border-radius: 6px !important;
+    background: var(--bg) !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.9rem !important;
+    &:focus {
+      border-color: var(--gs-blue) !important;
+      box-shadow: 0 0 0 3px var(--gs-blue-pale) !important;
+    }
+  }
+}
+
+// ── Footer ────────────────────────────────────────────────────
+.page-footer {
+  background: var(--gs-blue) !important;
+  color: rgba(255,255,255,0.7) !important;
+  padding: 2rem 0 !important;
+  margin-top: 3rem !important;
+
+  p, a {
+    color: rgba(255,255,255,0.65) !important;
+    font-size: 0.82rem !important;
+  }
+
+  a:hover { color: var(--gs-gold-light) !important; }
+
+  // Gold accent line at top
+  border-top: 3px solid var(--gs-gold) !important;
+}
+
+// ── Featured Hero Section ─────────────────────────────────────
+.hero-title {
+  font-family: 'Playfair Display', serif !important;
+  font-weight: 900 !important;
+  font-size: 3.5rem !important;
+  color: var(--gs-blue) !important;
+  line-height: 1.1 !important;
+  letter-spacing: -0.03em !important;
+}
+
+// ── Scholar Publications ──────────────────────────────────────
+.scholar-publications-widget,
+#scholar-publications {
+  table, .pub-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 6px;
+
+    tr {
+      background: var(--card-bg);
+      border-radius: 8px;
+      box-shadow: var(--shadow-sm);
+      transition: box-shadow 0.2s;
+      &:hover { box-shadow: var(--shadow-md); }
+
+      td {
+        padding: 0.8rem 1rem !important;
+        border: none !important;
+        font-size: 0.88rem !important;
+        color: var(--text-mid) !important;
+        &:first-child { border-radius: 8px 0 0 8px; }
+        &:last-child  { border-radius: 0 8px 8px 0; }
+      }
+    }
+  }
+}
+
+// ── Dark Mode Adjustments ─────────────────────────────────────
+.dark {
+  body { background: #0F1621 !important; }
+  .home-section {
+    background: #1A2333 !important;
+    border-color: rgba(255,255,255,0.08) !important;
+    &::before { background: var(--gs-gold); }
+  }
+  .card {
+    background: #1A2333 !important;
+    border-color: rgba(255,255,255,0.08) !important;
+  }
+  .section-heading h1, .section-heading h2 {
+    color: #F0EFEB !important;
+  }
+  h1, h2, h3, h4, h5, h6 { color: #F0EFEB !important; }
+  .portrait-title h2 { color: var(--gs-gold-light) !important; }
+  .navbar {
+    background: #141E2E !important;
+    border-bottom-color: var(--gs-gold-dark) !important;
+  }
+  .form-control {
+    background: #0F1621 !important;
+    color: #F0EFEB !important;
+    border-color: rgba(255,255,255,0.1) !important;
+  }
+  .pub-list-item { border-bottom-color: rgba(255,255,255,0.08) !important; }
+}
+
+// ── Utility ───────────────────────────────────────────────────
+// Smooth all page transitions
+*, *::before, *::after { box-sizing: border-box; }
+
+// Consistent scrollbar
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb {
+  background: var(--gs-blue);
+  border-radius: 3px;
+  &:hover { background: var(--gs-gold); }
+}
+
+// Selection highlight
+::selection {
+  background: var(--gs-blue);
+  color: #fff;
+}
+
+// ── Responsive Adjustments ────────────────────────────────────
+@media (max-width: 768px) {
+  .home-section {
+    padding: 2rem 1.5rem !important;
+    border-radius: 8px !important;
+    margin: 1rem !important;
+    &::before { top: 2rem; height: 2rem; }
+  }
+
+  .hero-title { font-size: 2.5rem !important; }
+
+  .section-heading h1, .section-heading h2 {
+    font-size: 1.8rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-section {
+    padding: 1.5rem 1rem !important;
+    margin: 0.75rem 0.5rem !important;
+  }
+}
