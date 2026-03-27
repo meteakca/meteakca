@@ -7,20 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Contact
-    url: '#contact'
-    weight: 20
-  - name: Research
-    url: "research/"
-    weight: 30
-  - name: Publications
-    url: "scholar-publications/"
-    weight: 40
-  - name: Blog
-    url: "blog/"
-    weight: 50
   - name: CV
     url: "cv/"
+    weight: 20
+  - name: Contact
+    url: '#contact'
+    weight: 30
+  - name: Research
+    url: "research/"
+    weight: 40
+  - name: Publications
+    url: "scholar-publications/"
+    weight: 50
+  - name: Blog
+    url: "blog/"
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
