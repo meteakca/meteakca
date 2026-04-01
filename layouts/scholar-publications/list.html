@@ -22,7 +22,7 @@
       {{ .Key }} <span class="text-muted" style="font-size: 0.9rem; font-weight: normal;">({{ len .Pages }})</span>
     </h2>
 
-    {{ range .Pages.ByParam "date" | reverse }}
+    {{ range sort .Pages "Params.date" "desc" }}
     {{ $citations := .Params.citation_count }}
     <div class="media stream-item view-citation" style="margin-bottom: 1.75rem;">
       <div class="media-body">
