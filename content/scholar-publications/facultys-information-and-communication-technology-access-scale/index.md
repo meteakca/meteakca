@@ -8,7 +8,7 @@ authors:
 - Malayna B. Bernstein
 apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoğlu, M., & Bernstein, M. B.
   (2019). Faculty's Information and Communication Technology Access Scale.
-publication_type: Other
+publication_type: Journal Articles
 date: '2019-01-01T00:00:00Z'
 citation_count: 0
 scholar_url: https://www.semanticscholar.org/paper/20976758016155e129b37a2a689017335173936b

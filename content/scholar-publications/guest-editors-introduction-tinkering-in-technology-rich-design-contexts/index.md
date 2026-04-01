@@ -5,7 +5,7 @@ authors:
 - Ugur Kale
 apa_citation: 'Akcaoğlu, M., & Kale, U. (2018). Guest Editors'' Introduction: Tinkering
   in Technology-Rich Design Contexts *Interdisciplinary Journal of Problem-based Learning*.'
-publication_type: Other
+publication_type: Journal Articles
 date: '2018-01-01T00:00:00Z'
 publication: Interdisciplinary Journal of Problem-based Learning
 citation_count: 0

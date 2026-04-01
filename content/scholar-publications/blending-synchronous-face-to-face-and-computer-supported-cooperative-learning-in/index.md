@@ -8,7 +8,7 @@ authors:
 apa_citation: Roseth, C. J., Akcaoğlu, M., & Zellner, A. (2013). Blending Synchronous
   Face-to-face and Computer-Supported Cooperative Learning in a Hybrid Doctoral Seminar
   *TechTrends*.
-publication_type: Other
+publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'
 publication: TechTrends
 citation_count: 99

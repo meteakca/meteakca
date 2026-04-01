@@ -8,7 +8,7 @@ authors:
 - Malayna B. Bernstein
 apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoğlu, M., & Bernstein, M. B.
   (2019). Motivation to Use ICT for Teaching Scale.
-publication_type: Other
+publication_type: Journal Articles
 date: '2019-01-01T00:00:00Z'
 citation_count: 1
 scholar_url: https://www.semanticscholar.org/paper/cd4ec9eacf1fa1946e7e3e4a6c76581f5f3bac8a

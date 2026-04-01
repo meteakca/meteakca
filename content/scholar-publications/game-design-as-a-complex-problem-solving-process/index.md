@@ -7,7 +7,7 @@ authors:
 - Philipp Sonnleitner
 apa_citation: Akcaoğlu, M., Gutierrez, A. P., Hodges, C. B., & Sonnleitner, P. (2016).
   Game Design as a Complex Problem Solving Process.
-publication_type: Other
+publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'
 citation_count: 15
 scholar_url: https://www.semanticscholar.org/paper/d69b34200e0071195db70e3916f6b182a12be33f
