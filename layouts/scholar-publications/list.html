@@ -27,15 +27,11 @@
       {{ end }}
 
       {{/* Venue + Year + Citations */}}
-      <div class="stream-meta article-metadata" style="margin-top: 0.25rem;">
-        {{ with .Params.publication }}
-          <em>{{ . }}</em>
-        {{ end }}
-        {{ with .Date }}
-          {{ if .Year }}&middot; {{ .Year }}{{ end }}
-        {{ end }}
+      <div class="article-metadata" style="margin-top: 0.25rem; display: flex; align-items: center; flex-wrap: wrap; gap: 0.3rem; text-align: left;">
+        {{ with .Params.publication }}<em>{{ . }}</em>{{ end }}
+        {{ with .Date }}{{ if .Year }}<span>&middot; {{ .Year }}</span>{{ end }}{{ end }}
         {{ if .Params.citation_count }}
-          &middot;
+          <span>&middot;</span>
           <span class="badge badge-pill badge-light" title="Citations on Semantic Scholar">
             {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
           </span>
