@@ -24,7 +24,7 @@ abstract: 'School closures during the COVID-19 pandemic have shown the importanc
   predicted social presence. We discuss the implications of these findings for teacher
   education programs, including a holistic approach to teaching online learning and
   instructional design.'
-citation_count: 12
+citation_count: 14
 scholar_url: https://www.semanticscholar.org/paper/5e3143b6abe23656f25293fdc7a0faef706e3657
 eprint_url: https://www.irrodl.org/index.php/irrodl/article/download/5717/5700
 doi: 10.19173/irrodl.v23i1.5717

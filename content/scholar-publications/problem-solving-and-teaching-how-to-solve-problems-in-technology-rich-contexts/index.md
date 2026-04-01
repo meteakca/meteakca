@@ -19,7 +19,7 @@ abstract: ABSTRACT Problem solving is perhaps the key characteristic that makes 
   of teaching problem solving. The strategies reviewed provide a tangible guidance
   for teacher education programs regarding how to promote future teachers’ problem-solving
   skills.
-citation_count: 9
+citation_count: 10
 scholar_url: https://www.semanticscholar.org/paper/5602013388b2e850bb1685bd04cb376ab19bfd79
 doi: 10.1080/0161956X.2020.1745612
 draft: false

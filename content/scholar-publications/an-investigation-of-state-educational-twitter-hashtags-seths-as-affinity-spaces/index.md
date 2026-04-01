@@ -8,7 +8,7 @@ authors:
 - E. Hamilton
 - Mete Akcaoğlu
 date: '2016-01-01T00:00:00Z'
-citation_count: 75
+citation_count: 76
 scholar_url: https://www.semanticscholar.org/paper/24399bf396fc9e2082739b7ba0eedfaf98139a0e
 doi: 10.1177/2042753016672351
 draft: false
