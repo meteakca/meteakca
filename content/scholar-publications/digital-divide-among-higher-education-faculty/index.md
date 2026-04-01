@@ -23,7 +23,7 @@ abstract: 'Digital divide centers on access to various dimensions of information
   shed light on the theoretical implications of the framework of successive kinds
   of ICT access suggested by van Dijk (The deepening divide: inequality in the information
   society, 2005).'
-citation_count: 164
+citation_count: 165
 scholar_url: https://www.semanticscholar.org/paper/de3cb50a65771d3672cbd375128b8b10c2f6326c
 eprint_url: https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-020-00191-5
 doi: 10.1186/s41239-020-00191-5
