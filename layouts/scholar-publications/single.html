@@ -8,24 +8,11 @@
 
   <h1 class="pub-title">{{ .Title }}</h1>
 
-  {{/* Authors */}}
-  {{ with .Params.authors }}
-  <div class="article-metadata" style="margin-top: 0.5rem;">
-    {{ delimit . ", " }}
-  </div>
-  {{ end }}
-
-  {{/* Venue + Year + Citations */}}
-  <div class="article-metadata" style="margin-top: 0.25rem;">
-    {{ with .Params.publication }}
-      <em>{{ . }}</em>
-    {{ end }}
-    {{ with .Date }}
-      {{ if .Year }}&middot; {{ .Year }}{{ end }}
-    {{ end }}
+  {{/* APA citation + citation count badge */}}
+  <div class="article-metadata" style="margin-top: 0.5rem; text-align: left;">
+    {{ with .Params.apa_citation }}{{ . | markdownify }}{{ end }}
     {{ if .Params.citation_count }}
-      &middot;
-      <span class="badge badge-pill badge-light" title="Citations on Semantic Scholar">
+      <span class="badge badge-pill badge-light ml-1" title="Citations on Semantic Scholar">
         {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
       </span>
     {{ end }}

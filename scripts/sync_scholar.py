@@ -26,6 +26,31 @@ S2_BASE = "https://api.semanticscholar.org/graph/v1"
 PAPER_FIELDS = "title,year,authors,venue,abstract,citationCount,externalIds,openAccessPdf,publicationDate"
 
 
+def apa_author(name: str) -> str:
+    """Convert 'First [Middle] Last' to 'Last, F. M.' APA format."""
+    parts = name.strip().split()
+    if len(parts) == 1:
+        return parts[0]
+    last = parts[-1]
+    initials = " ".join(p[0].upper() + "." for p in parts[:-1])
+    return f"{last}, {initials}"
+
+
+def apa_author_list(authors: list) -> str:
+    """Format a list of author names in APA reference-list style."""
+    if not authors:
+        return ""
+    apa = [apa_author(a) for a in authors]
+    if len(apa) == 1:
+        return apa[0]
+    if len(apa) == 2:
+        return f"{apa[0]}, & {apa[1]}"
+    # APA allows up to 20 authors; truncate with ellipsis beyond that
+    if len(apa) > 20:
+        apa = apa[:19] + ["..."] + [apa[-1]]
+    return ", ".join(apa[:-1]) + ", & " + apa[-1]
+
+
 def slugify(text: str) -> str:
     text = text.lower().strip()
     text = re.sub(r"[^\w\s-]", "", text)
@@ -94,9 +119,16 @@ def write_publication(paper: dict, output_dir: Path, index: int) -> Path:
 
     date_str = f"{year}-01-01T00:00:00Z" if year else "2000-01-01T00:00:00Z"
 
+    # Build APA citation string (stored in frontmatter for use in templates)
+    year_part = f"({year})" if year else "(n.d.)"
+    author_part = apa_author_list(authors)
+    venue_part = f" *{venue}*." if venue else "."
+    apa_citation = f"{author_part} {year_part}. {title}{venue_part}"
+
     frontmatter = {
         "title": title,
         "authors": authors,
+        "apa_citation": apa_citation,
         "date": date_str,
         "publication": venue,
         "abstract": abstract,

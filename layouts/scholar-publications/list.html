@@ -11,7 +11,8 @@
   </p>
 
   {{ range sort .Pages "Params.date" "desc" }}
-  <div class="media stream-item view-citation" style="margin-bottom: 1.5rem;">
+  {{ $citations := .Params.citation_count }}
+  <div class="media stream-item view-citation" style="margin-bottom: 1.75rem;">
     <div class="media-body">
 
       {{/* Title */}}
@@ -19,28 +20,19 @@
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </div>
 
-      {{/* Authors */}}
-      {{ with .Params.authors }}
-      <div class="article-metadata">
-        {{ delimit . ", " }}
-      </div>
-      {{ end }}
-
-      {{/* Venue + Year + Citations */}}
-      <div class="article-metadata" style="margin-top: 0.25rem; display: flex; align-items: center; flex-wrap: wrap; gap: 0.3rem; text-align: left;">
-        {{ with .Params.publication }}<em>{{ . }}</em>{{ end }}
-        {{ with .Date }}{{ if .Year }}<span>&middot; {{ .Year }}</span>{{ end }}{{ end }}
-        {{ if .Params.citation_count }}
-          <span>&middot;</span>
-          <span class="badge badge-pill badge-light" title="Citations on Semantic Scholar">
-            {{ .Params.citation_count }} citation{{ if gt .Params.citation_count 1 }}s{{ end }}
+      {{/* APA citation + citation count badge */}}
+      <div class="article-metadata" style="margin-top: 0.3rem; text-align: left;">
+        {{ with .Params.apa_citation }}{{ . | markdownify }}{{ end }}
+        {{ if $citations }}
+          <span class="badge badge-pill badge-light ml-1" title="Citations on Semantic Scholar">
+            {{ $citations }} citation{{ if gt $citations 1 }}s{{ end }}
           </span>
         {{ end }}
       </div>
 
       {{/* Abstract snippet */}}
       {{ with .Params.abstract }}
-      <p class="article-description" style="margin-top: 0.5rem; color: #555;">
+      <p class="article-description" style="margin-top: 0.4rem; color: #555;">
         {{ . | truncate 220 }}
       </p>
       {{ end }}
