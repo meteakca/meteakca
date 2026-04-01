@@ -38,12 +38,31 @@ TYPE_MAP = {
 CATEGORY_ORDER = ["Journal Articles", "Conference Papers", "Book Chapters", "Books", "Other"]
 
 
-def publication_category(pub_types: list) -> str:
-    """Return the display category for a Semantic Scholar publicationTypes list."""
+CONFERENCE_KEYWORDS = [
+    "conference", "proceedings", "symposium", "workshop", "congress", "iccs",
+    "edm", "aera", "acm", "ieee", "chi ", "sigchi", "interact",
+]
+BOOK_CHAPTER_KEYWORDS = ["handbook", "chapter", "in ", "edited"]
+BOOK_KEYWORDS = ["springer", "routledge", "wiley", "pearson", "sage publications"]
+
+
+def publication_category(pub_types: list, venue: str = "") -> str:
+    """Return the display category, using publicationTypes then venue heuristics."""
     for t in (pub_types or []):
         if t in TYPE_MAP:
             return TYPE_MAP[t]
-    return "Other"
+
+    # Heuristic fallback from venue name
+    v = (venue or "").lower()
+    if any(k in v for k in CONFERENCE_KEYWORDS):
+        return "Conference Papers"
+    if any(k in v for k in BOOK_CHAPTER_KEYWORDS):
+        return "Book Chapters"
+    if any(k in v for k in BOOK_KEYWORDS):
+        return "Books"
+
+    # Default: most academic output without a type is a journal article
+    return "Journal Articles"
 
 
 def apa_author(name: str) -> str:
@@ -139,8 +158,8 @@ def write_publication(paper: dict, output_dir: Path, index: int) -> Path:
 
     date_str = f"{year}-01-01T00:00:00Z" if year else "2000-01-01T00:00:00Z"
 
-    # Publication category from Semantic Scholar types
-    category = publication_category(paper.get("publicationTypes") or [])
+    # Publication category from Semantic Scholar types + venue heuristic
+    category = publication_category(paper.get("publicationTypes") or [], venue)
 
     # Build APA citation string (stored in frontmatter for use in templates)
     year_part = f"({year})" if year else "(n.d.)"
