@@ -23,7 +23,27 @@ from pathlib import Path
 S2_AUTHOR_ID = "2803529"  # Mete Akcaoglu on Semantic Scholar
 OUTPUT_DIR = Path("content/scholar-publications")
 S2_BASE = "https://api.semanticscholar.org/graph/v1"
-PAPER_FIELDS = "title,year,authors,venue,abstract,citationCount,externalIds,openAccessPdf,publicationDate"
+PAPER_FIELDS = "title,year,authors,venue,abstract,citationCount,externalIds,openAccessPdf,publicationDate,publicationTypes"
+
+# Map Semantic Scholar publication types to display category names (ordered by priority)
+TYPE_MAP = {
+    "JournalArticle": "Journal Articles",
+    "Review":         "Journal Articles",
+    "Conference":     "Conference Papers",
+    "BookSection":    "Book Chapters",
+    "Book":           "Books",
+    "Dataset":        "Other",
+    "LettersAndComments": "Other",
+}
+CATEGORY_ORDER = ["Journal Articles", "Conference Papers", "Book Chapters", "Books", "Other"]
+
+
+def publication_category(pub_types: list) -> str:
+    """Return the display category for a Semantic Scholar publicationTypes list."""
+    for t in (pub_types or []):
+        if t in TYPE_MAP:
+            return TYPE_MAP[t]
+    return "Other"
 
 
 def apa_author(name: str) -> str:
@@ -119,6 +139,9 @@ def write_publication(paper: dict, output_dir: Path, index: int) -> Path:
 
     date_str = f"{year}-01-01T00:00:00Z" if year else "2000-01-01T00:00:00Z"
 
+    # Publication category from Semantic Scholar types
+    category = publication_category(paper.get("publicationTypes") or [])
+
     # Build APA citation string (stored in frontmatter for use in templates)
     year_part = f"({year})" if year else "(n.d.)"
     author_part = apa_author_list(authors)
@@ -129,6 +152,7 @@ def write_publication(paper: dict, output_dir: Path, index: int) -> Path:
         "title": title,
         "authors": authors,
         "apa_citation": apa_citation,
+        "publication_type": category,
         "date": date_str,
         "publication": venue,
         "abstract": abstract,
