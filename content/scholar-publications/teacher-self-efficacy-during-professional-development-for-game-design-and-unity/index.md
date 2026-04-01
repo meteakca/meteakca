@@ -5,6 +5,9 @@ authors:
 - Mete Akcaoğlu
 - Andrew A. Allen
 - Selçuk Doğan
+apa_citation: Hodges, C. B., Akcaoğlu, M., Allen, A. A., & Doğan, S. (2022). Teacher
+  Self-efficacy During Professional Development for Game Design and Unity *Technical
+  Symposium on Computer Science Education*.
 date: '2022-01-01T00:00:00Z'
 publication: Technical Symposium on Computer Science Education
 citation_count: 1

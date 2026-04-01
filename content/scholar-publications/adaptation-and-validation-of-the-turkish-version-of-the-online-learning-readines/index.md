@@ -7,6 +7,9 @@ authors:
 - Mete Akcaoğlu
 - Burcu Karabulut Coskun
 - Rkan Kulekci
+apa_citation: Akcaoğlu, M., Mor, E., Akcaoğlu, M., Coskun, B. K., & Kulekci, R. (2026).
+  Adaptation and Validation of the Turkish Version of the Online Learning Readiness
+  Self-Check Survey *American Journal of Distance Education*.
 date: '2026-01-01T00:00:00Z'
 publication: American Journal of Distance Education
 citation_count: 0

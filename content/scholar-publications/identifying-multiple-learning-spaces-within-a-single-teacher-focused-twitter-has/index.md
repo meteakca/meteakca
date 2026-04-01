@@ -8,6 +8,9 @@ authors:
 - Staudt Willet
 - Matthew J. Koehler
 - Mete Akcaoğlu
+apa_citation: Greenhalgh, S., Rosenberg, J. M., Bret, K., Willet, S., Koehler, M.
+  J., & Akcaoğlu, M. (2020). Identifying multiple learning spaces within a single
+  teacher-focused Twitter hashtag *Comput. Educ.*.
 date: '2020-01-01T00:00:00Z'
 publication: Comput. Educ.
 abstract: 'Abstract The existing work on teacher-focused Twitter hashtags typically

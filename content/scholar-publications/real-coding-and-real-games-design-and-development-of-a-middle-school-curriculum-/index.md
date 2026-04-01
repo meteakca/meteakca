@@ -5,6 +5,8 @@ authors:
 - Mete Akcaoğlu
 - Selçuk Doğan
 - Charles B. Hodges
+apa_citation: 'Akcaoğlu, M., Doğan, S., & Hodges, C. B. (2022). Real Coding and Real
+  Games: Design and Development of a Middle School Curriculum Using Unity 3D *TechTrends*.'
 date: '2022-01-01T00:00:00Z'
 publication: TechTrends
 citation_count: 10

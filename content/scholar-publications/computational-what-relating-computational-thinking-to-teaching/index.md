@@ -8,6 +8,9 @@ authors:
 - Leah Devine
 - Nathan Calvert
 - Kara Grise
+apa_citation: Kale, U., Akcaoğlu, M., Cullen, T., Goh, D., Devine, L., Calvert, N.,
+  & Grise, K. (2018). Computational What? Relating Computational Thinking to Teaching
+  *TechTrends*.
 date: '2018-01-01T00:00:00Z'
 publication: TechTrends
 citation_count: 71

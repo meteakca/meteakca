@@ -6,6 +6,9 @@ authors:
 - J. Rosenberg
 - Charles B. Hodges
 - J. Hilpert
+apa_citation: Akcaoğlu, M., Rosenberg, J., Hodges, C. B., & Hilpert, J. (2021). An
+  Exploration of Factors Impacting Middle School Students’ Attitudes Toward Computer
+  Programming *Computers in The Schools*.
 date: '2021-01-01T00:00:00Z'
 publication: Computers in The Schools
 abstract: Abstract Computer programming is becoming an essential skill for young students

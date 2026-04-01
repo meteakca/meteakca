@@ -9,6 +9,10 @@ authors:
 - Sungjun Won
 - Bridget K. Daleiden
 - Kendall Hartley
+apa_citation: 'Flanigan, A. E., Brady, A. C., Akcaoğlu, M., Dai, Y., Won, S., Daleiden,
+  B. K., & Hartley, K. (2025). The interplay among digital distraction, self-regulation
+  of learning tendencies, and motivational influences: A transnational investigation
+  *Internet and Higher Education*.'
 date: '2025-01-01T00:00:00Z'
 publication: Internet and Higher Education
 citation_count: 1

@@ -4,6 +4,9 @@ title: The role of relevance in future teachers’ utility value and interest to
 authors:
 - Ugur Kale
 - Mete Akcaoğlu
+apa_citation: Kale, U., & Akcaoğlu, M. (2017). The role of relevance in future teachers’
+  utility value and interest toward technology *Educational technology research and
+  development*.
 date: '2017-01-01T00:00:00Z'
 publication: Educational technology research and development
 citation_count: 38

@@ -4,6 +4,9 @@ title: '"I see smart people!": Using Facebook to supplement cognitive and affect
 authors:
 - N. Bowman
 - Mete Akcaoğlu
+apa_citation: 'Bowman, N., & Akcaoğlu, M. (2014). "I see smart people!": Using Facebook
+  to supplement cognitive and affective learning in the university mass lecture *Internet
+  and Higher Education*.'
 date: '2014-01-01T00:00:00Z'
 publication: Internet and Higher Education
 citation_count: 117
