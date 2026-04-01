@@ -40,8 +40,8 @@
 
       {{/* Abstract snippet */}}
       {{ with .Params.abstract }}
-      <p class="article-description" style="margin-top: 0.4rem; color: #555; font-size: 0.85rem;">
-        <strong>Abstract:</strong> {{ . | truncate 220 }}
+      <p class="article-description" style="margin-top: 0.4rem; color: #555; font-size: 0.85rem; font-style: italic;">
+        <strong style="font-style: normal;">Abstract:</strong> {{ . | truncate 220 }}
       </p>
       {{ end }}
 
