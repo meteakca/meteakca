@@ -20,9 +20,17 @@
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </div>
 
-      {{/* APA citation + citation count badge */}}
+      {{/* APA citation line + citation badge */}}
       <div class="article-metadata" style="margin-top: 0.3rem; text-align: left;">
-        {{ with .Params.apa_citation }}{{ . | markdownify }}{{ end }}
+        {{ if .Params.apa_citation }}
+          {{/* Pre-computed APA string — strip wrapping <p> tags from markdownify */}}
+          {{ .Params.apa_citation | markdownify | replaceRE "</?p>\\s*" "" | safeHTML }}
+        {{ else }}
+          {{/* Fallback: construct APA-style from individual fields */}}
+          {{ with .Params.authors }}{{ delimit . ", " }}{{ end -}}
+          {{ with .Date }}{{ if .Year }} ({{ .Year }}).{{ end }}{{ end }}
+          {{ with .Params.publication }} <em>{{ . }}</em>.{{ end }}
+        {{ end }}
         {{ if $citations }}
           <span class="badge badge-pill badge-light ml-1" title="Citations on Semantic Scholar">
             {{ $citations }} citation{{ if gt $citations 1 }}s{{ end }}
