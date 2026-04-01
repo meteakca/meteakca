@@ -5,7 +5,7 @@ authors:
 - Eunbae Lee
 apa_citation: Akcaoğlu, M., & Lee, E. (2016). Increasing Social Presence in Online
   Learning through Small Group Discussions..
-publication_type: Other
+publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'
 abstract: Social presence is a difficult to achieve, but an imperative component of
   online learning. In this study, we investigated the effect of group size on students'

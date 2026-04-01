@@ -7,7 +7,7 @@ authors:
 apa_citation: Kale, U., & Akcaoğlu, M. (2017). The role of relevance in future teachers’
   utility value and interest toward technology *Educational technology research and
   development*.
-publication_type: Other
+publication_type: Journal Articles
 date: '2017-01-01T00:00:00Z'
 publication: Educational technology research and development
 citation_count: 38

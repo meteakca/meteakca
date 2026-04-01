@@ -6,7 +6,7 @@ authors:
 apa_citation: Akcaoğlu, M. (2014). Learning problem-solving through making games at
   the game design and learning summer program *Educational technology research and
   development*.
-publication_type: Other
+publication_type: Journal Articles
 date: '2014-01-01T00:00:00Z'
 publication: Educational technology research and development
 citation_count: 89

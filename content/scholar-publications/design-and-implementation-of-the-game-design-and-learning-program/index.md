@@ -4,7 +4,7 @@ authors:
 - Mete Akcaoğlu
 apa_citation: Akcaoğlu, M. (2016). Design and Implementation of the Game-Design and
   Learning Program *TechTrends*.
-publication_type: Other
+publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'
 publication: TechTrends
 citation_count: 28

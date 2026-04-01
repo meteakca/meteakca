@@ -5,7 +5,7 @@ authors:
 - Mete Akcaoğlu
 apa_citation: 'Akcaoğlu, M. (2015). Finding the connection between Game-Design and
   Problem-Solving: Game-Design and Learning Programs.'
-publication_type: Other
+publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'
 citation_count: 0
 scholar_url: https://www.semanticscholar.org/paper/bb7bfa4107b00674ac93041139866af0c7a35704
