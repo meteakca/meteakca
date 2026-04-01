@@ -5,6 +5,7 @@ authors:
 - L. Green
 apa_citation: Akcaoğlu, M., & Green, L. (2018). Teaching systems thinking through
   game design *Educational technology research and development*.
+publication_type: Other
 date: '2018-01-01T00:00:00Z'
 publication: Educational technology research and development
 citation_count: 38

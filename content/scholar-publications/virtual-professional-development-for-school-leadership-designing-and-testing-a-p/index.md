@@ -10,6 +10,7 @@ apa_citation: 'Gümüş, S., Akcaoğlu, M., Mcbrayer, J., & Belova, X. (2025). V
   Professional Development for School Leadership: Designing and Testing a Practical
   Web-based Simulation for Classroom Observation *Research in Educational Administration
   & Leadership*.'
+publication_type: Journal Articles
 date: '2025-01-01T00:00:00Z'
 publication: Research in Educational Administration & Leadership
 abstract: Among numerous responsibilities, conducting effective classroom observations

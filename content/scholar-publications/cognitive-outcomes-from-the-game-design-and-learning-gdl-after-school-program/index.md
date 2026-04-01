@@ -5,6 +5,7 @@ authors:
 - Matthew J. Koehler
 apa_citation: Akcaoğlu, M., & Koehler, M. J. (2014). Cognitive outcomes from the Game-Design
   and Learning (GDL) after-school program *Comput. Educ.*.
+publication_type: Journal Articles
 date: '2014-01-01T00:00:00Z'
 publication: Comput. Educ.
 citation_count: 114

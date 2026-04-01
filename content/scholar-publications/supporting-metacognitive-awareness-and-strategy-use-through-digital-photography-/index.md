@@ -8,6 +8,7 @@ authors:
 apa_citation: Blume, A. P. G. D., Akcaoğlu, M., & Chambers, W. (2016). Supporting
   Metacognitive Awareness and Strategy Use Through Digital Photography in a Rural
   Title I School.
+publication_type: Other
 date: '2016-01-01T00:00:00Z'
 citation_count: 3
 scholar_url: https://www.semanticscholar.org/paper/13777a1a4e8ee1cca0269c0df48031efcd6d3de7

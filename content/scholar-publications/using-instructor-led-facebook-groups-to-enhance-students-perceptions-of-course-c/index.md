@@ -6,6 +6,7 @@ authors:
 - N. Bowman
 apa_citation: Akcaoğlu, M., & Bowman, N. (2016). Using instructor-led Facebook groups
   to enhance students' perceptions of course content *Computers in Human Behavior*.
+publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'
 publication: Computers in Human Behavior
 citation_count: 42

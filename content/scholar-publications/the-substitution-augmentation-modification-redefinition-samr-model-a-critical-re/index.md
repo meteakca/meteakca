@@ -8,6 +8,7 @@ authors:
 apa_citation: 'Hamilton, E., Rosenberg, J., & Akcaoğlu, M. (2016). The Substitution
   Augmentation Modification Redefinition (SAMR) Model: a Critical Review and Suggestions
   for its Use *TechTrends*.'
+publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'
 publication: TechTrends
 citation_count: 419
