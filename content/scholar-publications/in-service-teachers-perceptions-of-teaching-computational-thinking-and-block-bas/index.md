@@ -7,6 +7,7 @@ authors:
 apa_citation: 'Ocak, C., & Akcaoğlu, M. (2025). In-Service Teachers’ Perceptions of
   Teaching Computational Thinking and Block-Based Programming: Expanding Scratch’s
   Role Across K-12 Contexts *Computers in The Schools*.'
+publication_type: Journal Articles
 date: '2025-01-01T00:00:00Z'
 publication: Computers in The Schools
 citation_count: 0

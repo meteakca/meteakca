@@ -11,6 +11,7 @@ apa_citation: 'Cain, E. J., Akcaoğlu, M., Wright, K., Dobson, A., & Elkins, T. 
   (2022). “I’ve Always Loved Science”: a Qualitative Exploration of Rural College
   Students’ STEM Interest Development and Maintenance *Journal for STEM Education
   Research*.'
+publication_type: Other
 date: '2022-01-01T00:00:00Z'
 publication: Journal for STEM Education Research
 citation_count: 6

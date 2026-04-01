@@ -6,6 +6,7 @@ authors:
 apa_citation: 'Akcaoğlu, M. (2023). The Nature of Online Discussions: Structure, Content,
   and Discourse in Whole Class Versus Small Groups *Proceedings of the 2023 AERA Annual
   Meeting*.'
+publication_type: Other
 date: '2023-01-01T00:00:00Z'
 publication: Proceedings of the 2023 AERA Annual Meeting
 citation_count: 0

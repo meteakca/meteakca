@@ -11,6 +11,7 @@ apa_citation: 'Soomro, K. A., Kale, U., Curtis, R., Akcaoğlu, M., & Bernstein, 
   B. (2017). Development of an instrument to measure Faculty’s information and communication
   technology access (FICTA) *Education and Information Technologies : Official Journal
   of the IFIP technical committee on Education*.'
+publication_type: Journal Articles
 date: '2017-01-01T00:00:00Z'
 publication: 'Education and Information Technologies : Official Journal of the IFIP
   technical committee on Education'

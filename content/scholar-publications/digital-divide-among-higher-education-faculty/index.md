@@ -9,6 +9,7 @@ authors:
 apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoğlu, M., & Bernstein, M. B.
   (2020). Digital divide among higher education faculty *International Journal of
   Educational Technology in Higher Education*.
+publication_type: Journal Articles
 date: '2020-01-01T00:00:00Z'
 publication: International Journal of Educational Technology in Higher Education
 abstract: 'Digital divide centers on access to various dimensions of information and

@@ -7,6 +7,7 @@ authors:
 apa_citation: 'Bowman, N., & Akcaoğlu, M. (2014). "I see smart people!": Using Facebook
   to supplement cognitive and affective learning in the university mass lecture *Internet
   and Higher Education*.'
+publication_type: Journal Articles
 date: '2014-01-01T00:00:00Z'
 publication: Internet and Higher Education
 citation_count: 117
