@@ -5,6 +5,9 @@ authors:
 - Mete Akcaoğlu
 - Charles B. Hodges
 - Lucas J. Jensen
+apa_citation: 'Akcaoğlu, M., Hodges, C. B., & Jensen, L. J. (2022). Using Twitter
+  to Form Professional Learning Communities: An Analysis of Georgia K-12 School Personnel
+  Discussing Educational Technology on Twitter.'
 date: '2022-01-01T00:00:00Z'
 citation_count: 0
 scholar_url: https://www.semanticscholar.org/paper/83a4969b4f4efb598e6a8ec0c70323f201d45633

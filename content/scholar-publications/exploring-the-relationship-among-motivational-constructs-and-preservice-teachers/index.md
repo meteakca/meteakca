@@ -5,6 +5,9 @@ authors:
 - Mete Akcaoğlu
 - Meryem Şeyda Özcan
 - Charles B. Hodges
+apa_citation: Akcaoğlu, M., Özcan, M. Ş., & Hodges, C. B. (2023). Exploring the Relationship
+  among Motivational Constructs and Preservice Teachers’ Use of Computational Thinking
+  in Classrooms *Computers in The Schools*.
 date: '2023-01-01T00:00:00Z'
 publication: Computers in The Schools
 abstract: Abstract As a key motivational factor that determines future teaching success

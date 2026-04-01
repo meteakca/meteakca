@@ -4,6 +4,9 @@ title: Understanding the Relationship Among Self-efficacy, Utility Value, and th
 authors:
 - Mete Akcaoğlu
 - M. Akcaoğlu
+apa_citation: Akcaoğlu, M., & Akcaoğlu, M. (2022). Understanding the Relationship
+  Among Self-efficacy, Utility Value, and the Community of Inquiry Framework in Preservice
+  Teacher Education *International Review of Research in Open and Distance Learning*.
 date: '2022-01-01T00:00:00Z'
 publication: International Review of Research in Open and Distance Learning
 abstract: 'School closures during the COVID-19 pandemic have shown the importance

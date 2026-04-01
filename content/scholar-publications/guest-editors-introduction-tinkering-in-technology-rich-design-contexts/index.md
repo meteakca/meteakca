@@ -3,6 +3,8 @@ title: 'Guest Editors'' Introduction: Tinkering in Technology-Rich Design Contex
 authors:
 - Mete Akcaoğlu
 - Ugur Kale
+apa_citation: 'Akcaoğlu, M., & Kale, U. (2018). Guest Editors'' Introduction: Tinkering
+  in Technology-Rich Design Contexts *Interdisciplinary Journal of Problem-based Learning*.'
 date: '2018-01-01T00:00:00Z'
 publication: Interdisciplinary Journal of Problem-based Learning
 citation_count: 0

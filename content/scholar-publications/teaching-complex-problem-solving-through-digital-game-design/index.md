@@ -5,6 +5,8 @@ authors:
 - Charles B. Hodges
 - Philipp Sonnleitner
 - Antonio P. Gutierrez
+apa_citation: Akcaoğlu, M., Hodges, C. B., Sonnleitner, P., & Gutierrez, A. P. (2016).
+  Teaching Complex Problem Solving Through Digital Game Design.
 date: '2016-01-01T00:00:00Z'
 citation_count: 1
 scholar_url: https://www.semanticscholar.org/paper/f6ccd180add09c0f96151fe194a1837105764241
