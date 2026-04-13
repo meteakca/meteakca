@@ -3,11 +3,11 @@ title: 'Makerspaces in higher education: Design, development, implementation, an
   research for teacher education and beyond'
 authors:
 - Eunbae Lee
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Tonia A. Dousay
 - D. M. Boyer
 - K. Brynteson
-apa_citation: 'Lee, E., Akcaoğlu, M., Dousay, T. A., Boyer, D. M., & Brynteson, K.
+apa_citation: 'Lee, E., Akcaoglu, M., Dousay, T. A., Boyer, D. M., & Brynteson, K.
   (2015). Makerspaces in higher education: Design, development, implementation, and
   research for teacher education and beyond.'
 publication_type: Journal Articles

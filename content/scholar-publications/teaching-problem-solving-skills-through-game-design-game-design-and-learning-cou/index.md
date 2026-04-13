@@ -2,8 +2,8 @@
 title: 'Teaching Problem-Solving Skills Through Game-Design: Game-Design and Learning
   Courses'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2015). Teaching Problem-Solving Skills Through Game-Design:
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2015). Teaching Problem-Solving Skills Through Game-Design:
   Game-Design and Learning Courses.'
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

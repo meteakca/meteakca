@@ -3,9 +3,9 @@ title: Examining the Substitution Augmentation Modification Redefinition (SAMR) 
   for instructional design and technology integration
 authors:
 - E. Hamilton
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Rosenberg
-apa_citation: Hamilton, E., Akcaoğlu, M., & Rosenberg, J. (2015). Examining the Substitution
+apa_citation: Hamilton, E., Akcaoglu, M., & Rosenberg, J. (2015). Examining the Substitution
   Augmentation Modification Redefinition (SAMR) Model for instructional design and
   technology integration.
 publication_type: Journal Articles

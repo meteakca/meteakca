@@ -2,11 +2,11 @@
 title: An Exploration of Factors Impacting Middle School Students’ Attitudes Toward
   Computer Programming
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Rosenberg
 - Charles B. Hodges
 - J. Hilpert
-apa_citation: Akcaoğlu, M., Rosenberg, J., Hodges, C. B., & Hilpert, J. (2021). An
+apa_citation: Akcaoglu, M., Rosenberg, J., Hodges, C. B., & Hilpert, J. (2021). An
   Exploration of Factors Impacting Middle School Students’ Attitudes Toward Computer
   Programming *Computers in The Schools*.
 publication_type: Journal Articles

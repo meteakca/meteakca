@@ -2,8 +2,8 @@
 title: 'Teaching problem solving through making games: Design and implementation of
   an innovative and technology-rich intervention'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2014). Teaching problem solving through making games:
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2014). Teaching problem solving through making games:
   Design and implementation of an innovative and technology-rich intervention.'
 publication_type: Journal Articles
 date: '2014-01-01T00:00:00Z'

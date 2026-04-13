@@ -2,10 +2,10 @@
 title: Exploring the Relationship among Motivational Constructs and Preservice Teachers’
   Use of Computational Thinking in Classrooms
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Meryem Şeyda Özcan
 - Charles B. Hodges
-apa_citation: Akcaoğlu, M., Özcan, M. Ş., & Hodges, C. B. (2023). Exploring the Relationship
+apa_citation: Akcaoglu, M., Özcan, M. Ş., & Hodges, C. B. (2023). Exploring the Relationship
   among Motivational Constructs and Preservice Teachers’ Use of Computational Thinking
   in Classrooms *Computers in The Schools*.
 publication_type: Journal Articles

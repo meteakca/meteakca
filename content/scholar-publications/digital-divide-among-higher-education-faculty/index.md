@@ -4,9 +4,9 @@ authors:
 - K. A. Soomro
 - Ugur Kale
 - R. Curtis
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Malayna B. Bernstein
-apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoğlu, M., & Bernstein, M. B.
+apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoglu, M., & Bernstein, M. B.
   (2020). Digital divide among higher education faculty *International Journal of
   Educational Technology in Higher Education*.
 publication_type: Journal Articles
@@ -27,7 +27,7 @@ abstract: 'Digital divide centers on access to various dimensions of information
   shed light on the theoretical implications of the framework of successive kinds
   of ICT access suggested by van Dijk (The deepening divide: inequality in the information
   society, 2005).'
-citation_count: 166
+citation_count: 171
 scholar_url: https://www.semanticscholar.org/paper/de3cb50a65771d3672cbd375128b8b10c2f6326c
 eprint_url: https://educationaltechnologyjournal.springeropen.com/track/pdf/10.1186/s41239-020-00191-5
 doi: 10.1186/s41239-020-00191-5

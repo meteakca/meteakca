@@ -1,8 +1,8 @@
 ---
 title: Design and Implementation of the Game-Design and Learning Program
 authors:
-- Mete Akcaoğlu
-apa_citation: Akcaoğlu, M. (2016). Design and Implementation of the Game-Design and
+- Mete Akcaoglu
+apa_citation: Akcaoglu, M. (2016). Design and Implementation of the Game-Design and
   Learning Program *TechTrends*.
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

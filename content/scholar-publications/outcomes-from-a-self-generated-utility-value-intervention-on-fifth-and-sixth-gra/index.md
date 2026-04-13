@@ -2,11 +2,11 @@
 title: Outcomes from a self-generated utility value intervention on fifth and sixth-grade
   students’ value and interest in science
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Rosenberg
 - John Ranellucci
 - C. Schwarz
-apa_citation: Akcaoğlu, M., Rosenberg, J., Ranellucci, J., & Schwarz, C. (2018). Outcomes
+apa_citation: Akcaoglu, M., Rosenberg, J., Ranellucci, J., & Schwarz, C. (2018). Outcomes
   from a self-generated utility value intervention on fifth and sixth-grade students’
   value and interest in science.
 publication_type: Journal Articles

@@ -2,8 +2,8 @@
 title: 'Using games in classroom: All tutors and no stories make a virtual world a
   dull game'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2011). Using games in classroom: All tutors and no stories
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2011). Using games in classroom: All tutors and no stories
   make a virtual world a dull game.'
 publication_type: Journal Articles
 date: '2011-01-01T00:00:00Z'

@@ -3,10 +3,10 @@ title: 'State Educational Twitter Hashtags: An Introduction and Research Agenda'
 authors:
 - J. Rosenberg
 - Matthew J. Koehler
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - S. Greenhalgh
 - E. Hamilton
-apa_citation: 'Rosenberg, J., Koehler, M. J., Akcaoğlu, M., Greenhalgh, S., & Hamilton,
+apa_citation: 'Rosenberg, J., Koehler, M. J., Akcaoglu, M., Greenhalgh, S., & Hamilton,
   E. (2016). State Educational Twitter Hashtags: An Introduction and Research Agenda.'
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

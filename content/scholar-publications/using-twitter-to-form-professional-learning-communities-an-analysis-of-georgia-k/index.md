@@ -2,10 +2,10 @@
 title: 'Using Twitter to Form Professional Learning Communities: An Analysis of Georgia
   K-12 School Personnel Discussing Educational Technology on Twitter'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Charles B. Hodges
 - Lucas J. Jensen
-apa_citation: 'Akcaoğlu, M., Hodges, C. B., & Jensen, L. J. (2022). Using Twitter
+apa_citation: 'Akcaoglu, M., Hodges, C. B., & Jensen, L. J. (2022). Using Twitter
   to Form Professional Learning Communities: An Analysis of Georgia K-12 School Personnel
   Discussing Educational Technology on Twitter.'
 publication_type: Journal Articles

@@ -2,11 +2,11 @@
 title: 'Policy, practice, and reality: exploring a nation-wide technology implementation
   in Turkish schools'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Sedat Gumus
 - M. Bellibaş
 - D. Boyer
-apa_citation: 'Akcaoğlu, M., Gumus, S., Bellibaş, M., & Boyer, D. (2015). Policy,
+apa_citation: 'Akcaoglu, M., Gumus, S., Bellibaş, M., & Boyer, D. (2015). Policy,
   practice, and reality: exploring a nation-wide technology implementation in Turkish
   schools.'
 publication_type: Journal Articles

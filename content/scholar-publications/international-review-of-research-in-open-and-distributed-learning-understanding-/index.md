@@ -3,9 +3,9 @@ title: International Review of Research in Open and Distributed Learning Underst
   the Relationship Among Self-Efficacy, Utility Value, and the Community of Inquiry
   Framework in Preservice Teacher Education
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - M. Akcaoğlu
-apa_citation: Akcaoğlu, M., & Akcaoğlu, M. (n.d.). International Review of Research
+apa_citation: Akcaoglu, M., & Akcaoğlu, M. (n.d.). International Review of Research
   in Open and Distributed Learning Understanding the Relationship Among Self-Efficacy,
   Utility Value, and the Community of Inquiry Framework in Preservice Teacher Education.
 publication_type: Journal Articles

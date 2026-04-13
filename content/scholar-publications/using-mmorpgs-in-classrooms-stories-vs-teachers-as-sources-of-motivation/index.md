@@ -1,8 +1,8 @@
 ---
 title: 'Using MMORPGs in Classrooms: Stories vs. Teachers as Sources of Motivation'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2013). Using MMORPGs in Classrooms: Stories vs. Teachers
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2013). Using MMORPGs in Classrooms: Stories vs. Teachers
   as Sources of Motivation.'
 publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'

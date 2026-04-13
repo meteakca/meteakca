@@ -4,10 +4,10 @@ title: Adaptation and Validation of the Turkish Version of the Online Learning R
 authors:
 - M. Akcaoğlu
 - E. Mor
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Burcu Karabulut Coskun
 - Rkan Kulekci
-apa_citation: Akcaoğlu, M., Mor, E., Akcaoğlu, M., Coskun, B. K., & Kulekci, R. (2026).
+apa_citation: Akcaoğlu, M., Mor, E., Akcaoglu, M., Coskun, B. K., & Kulekci, R. (2026).
   Adaptation and Validation of the Turkish Version of the Online Learning Readiness
   Self-Check Survey *American Journal of Distance Education*.
 publication_type: Journal Articles

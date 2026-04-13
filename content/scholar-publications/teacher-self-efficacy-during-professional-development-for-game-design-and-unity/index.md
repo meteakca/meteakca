@@ -2,10 +2,10 @@
 title: Teacher Self-efficacy During Professional Development for Game Design and Unity
 authors:
 - Charles B. Hodges
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Andrew A. Allen
 - Selçuk Doğan
-apa_citation: Hodges, C. B., Akcaoğlu, M., Allen, A. A., & Doğan, S. (2022). Teacher
+apa_citation: Hodges, C. B., Akcaoglu, M., Allen, A. A., & Doğan, S. (2022). Teacher
   Self-efficacy During Professional Development for Game Design and Unity *Technical
   Symposium on Computer Science Education*.
 publication_type: Journal Articles

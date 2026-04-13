@@ -1,9 +1,9 @@
 ---
 title: Increasing Social Presence in Online Learning through Small Group Discussions.
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Eunbae Lee
-apa_citation: Akcaoğlu, M., & Lee, E. (2016). Increasing Social Presence in Online
+apa_citation: Akcaoglu, M., & Lee, E. (2016). Increasing Social Presence in Online
   Learning through Small Group Discussions..
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

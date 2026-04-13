@@ -1,11 +1,11 @@
 ---
 title: Teaching Complex Problem Solving Through Digital Game Design
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Charles B. Hodges
 - Philipp Sonnleitner
 - Antonio P. Gutierrez
-apa_citation: Akcaoğlu, M., Hodges, C. B., Sonnleitner, P., & Gutierrez, A. P. (2016).
+apa_citation: Akcaoglu, M., Hodges, C. B., Sonnleitner, P., & Gutierrez, A. P. (2016).
   Teaching Complex Problem Solving Through Digital Game Design.
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

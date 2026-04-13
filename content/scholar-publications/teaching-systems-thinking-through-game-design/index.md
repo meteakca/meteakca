@@ -1,9 +1,9 @@
 ---
 title: Teaching systems thinking through game design
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - L. Green
-apa_citation: Akcaoğlu, M., & Green, L. (2018). Teaching systems thinking through
+apa_citation: Akcaoglu, M., & Green, L. (2018). Teaching systems thinking through
   game design *Educational technology research and development*.
 publication_type: Journal Articles
 date: '2018-01-01T00:00:00Z'

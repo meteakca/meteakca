@@ -1,9 +1,9 @@
 ---
 title: 'An Analysis of #TECHtalkGA: A weekly Twitter chat for Educators in Georgia'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Charles B. Hodges
-apa_citation: 'Akcaoğlu, M., & Hodges, C. B. (2019). An Analysis of #TECHtalkGA: A
+apa_citation: 'Akcaoglu, M., & Hodges, C. B. (2019). An Analysis of #TECHtalkGA: A
   weekly Twitter chat for Educators in Georgia.'
 publication_type: Journal Articles
 date: '2019-01-01T00:00:00Z'

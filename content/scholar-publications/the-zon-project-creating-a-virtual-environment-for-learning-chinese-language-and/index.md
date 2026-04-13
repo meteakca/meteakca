@@ -3,8 +3,8 @@ title: 'The Zon Project: Creating a Virtual Environment for Learning Chinese Lan
   and Culture'
 authors:
 - D. M. Boyer
-- Mete Akcaoğlu
-apa_citation: 'Boyer, D. M., & Akcaoğlu, M. (2009). The Zon Project: Creating a Virtual
+- Mete Akcaoglu
+apa_citation: 'Boyer, D. M., & Akcaoglu, M. (2009). The Zon Project: Creating a Virtual
   Environment for Learning Chinese Language and Culture.'
 publication_type: Journal Articles
 date: '2009-01-01T00:00:00Z'

@@ -2,10 +2,10 @@
 title: 'Teaching Problem Solving through Game Design: Reflections on Game Design and
   Learning Summer Camp'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - D. M. Boyer
 - Kristen Kereluik
-apa_citation: 'Akcaoğlu, M., Boyer, D. M., & Kereluik, K. (2012). Teaching Problem
+apa_citation: 'Akcaoglu, M., Boyer, D. M., & Kereluik, K. (2012). Teaching Problem
   Solving through Game Design: Reflections on Game Design and Learning Summer Camp.'
 publication_type: Journal Articles
 date: '2012-01-01T00:00:00Z'

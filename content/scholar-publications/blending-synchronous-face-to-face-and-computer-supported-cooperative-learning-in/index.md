@@ -3,9 +3,9 @@ title: Blending Synchronous Face-to-face and Computer-Supported Cooperative Lear
   in a Hybrid Doctoral Seminar
 authors:
 - Cary J. Roseth
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Andrea Zellner
-apa_citation: Roseth, C. J., Akcaoğlu, M., & Zellner, A. (2013). Blending Synchronous
+apa_citation: Roseth, C. J., Akcaoglu, M., & Zellner, A. (2013). Blending Synchronous
   Face-to-face and Computer-Supported Cooperative Learning in a Hybrid Doctoral Seminar
   *TechTrends*.
 publication_type: Journal Articles

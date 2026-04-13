@@ -2,8 +2,8 @@
 title: Learning problem-solving through making games at the game design and learning
   summer program
 authors:
-- Mete Akcaoğlu
-apa_citation: Akcaoğlu, M. (2014). Learning problem-solving through making games at
+- Mete Akcaoglu
+apa_citation: Akcaoglu, M. (2014). Learning problem-solving through making games at
   the game design and learning summer program *Educational technology research and
   development*.
 publication_type: Journal Articles

@@ -1,10 +1,10 @@
 ---
 title: Refining TPACK Rubric through Online Lesson Plans
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Kristen Kereluik
 - Greg Casperson
-apa_citation: Akcaoğlu, M., Kereluik, K., & Casperson, G. (2011). Refining TPACK Rubric
+apa_citation: Akcaoglu, M., Kereluik, K., & Casperson, G. (2011). Refining TPACK Rubric
   through Online Lesson Plans.
 publication_type: Journal Articles
 date: '2011-01-01T00:00:00Z'

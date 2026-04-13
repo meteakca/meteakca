@@ -2,9 +2,9 @@
 title: Connecting Game and Instructional Design Through Development
 authors:
 - D. M. Boyer
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - S. Pernsteiner
-apa_citation: Boyer, D. M., Akcaoğlu, M., & Pernsteiner, S. (2015). Connecting Game
+apa_citation: Boyer, D. M., Akcaoglu, M., & Pernsteiner, S. (2015). Connecting Game
   and Instructional Design Through Development.
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

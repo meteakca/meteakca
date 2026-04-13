@@ -4,9 +4,9 @@ title: A comparative longitudinal case study of the use of scientific modeling i
 authors:
 - J. Rosenberg
 - C. Schwarz
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Silvia Wen‐Yu Lee
-apa_citation: Rosenberg, J., Schwarz, C., Akcaoğlu, M., & Lee, S. W. (2014). A comparative
+apa_citation: Rosenberg, J., Schwarz, C., Akcaoglu, M., & Lee, S. W. (2014). A comparative
   longitudinal case study of the use of scientific modeling in the pedagogical practice
   of two fifth- grade science teachers.
 publication_type: Journal Articles

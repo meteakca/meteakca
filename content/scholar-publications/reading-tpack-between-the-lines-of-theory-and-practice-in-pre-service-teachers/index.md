@@ -1,9 +1,9 @@
 ---
 title: Reading TPACK between the lines of theory and practice in pre-service teachers
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Kristen Kereluik
-apa_citation: Akcaoğlu, M., & Kereluik, K. (2011). Reading TPACK between the lines
+apa_citation: Akcaoglu, M., & Kereluik, K. (2011). Reading TPACK between the lines
   of theory and practice in pre-service teachers.
 publication_type: Journal Articles
 date: '2011-01-01T00:00:00Z'

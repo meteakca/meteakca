@@ -1,8 +1,8 @@
 ---
 title: Review of PodOMatic
 authors:
-- Mete Akcaoğlu
-apa_citation: Akcaoğlu, M. (2019). Review of PodOMatic *The JALT CALL Journal*.
+- Mete Akcaoglu
+apa_citation: Akcaoglu, M. (2019). Review of PodOMatic *The JALT CALL Journal*.
 publication_type: Journal Articles
 date: '2019-01-01T00:00:00Z'
 publication: The JALT CALL Journal

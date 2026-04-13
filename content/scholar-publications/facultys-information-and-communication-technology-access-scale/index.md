@@ -4,9 +4,9 @@ authors:
 - K. A. Soomro
 - Ugur Kale
 - R. Curtis
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Malayna B. Bernstein
-apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoğlu, M., & Bernstein, M. B.
+apa_citation: Soomro, K. A., Kale, U., Curtis, R., Akcaoglu, M., & Bernstein, M. B.
   (2019). Faculty's Information and Communication Technology Access Scale.
 publication_type: Journal Articles
 date: '2019-01-01T00:00:00Z'

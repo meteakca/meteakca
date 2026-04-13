@@ -4,9 +4,9 @@ title: Comparative longitudinal case studies of two middle school teachers’ us
 authors:
 - J. Rosenberg
 - C. Schwarz
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Silvia Wen‐Yu Lee
-apa_citation: Rosenberg, J., Schwarz, C., Akcaoğlu, M., & Lee, S. W. (2014). Comparative
+apa_citation: Rosenberg, J., Schwarz, C., Akcaoglu, M., & Lee, S. W. (2014). Comparative
   longitudinal case studies of two middle school teachers’ use of scientific modeling.
 publication_type: Journal Articles
 date: '2014-01-01T00:00:00Z'

@@ -2,9 +2,9 @@
 title: Compromising among gaming, learning and society
 authors:
 - R. Ni
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - K. Dirkin
-apa_citation: Ni, R., Akcaoğlu, M., & Dirkin, K. (2010). Compromising among gaming,
+apa_citation: Ni, R., Akcaoglu, M., & Dirkin, K. (2010). Compromising among gaming,
   learning and society.
 publication_type: Journal Articles
 date: '2010-01-01T00:00:00Z'

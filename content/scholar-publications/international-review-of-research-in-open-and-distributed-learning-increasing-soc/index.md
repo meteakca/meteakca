@@ -2,9 +2,9 @@
 title: International Review of Research in Open and Distributed Learning Increasing
   Social Presence in Online Learning through Small Group Discussions
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Eunbae Lee
-apa_citation: Akcaoğlu, M., & Lee, E. (n.d.). International Review of Research in
+apa_citation: Akcaoglu, M., & Lee, E. (n.d.). International Review of Research in
   Open and Distributed Learning Increasing Social Presence in Online Learning through
   Small Group Discussions.
 publication_type: Journal Articles

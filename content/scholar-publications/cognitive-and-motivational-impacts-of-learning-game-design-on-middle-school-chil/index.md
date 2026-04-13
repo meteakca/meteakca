@@ -2,8 +2,8 @@
 title: Cognitive and motivational impacts of learning game design on middle school
   children
 authors:
-- Mete Akcaoğlu
-apa_citation: Akcaoğlu, M. (2013). Cognitive and motivational impacts of learning
+- Mete Akcaoglu
+apa_citation: Akcaoglu, M. (2013). Cognitive and motivational impacts of learning
   game design on middle school children.
 publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'

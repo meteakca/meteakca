@@ -3,11 +3,11 @@ title: '“I’ve Always Loved Science”: a Qualitative Exploration of Rural Co
   STEM Interest Development and Maintenance'
 authors:
 - Elise J. Cain
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Kristen Wright
 - Alexandra Dobson
 - Taylor B. Elkins
-apa_citation: 'Cain, E. J., Akcaoğlu, M., Wright, K., Dobson, A., & Elkins, T. B.
+apa_citation: 'Cain, E. J., Akcaoglu, M., Wright, K., Dobson, A., & Elkins, T. B.
   (2022). “I’ve Always Loved Science”: a Qualitative Exploration of Rural College
   Students’ STEM Interest Development and Maintenance *Journal for STEM Education
   Research*.'

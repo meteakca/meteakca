@@ -2,10 +2,10 @@
 title: '5th grade students’ engagement in modeling practice across content areas:
   What changes over time and how?'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - C. Schwarz
 - Lili Zhan
-apa_citation: 'Akcaoğlu, M., Schwarz, C., & Zhan, L. (2013). 5th grade students’ engagement
+apa_citation: 'Akcaoglu, M., Schwarz, C., & Zhan, L. (2013). 5th grade students’ engagement
   in modeling practice across content areas: What changes over time and how?.'
 publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'

@@ -1,11 +1,11 @@
 ---
 title: Game Design as a Complex Problem Solving Process
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Antonio P. Gutierrez
 - Charles B. Hodges
 - Philipp Sonnleitner
-apa_citation: Akcaoğlu, M., Gutierrez, A. P., Hodges, C. B., & Sonnleitner, P. (2016).
+apa_citation: Akcaoglu, M., Gutierrez, A. P., Hodges, C. B., & Sonnleitner, P. (2016).
   Game Design as a Complex Problem Solving Process.
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

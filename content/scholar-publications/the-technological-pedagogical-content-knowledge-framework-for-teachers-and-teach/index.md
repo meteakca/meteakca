@@ -4,9 +4,9 @@ title: The Technological Pedagogical Content Knowledge Framework for Teachers an
 authors:
 - Matthew J. Koehler
 - Punya Mishra
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Rosenberg
-apa_citation: Koehler, M. J., Mishra, P., Akcaoğlu, M., & Rosenberg, J. (2013). The
+apa_citation: Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. (2013). The
   Technological Pedagogical Content Knowledge Framework for Teachers and Teacher Educators.
 publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'

@@ -2,8 +2,8 @@
 title: 'The Nature of Online Discussions: Structure, Content, and Discourse in Whole
   Class Versus Small Groups'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2023). The Nature of Online Discussions: Structure, Content,
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2023). The Nature of Online Discussions: Structure, Content,
   and Discourse in Whole Class Versus Small Groups *Proceedings of the 2023 AERA Annual
   Meeting*.'
 publication_type: Conference Papers

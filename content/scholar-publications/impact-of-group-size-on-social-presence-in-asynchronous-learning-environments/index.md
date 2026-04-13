@@ -1,9 +1,9 @@
 ---
 title: Impact of group size on social presence in asynchronous learning environments
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Eunbae Lee
-apa_citation: Akcaoğlu, M., & Lee, E. (2015). Impact of group size on social presence
+apa_citation: Akcaoglu, M., & Lee, E. (2015). Impact of group size on social presence
   in asynchronous learning environments.
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

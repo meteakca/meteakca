@@ -2,9 +2,9 @@
 title: 'Pedagogy 2.0: The Evolving Discourse over Social Media in Education'
 authors:
 - Douglas C. Strahler
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - N. Bowman
-apa_citation: 'Strahler, D. C., Akcaoğlu, M., & Bowman, N. (2015). Pedagogy 2.0: The
+apa_citation: 'Strahler, D. C., Akcaoglu, M., & Bowman, N. (2015). Pedagogy 2.0: The
   Evolving Discourse over Social Media in Education.'
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

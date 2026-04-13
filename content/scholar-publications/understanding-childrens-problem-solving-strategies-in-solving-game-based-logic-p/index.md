@@ -2,10 +2,10 @@
 title: Understanding Children’s Problem-solving Strategies in Solving Game-based Logic
   Problems
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Lucas J. Jensen
 - Daisy González
-apa_citation: Akcaoğlu, M., Jensen, L. J., & González, D. (2021). Understanding Children’s
+apa_citation: Akcaoglu, M., Jensen, L. J., & González, D. (2021). Understanding Children’s
   Problem-solving Strategies in Solving Game-based Logic Problems *International journal
   of technology in education and science*.
 publication_type: Book Chapters

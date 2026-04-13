@@ -2,9 +2,9 @@
 title: Initiating and maintaining student-instructor rapport in online classes
 authors:
 - Abraham E. Flanigan
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Emily Ray
-apa_citation: Flanigan, A. E., Akcaoğlu, M., & Ray, E. (2021). Initiating and maintaining
+apa_citation: Flanigan, A. E., Akcaoglu, M., & Ray, E. (2021). Initiating and maintaining
   student-instructor rapport in online classes *Internet and Higher Education*.
 publication_type: Journal Articles
 date: '2021-01-01T00:00:00Z'

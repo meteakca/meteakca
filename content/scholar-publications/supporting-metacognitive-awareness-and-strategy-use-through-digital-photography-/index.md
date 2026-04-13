@@ -3,9 +3,9 @@ title: Supporting Metacognitive Awareness and Strategy Use Through Digital Photo
   in a Rural Title I School
 authors:
 - Antonio P. Gutierrez de Blume
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - W. Chambers
-apa_citation: Blume, A. P. G. D., Akcaoğlu, M., & Chambers, W. (2016). Supporting
+apa_citation: Blume, A. P. G. D., Akcaoglu, M., & Chambers, W. (2016). Supporting
   Metacognitive Awareness and Strategy Use Through Digital Photography in a Rural
   Title I School.
 publication_type: Journal Articles

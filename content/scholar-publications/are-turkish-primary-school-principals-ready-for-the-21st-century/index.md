@@ -1,9 +1,9 @@
 ---
 title: Are Turkish primary school principals ready for the 21st century
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Sedat Gumus
-apa_citation: Akcaoğlu, M., & Gumus, S. (2012). Are Turkish primary school principals
+apa_citation: Akcaoglu, M., & Gumus, S. (2012). Are Turkish primary school principals
   ready for the 21st century.
 publication_type: Journal Articles
 date: '2012-01-01T00:00:00Z'

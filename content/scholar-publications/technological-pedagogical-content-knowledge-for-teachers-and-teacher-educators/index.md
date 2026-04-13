@@ -3,9 +3,9 @@ title: Technological pedagogical content knowledge for teachers and teacher educ
 authors:
 - Matthew J. Koehler
 - Punya Mishra
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Rosenberg
-apa_citation: Koehler, M. J., Mishra, P., Akcaoğlu, M., & Rosenberg, J. (2013). Technological
+apa_citation: Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. (2013). Technological
   pedagogical content knowledge for teachers and teacher educators.
 publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'

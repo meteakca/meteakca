@@ -4,12 +4,12 @@ title: 'The interplay among digital distraction, self-regulation of learning ten
 authors:
 - Abraham E. Flanigan
 - Anna C. Brady
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Yan Dai
 - Sungjun Won
 - Bridget K. Daleiden
 - Kendall Hartley
-apa_citation: 'Flanigan, A. E., Brady, A. C., Akcaoğlu, M., Dai, Y., Won, S., Daleiden,
+apa_citation: 'Flanigan, A. E., Brady, A. C., Akcaoglu, M., Dai, Y., Won, S., Daleiden,
   B. K., & Hartley, K. (2025). The interplay among digital distraction, self-regulation
   of learning tendencies, and motivational influences: A transnational investigation
   *Internet and Higher Education*.'

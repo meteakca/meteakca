@@ -5,9 +5,9 @@ authors:
 - S. Greenhalgh
 - K. Willet
 - J. Rosenberg
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Matthew J. Koehler
-apa_citation: 'Greenhalgh, S., Willet, K., Rosenberg, J., Akcaoğlu, M., & Koehler,
+apa_citation: 'Greenhalgh, S., Willet, K., Rosenberg, J., Akcaoglu, M., & Koehler,
   M. J. (2018). Timing is Everything: Comparing Synchronous and Asynchronous Modes
   of Twitter for Teacher Professional Learning.'
 publication_type: Journal Articles

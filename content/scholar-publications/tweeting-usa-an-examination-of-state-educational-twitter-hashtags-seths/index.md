@@ -2,11 +2,11 @@
 title: 'Tweeting U.S.A.: An examination of state educational Twitter hashtags (SETHs)'
 authors:
 - J. Rosenberg
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - E. Hamilton
 - S. Greenhalgh
 - Matthew J. Koehler
-apa_citation: 'Rosenberg, J., Akcaoğlu, M., Hamilton, E., Greenhalgh, S., & Koehler,
+apa_citation: 'Rosenberg, J., Akcaoglu, M., Hamilton, E., Greenhalgh, S., & Koehler,
   M. J. (2015). Tweeting U.S.A.: An examination of state educational Twitter hashtags
   (SETHs).'
 publication_type: Journal Articles

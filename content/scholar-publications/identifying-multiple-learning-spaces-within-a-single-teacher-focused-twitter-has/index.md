@@ -7,9 +7,9 @@ authors:
 - K. Bret
 - Staudt Willet
 - Matthew J. Koehler
-- Mete Akcaoğlu
+- Mete Akcaoglu
 apa_citation: Greenhalgh, S., Rosenberg, J. M., Bret, K., Willet, S., Koehler, M.
-  J., & Akcaoğlu, M. (2020). Identifying multiple learning spaces within a single
+  J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single
   teacher-focused Twitter hashtag *Comput. Educ.*.
 publication_type: Journal Articles
 date: '2020-01-01T00:00:00Z'

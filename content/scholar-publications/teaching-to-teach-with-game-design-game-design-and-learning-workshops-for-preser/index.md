@@ -2,9 +2,9 @@
 title: 'Teaching to Teach (With) Game Design: Game Design and Learning Workshops for
   Preservice Teachers'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Ugur Kale
-apa_citation: 'Akcaoğlu, M., & Kale, U. (2016). Teaching to Teach (With) Game Design:
+apa_citation: 'Akcaoglu, M., & Kale, U. (2016). Teaching to Teach (With) Game Design:
   Game Design and Learning Workshops for Preservice Teachers.'
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

@@ -1,9 +1,9 @@
 ---
 title: 'Technology in the Turkish educational system: Analysis of a policy document'
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - R. Gungor
-apa_citation: 'Akcaoğlu, M., & Gungor, R. (2010). Technology in the Turkish educational
+apa_citation: 'Akcaoglu, M., & Gungor, R. (2010). Technology in the Turkish educational
   system: Analysis of a policy document.'
 publication_type: Journal Articles
 date: '2010-01-01T00:00:00Z'

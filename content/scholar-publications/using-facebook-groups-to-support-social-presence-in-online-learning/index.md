@@ -1,9 +1,9 @@
 ---
 title: Using Facebook groups to support social presence in online learning
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Eunbae Lee
-apa_citation: Akcaoğlu, M., & Lee, E. (2018). Using Facebook groups to support social
+apa_citation: Akcaoglu, M., & Lee, E. (2018). Using Facebook groups to support social
   presence in online learning *Distance Education*.
 publication_type: Journal Articles
 date: '2018-01-01T00:00:00Z'

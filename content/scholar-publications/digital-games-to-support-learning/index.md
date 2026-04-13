@@ -1,8 +1,8 @@
 ---
 title: Digital Games to Support Learning
 authors:
-- Mete Akcaoğlu
-apa_citation: Akcaoğlu, M. (2014). Digital Games to Support Learning.
+- Mete Akcaoglu
+apa_citation: Akcaoglu, M. (2014). Digital Games to Support Learning.
 publication_type: Journal Articles
 date: '2014-01-01T00:00:00Z'
 citation_count: 0

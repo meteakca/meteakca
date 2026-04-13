@@ -2,10 +2,10 @@
 title: What Keeps Teachers Engaged during Professional Development? The Role of Interest
   Development
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - M. Ozcan
 - Selçuk Doğan
-apa_citation: Akcaoğlu, M., Ozcan, M., & Doğan, S. (2023). What Keeps Teachers Engaged
+apa_citation: Akcaoglu, M., Ozcan, M., & Doğan, S. (2023). What Keeps Teachers Engaged
   during Professional Development? The Role of Interest Development *Education sciences*.
 publication_type: Journal Articles
 date: '2023-01-01T00:00:00Z'

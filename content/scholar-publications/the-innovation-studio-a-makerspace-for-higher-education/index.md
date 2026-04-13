@@ -2,9 +2,9 @@
 title: 'The Innovation Studio: A MakerSpace for higher education'
 authors:
 - Eunbae Lee
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - Lucas J. Jensen
-apa_citation: 'Lee, E., Akcaoğlu, M., & Jensen, L. J. (2015). The Innovation Studio:
+apa_citation: 'Lee, E., Akcaoglu, M., & Jensen, L. J. (2015). The Innovation Studio:
   A MakerSpace for higher education.'
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

@@ -1,8 +1,8 @@
 ---
 title: This Site Is Currently Under Construction
 authors:
-- Mete Akcaoğlu
-apa_citation: Akcaoğlu, M. (2016). This Site Is Currently Under Construction.
+- Mete Akcaoglu
+apa_citation: Akcaoglu, M. (2016). This Site Is Currently Under Construction.
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'
 citation_count: 0

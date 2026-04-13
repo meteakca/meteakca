@@ -2,8 +2,8 @@
 title: 'Using an MMORPG in a language classroom: Stories versus tutors as source of
   motivation'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2013). Using an MMORPG in a language classroom: Stories
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2013). Using an MMORPG in a language classroom: Stories
   versus tutors as source of motivation.'
 publication_type: Journal Articles
 date: '2013-01-01T00:00:00Z'

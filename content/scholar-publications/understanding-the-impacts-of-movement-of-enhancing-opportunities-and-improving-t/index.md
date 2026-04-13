@@ -2,10 +2,10 @@
 title: Understanding the impacts of movement of enhancing opportunities and improving
   technology initiative (FATIH) on Turkish teachers’ pedagogical perspectives
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - M. Bellibaş
 - Sedat Gumus
-apa_citation: Akcaoğlu, M., Bellibaş, M., & Gumus, S. (2014). Understanding the impacts
+apa_citation: Akcaoglu, M., Bellibaş, M., & Gumus, S. (2014). Understanding the impacts
   of movement of enhancing opportunities and improving technology initiative (FATIH)
   on Turkish teachers’ pedagogical perspectives.
 publication_type: Journal Articles

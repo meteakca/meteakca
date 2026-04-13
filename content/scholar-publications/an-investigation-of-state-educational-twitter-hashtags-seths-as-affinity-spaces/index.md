@@ -6,8 +6,8 @@ authors:
 - S. Greenhalgh
 - Matthew J. Koehler
 - E. Hamilton
-- Mete Akcaoğlu
-apa_citation: Rosenberg, J., Greenhalgh, S., Koehler, M. J., Hamilton, E., & Akcaoğlu,
+- Mete Akcaoglu
+apa_citation: Rosenberg, J., Greenhalgh, S., Koehler, M. J., Hamilton, E., & Akcaoglu,
   M. (2016). An investigation of State Educational Twitter Hashtags (SETHs) as affinity
   spaces.
 publication_type: Journal Articles

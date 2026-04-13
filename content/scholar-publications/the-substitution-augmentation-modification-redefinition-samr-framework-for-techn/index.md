@@ -5,8 +5,8 @@ title: 'The Substitution - Augmentation - Modification - Redefinition (SAMR) fra
 authors:
 - E. Hamilton
 - J. Rosenberg
-- Mete Akcaoğlu
-apa_citation: 'Hamilton, E., Rosenberg, J., & Akcaoğlu, M. (2015). The Substitution
+- Mete Akcaoglu
+apa_citation: 'Hamilton, E., Rosenberg, J., & Akcaoglu, M. (2015). The Substitution
   - Augmentation - Modification - Redefinition (SAMR) framework for technology integration:
   Challenges to its use for guiding K-12 teachers’ pedagogy and practice.'
 publication_type: Journal Articles

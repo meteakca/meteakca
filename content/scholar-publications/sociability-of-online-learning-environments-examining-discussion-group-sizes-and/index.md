@@ -3,8 +3,8 @@ title: 'Sociability of Online Learning Environments: Examining Discussion Group 
   and Social Network Sites'
 authors:
 - Eunbae Lee
-- Mete Akcaoğlu
-apa_citation: 'Lee, E., & Akcaoğlu, M. (2016). Sociability of Online Learning Environments:
+- Mete Akcaoglu
+apa_citation: 'Lee, E., & Akcaoglu, M. (2016). Sociability of Online Learning Environments:
   Examining Discussion Group Sizes and Social Network Sites.'
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

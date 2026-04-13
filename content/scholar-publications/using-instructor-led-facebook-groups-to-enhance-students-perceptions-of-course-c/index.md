@@ -2,9 +2,9 @@
 title: Using instructor-led Facebook groups to enhance students' perceptions of course
   content
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - N. Bowman
-apa_citation: Akcaoğlu, M., & Bowman, N. (2016). Using instructor-led Facebook groups
+apa_citation: Akcaoglu, M., & Bowman, N. (2016). Using instructor-led Facebook groups
   to enhance students' perceptions of course content *Computers in Human Behavior*.
 publication_type: Journal Articles
 date: '2016-01-01T00:00:00Z'

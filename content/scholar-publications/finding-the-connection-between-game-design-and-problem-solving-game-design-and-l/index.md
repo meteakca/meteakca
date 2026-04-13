@@ -2,8 +2,8 @@
 title: 'Finding the connection between Game-Design and Problem-Solving: Game-Design
   and Learning Programs'
 authors:
-- Mete Akcaoğlu
-apa_citation: 'Akcaoğlu, M. (2015). Finding the connection between Game-Design and
+- Mete Akcaoglu
+apa_citation: 'Akcaoglu, M. (2015). Finding the connection between Game-Design and
   Problem-Solving: Game-Design and Learning Programs.'
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

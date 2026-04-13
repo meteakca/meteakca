@@ -2,9 +2,9 @@
 title: Best Practices for Designing Synchronous and Asynchronous Online Teaching for
   Adult Learners
 authors:
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Rosenberg
-apa_citation: Akcaoğlu, M., & Rosenberg, J. (2015). Best Practices for Designing Synchronous
+apa_citation: Akcaoglu, M., & Rosenberg, J. (2015). Best Practices for Designing Synchronous
   and Asynchronous Online Teaching for Adult Learners.
 publication_type: Journal Articles
 date: '2015-01-01T00:00:00Z'

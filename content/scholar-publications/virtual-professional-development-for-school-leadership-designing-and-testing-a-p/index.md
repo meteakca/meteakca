@@ -3,10 +3,10 @@ title: 'Virtual Professional Development for School Leadership: Designing and Te
   a Practical Web-based Simulation for Classroom Observation'
 authors:
 - S. Gümüş
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - J. Mcbrayer
 - Xeniya Belova
-apa_citation: 'Gümüş, S., Akcaoğlu, M., Mcbrayer, J., & Belova, X. (2025). Virtual
+apa_citation: 'Gümüş, S., Akcaoglu, M., Mcbrayer, J., & Belova, X. (2025). Virtual
   Professional Development for School Leadership: Designing and Testing a Practical
   Web-based Simulation for Classroom Observation *Research in Educational Administration
   & Leadership*.'

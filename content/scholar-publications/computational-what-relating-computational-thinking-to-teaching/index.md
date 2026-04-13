@@ -2,13 +2,13 @@
 title: Computational What? Relating Computational Thinking to Teaching
 authors:
 - Ugur Kale
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - T. Cullen
 - Debbie Goh
 - Leah Devine
 - Nathan Calvert
 - Kara Grise
-apa_citation: Kale, U., Akcaoğlu, M., Cullen, T., Goh, D., Devine, L., Calvert, N.,
+apa_citation: Kale, U., Akcaoglu, M., Cullen, T., Goh, D., Devine, L., Calvert, N.,
   & Grise, K. (2018). Computational What? Relating Computational Thinking to Teaching
   *TechTrends*.
 publication_type: Journal Articles

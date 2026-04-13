@@ -2,11 +2,11 @@
 title: 'A Tale of Two Twitters: Synchronous and Asynchronous Use of the Same Hashtag'
 authors:
 - J. Rosenberg
-- Mete Akcaoğlu
+- Mete Akcaoglu
 - K. Willet
 - S. Greenhalgh
 - Matthew J. Koehler
-apa_citation: 'Rosenberg, J., Akcaoğlu, M., Willet, K., Greenhalgh, S., & Koehler,
+apa_citation: 'Rosenberg, J., Akcaoglu, M., Willet, K., Greenhalgh, S., & Koehler,
   M. J. (2017). A Tale of Two Twitters: Synchronous and Asynchronous Use of the Same
   Hashtag.'
 publication_type: Journal Articles

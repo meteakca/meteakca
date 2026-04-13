@@ -2,8 +2,8 @@
 title: Problem Solving and Teaching How to Solve Problems in Technology-Rich Contexts
 authors:
 - Ugur Kale
-- Mete Akcaoğlu
-apa_citation: Kale, U., & Akcaoğlu, M. (2020). Problem Solving and Teaching How to
+- Mete Akcaoglu
+apa_citation: Kale, U., & Akcaoglu, M. (2020). Problem Solving and Teaching How to
   Solve Problems in Technology-Rich Contexts *Peabody Journal of Education*.
 publication_type: Journal Articles
 date: '2020-01-01T00:00:00Z'

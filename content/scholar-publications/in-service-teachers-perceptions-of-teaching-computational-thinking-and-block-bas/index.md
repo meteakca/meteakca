@@ -3,8 +3,8 @@ title: 'In-Service Teachers’ Perceptions of Teaching Computational Thinking an
   Programming: Expanding Scratch’s Role Across K-12 Contexts'
 authors:
 - Ceren Ocak
-- Mete Akcaoğlu
-apa_citation: 'Ocak, C., & Akcaoğlu, M. (2025). In-Service Teachers’ Perceptions of
+- Mete Akcaoglu
+apa_citation: 'Ocak, C., & Akcaoglu, M. (2025). In-Service Teachers’ Perceptions of
   Teaching Computational Thinking and Block-Based Programming: Expanding Scratch’s
   Role Across K-12 Contexts *Computers in The Schools*.'
 publication_type: Journal Articles
