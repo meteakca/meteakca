@@ -17,7 +17,7 @@ abstract: Social presence is a difficult to achieve, but an imperative component
   discussion groups can augment social presence. Designers and educators of online
   learning can strategically modify group size to promote social presence in asynchronous
   online discussions.
-citation_count: 190
+citation_count: 187
 scholar_url: https://www.semanticscholar.org/paper/565829b0cc13dde3abc764b983ed39812a2a3c3d
 eprint_url: https://www.irrodl.org/index.php/irrodl/article/download/2293/3731
 doi: 10.19173/IRRODL.V17I3.2293

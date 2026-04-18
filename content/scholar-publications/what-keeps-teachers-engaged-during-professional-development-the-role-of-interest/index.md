@@ -20,7 +20,7 @@ abstract: Interest influences adults’ and young learners’ learning in formal
   (a) varied, (b) influenced by self-relation, knowledge, and affect, (c) associated
   with reengagement with PD activities, and (d) it can be captured using computational
   text analysis methods and online log data.
-citation_count: 9
+citation_count: 10
 scholar_url: https://www.semanticscholar.org/paper/66cca9ad3ee79bb62a192b6f38a628ca4a5a8b5a
 eprint_url: https://www.mdpi.com/2227-7102/13/2/188/pdf?version=1676020834
 doi: 10.3390/educsci13020188
