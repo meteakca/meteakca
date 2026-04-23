@@ -1,0 +1,434 @@
+---
+format:
+  html:
+    include-after-body: cv-print-btn.html
+---
+
+# Mete Akcaoglu, Ph.D.
+
+Professor, Instructional Technology · 
+Department Chair, Leadership, Technology, and Human Development ·
+Georgia Southern University, College of Education ·
+Savannah, GA 31419
+
+📞 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
+
+## Education
+
+Aug 2013
+:   **Ph.D., Educational Psychology & Educational Technology**
+
+    Michigan State University, East Lansing, MI
+
+    *Dissertation: Cognitive and Motivational Impacts of Learning Game Design. Director: Dr. Matthew J. Koehler*
+
+June 2008
+:   **M.A., Foreign Language Education**
+
+    Middle East Technical University, Ankara, Turkey
+
+    *Thesis: Exploring technology integration in English language teaching*
+
+June 2003
+:   **B.A., Foreign Language Education**
+
+    Boğaziçi University, Istanbul, Turkey
+
+## Academic Experience
+
+Aug 2022–Present
+:   **Professor, Instructional Technology**
+
+    Georgia Southern University, College of Education
+
+Aug 2018–July 2022
+:   **Associate Professor, Instructional Technology**
+
+    Georgia Southern University, College of Education
+
+Aug 2014–July 2018
+:   **Assistant Professor, Instructional Technology**
+
+    Georgia Southern University, College of Education
+
+Aug 2013–May 2014
+:   **Assistant Professor, Instructional Design and Technology**
+
+    West Virginia University, College of Education and Human Services
+
+## Leadership Experience
+
+Fall 2024–Present
+:   **Department Chair – Leadership Technology and Human Development**
+
+    Georgia Southern University
+
+    Overseeing 20 full-time and ~20 part-time faculty, 10 graduate programs, and ~600 students. Leadership focuses on faculty development, culture, strategic enrollment management, curriculum reform, and long-term departmental strength.
+
+    - **Accreditation & Quality:** Supported CAEP accreditation (Counselor Ed); leading NASP readiness for School Psychology
+    - **Enrollment:** Maintained and grown enrollment (~600 students); designed R Shiny enrollment dashboard for data-informed planning
+    - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created Tier 2 Ed. Leadership certificate
+    - **Faculty:** Led 7 successful hires; redesigned annual review process with rubric-based evaluation system
+    - **Operations:** Manage $25,000 annual discretionary budget; coordinate teaching loads across 20 faculty
+    - **Strategic:** Co-leading development of practitioner-focused COE magazine (est. Spring 2027)
+
+Oct 2023–July 2024
+:   **Provost Faculty Fellow**
+
+    Institute for Innovative and Integrated Studies, Georgia Southern University
+
+    - Curriculum and assessment redesign for BIS program; developed IDS 2111 and IDS 4111 online courses
+
+Aug 2018–Jan 2024
+:   **Program Director – Instructional Technology Programs**
+
+    Georgia Southern University
+
+    - Accreditation reporting, enrollment management, program and course revisions, student advising
+
+Jan 2016–Aug 2021
+:   **Founder & Co-Director, Innovation Studio**
+
+    Georgia Southern University
+
+    - Secured ~$250,000 to build interdisciplinary makerspace; launched programming for university and K-12 communities
+
+2007, 2009
+:   **Dean of Residential Life**
+
+    Center for Talented Youth Summer Camp, Johns Hopkins University (Thousand Oaks, CA; Bethlehem, PA)
+
+    - Supervised residential staff, managed camp operations, liaison to students and families
+
+## Research
+
+### Research Interests & Skills
+
+- **Research focus:** Design and evaluation of technology-rich learning environments for developing critical thinking, problem-solving, and STEM interest in K-12 learners. Particular emphasis on game-design as a scaffold for computational thinking and interest development.
+
+- **Computational & Data Analysis:** R (tidyverse, ggplot2, Shiny), text mining, network analysis, machine learning, LLM-assisted research workflows, reproducible research (GitHub, Quarto)
+
+- **Research Design & Methods:** Quantitative, qualitative, and mixed-methods educational research; survey instrument design and validation; experimental and quasi-experimental designs
+
+- [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 27 · 4,488 citations
+
+### Peer-Reviewed Journal Articles
+
+*\* publications with graduate student co-authors*
+
+1. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
+2. Staudt Willet, B.K., Bai, C., Hur, J., & **Akcaoglu, M.** (accepted). Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions. *The International Review of Research in Open and Distributed Learning.*
+3. Akcaoglu, M.O., Mor, E., **Akcaoglu, M.**\*, Coşkun, B.K., & Külekçi, E. (accepted). Adaptation and validation of the Turkish version of the online learning readiness self-check survey. *American Journal of Distance Education.* <https://doi.org/10.1080/08923647.2026.2631259>
+4. \***Ozcan, M.S.** & **Akcaoglu, M.** (2026). Development and validation of the multidimensional interest development survey (MIS). *Journal of Psychoeducational Assessment, 0*(0). <https://doi.org/10.1177/07342829261440809>
+5. Flanigan, A. E., Brady, A. C., **Akcaoglu, M.**, Dai, Y.\*, Won, S., Daleiden, B.\*, & Hartley, K. (2025). The interplay among digital distraction, self-regulation of learning tendencies, and motivational influences: A transnational investigation. *The Internet and Higher Education.* <https://doi.org/10.1016/j.iheduc.2025.101023>
+6. Ocak, C. & **Akcaoglu, M.** (2025). In-service teachers' perceptions of CS teaching with Scratch: Expanding affordances and uses across disciplines in K-12. *Computers in the Schools.* <https://doi.org/10.1080/07380569.2025.2544052>
+7. Hava, K. & **Akcaoglu, M.** (2025). Simple but effective: Using reflections to improve preservice teachers' utility value to teach with game-design. *Journal of Teacher Education and Educators, 14*(1), 79–97. <https://doi.org/10.30828/real.1576742>
+8. Gümüş, S., **Akcaoglu, M.**, McBrayer, J., & Belova, X. (2025). Virtual professional development for school leadership: Designing and testing a practical web-based simulation for classroom observation. *Research in Educational Administration and Leadership.* <https://doi.org/10.30828/real.1576742>
+9. Dogan, S. & **Akcaoglu, M.** (2024). How teachers from underrepresented schools experienced a blended professional development program on computer science and game-design. *Teacher Education Quarterly, 51*(1), 76–103.
+10. \***Akcaoglu, M.**, Ozcan, M.S.\*, & Dogan, S. (2023). What keeps teachers engaged during professional development? The role of interest development. *Education Sciences, 13*(2), 188. <https://doi.org/10.3390/educsci13020188>
+11. \***Akcaoglu, M.**, Ozcan, M.S.\*, & Hodges, C.B. (2023). Exploring the relationship among motivational constructs and preservice teachers' use of computational thinking in classrooms. *Computers in the Schools.* <https://doi.org/10.1080/07380569.2023.2172987>
+12. **Akcaoglu, M.**, Dogan, S., & Hodges, C.B. (2022). Real coding and real games: Design and development of a middle school curriculum using Unity 3D. *TechTrends.* <https://doi.org/10.1007/s11528-022-00782-1>
+13. \*Cain, E.J., **Akcaoglu, M.**, Wright, K., Dobson, A., & Elkins, T. (2022). "I've always loved science": A qualitative exploration of rural college students' STEM interest development and maintenance. *Journal for STEM Education Research.* <https://doi.org/10.1007/s41979-022-00072-8>
+14. \*Flanigan, A.E., **Akcaoglu, M.**, & Ray, E. (2022). Initiating and maintaining student-instructor rapport in online classes. *The Internet and Higher Education, 53.* <https://doi.org/10.1016/j.iheduc.2021.100844>
+15. **Akcaoglu, M.** & Akcaoglu, M.O. (2022). Understanding the relationship among self-efficacy, utility value, and the Community of Inquiry Framework in preservice teacher education. *The International Review of Research in Open and Distributed Learning, 23*(2), 86–106. <https://doi.org/10.19173/irrodl.v23i1.5717>
+16. **Akcaoglu, M.**, Rosenberg, J.M., Hodges, C.B., & Hilpert, J. (2021). An exploration of factors impacting middle school students' attitudes toward computer programming. *Computers in the Schools, 38*(1). <https://doi.org/10.1080/07380569.2021.1882209>
+17. \***Akcaoglu, M.**, Jensen, L.J.\*, & Gonzalez, D.\* (2021). Understanding children's problem-solving strategies in solving game-based logic problems. *International Journal of Technology in Education and Science, 5*(2), 245–257. <https://doi.org/10.46328/ijtes.98>
+18. Soomro, K.A., Kale, U., Curtis, R., **Akcaoglu, M.**, & Bernstein, M. (2020). An investigation of digital divide among higher education faculty. *International Journal of Educational Technology in Higher Education, 21.* <https://doi.org/10.1186/s41239-020-00191-5>
+19. Kale, U. & **Akcaoglu, M.** (2020). Two essential skills for future teachers: Problem-solving and teaching how to solve problems in technology-rich contexts. *Peabody Journal of Education, 95*(2), 127–138. <https://doi.org/10.1080/0161956X.2020.1745612>
+20. Greenhalgh, S.P., Rosenberg, J.M., Willet, K.B.S., Koehler, M.J., & **Akcaoglu, M.** (2020). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag. *Computers and Education.* <https://doi.org/10.1016/j.compedu.2020.103809>
+21. **Akcaoglu, M.** & Green, L.S. (2019). Teaching systems thinking through game design. *Educational Technology Research & Development, 67*(1). <https://doi.org/10.1007/s11423-018-9596-8>
+22. **Akcaoglu, M.** & Lee, E. (2018). Using Facebook groups to support social presence in online learning. *Distance Education, 39*(3). <https://doi.org/10.1080/01587919.2018.1476842>
+23. Kale, U., **Akcaoglu, M.**, Cullen, T., & Goh, D. (2018). Contextual factors influencing access to teaching computational thinking. *Computers in the Schools.* <https://doi.org/10.1080/07380569.2018.1462630>
+24. Kale, U., **Akcaoglu, M.**, Cullen, T., Goh, D., Devine, L., Calvert, N., & Grise, K. (2018). Computational what? Relating computational thinking to teaching. *TechTrends.* <https://doi.org/10.1007/s11528-018-0290-9>
+25. Kale, U. & **Akcaoglu, M.** (2018). The role of relevance in future teachers' utility value and interest toward technology. *Educational Technology Research & Development, 66*(2), 283–311. <https://doi.org/10.1007/s11423-017-9547-9>
+26. **Akcaoglu, M.**, Rosenberg, J.M., Ranellucci, J., & Schwarz, C.V. (2018). Outcomes from a self-generated utility value intervention on fifth and sixth-grade students' value and interest in science. *International Journal of Educational Research, 87,* 67–77. <https://doi.org/10.1016/j.ijer.2017.12.001>
+27. Soomro, K.A., Kale, U., Curtis, R., **Akcaoglu, M.**, & Bernstein, M. (2018). Development of an instrument to measure faculty's information and communication technology access (FICTA). *Education and Information Technologies, 23*(1), 253–269. <https://doi.org/10.1007/s10639-017-9599-9>
+28. Rosenberg, J.M., Greenhalgh, S., Koehler, M.J., Hamilton, E., & **Akcaoglu, M.** (2016). An investigation of state educational Twitter hashtags (SETHs) as affinity spaces. *E-Learning and Digital Media, 13*(1), 24–44. <https://doi.org/10.1177/2042753016672351>
+29. Gutierrez, A.P., **Akcaoglu, M.**, & Chambers, W.L. (2016). Supporting metacognitive awareness and strategy use through digital photography in a rural Title I school. *National Youth-At-Risk Journal, 2*(1), 20–40. <https://doi.org/10.20429/nyarj.2016.020103>
+30. Hamilton, E., Rosenberg, J.M., & **Akcaoglu, M.** (2016). Examining the Substitution Augmentation Modification Redefinition (SAMR) model for technology integration. *TechTrends, 60*(5), 433–441. <https://doi.org/10.1007/s11528-016-0091-y>
+31. **Akcaoglu, M.** & Bowman, N.D. (2016). Using instructor-led Facebook groups to enhance students' perceptions of course content. *Computers in Human Behavior, 65,* 582–590. <https://doi.org/10.1016/j.chb.2016.05.029>
+32. **Akcaoglu, M.** & Kale, U. (2016). Teaching to teach (with) game design: Game design and learning workshops for preservice teachers. *Contemporary Issues in Technology and Teacher Education, 16*(1), 60–81.
+33. **Akcaoglu, M.** (2016). Design and implementation of the Game-Design and Learning program. *TechTrends, 60*(2), 114–123. <https://doi.org/10.1007/s11528-016-0022-y>
+34. **Akcaoglu, M.** & Lee, E. (2016). Increasing social presence in online learning through small group discussions. *The International Review of Research in Open and Distributed Learning, 17*(3). <https://doi.org/10.19173/irrodl.v17i3.2293>
+35. **Akcaoglu, M.**, Gumus, S., Boyer, D.M., & Bellibas, M.S. (2015). Policy, practice, and reality: Exploring a nation-wide technology implementation in Turkish schools. *Technology, Pedagogy and Education, 24*(4), 477–491.
+36. **Akcaoglu, M.** (2014). Learning problem-solving through making games. *Educational Technology Research & Development, 62*(5), 583–600. <https://doi.org/10.1007/s11423-014-9347-4>
+37. Bowman, N.D. & **Akcaoglu, M.** (2014). "I see smart people!": Using Facebook to supplement the university mass lecture. *The Internet and Higher Education, 23,* 1–8. <https://doi.org/10.1016/j.iheduc.2014.05.003>
+38. **Akcaoglu, M.** & Koehler, M.J. (2014). Cognitive outcomes from the Game-Design and Learning (GDL) after-school program. *Computers & Education, 75,* 72–81. <https://doi.org/10.1016/j.compedu.2014.02.003>
+39. Roseth, C.J., **Akcaoglu, M.**, & Zellner, A. (2013). Blending synchronous face-to-face and computer-supported cooperative learning in a hybrid doctoral seminar. *TechTrends, 57*(3), 54–59.
+40. Gumus, S. & **Akcaoglu, M.** (2013). Instructional leadership in Turkish primary schools: An analysis of teachers' perceptions and current policy. *Educational Management Administration & Leadership, 41*(3), 289–302.
+41. **Akcaoglu, M.** (2006). Review of PodOmatic. *The Journal of the JALT CALL SIG, 2*(2), 67–81.
+
+### Books
+
+1. Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.* <https://data-edu.github.io/computational-social-science-cookbook/>
+
+### Peer-reviewed Book Chapters
+
+1. Ocak, C., Hodges, C.B., & Akcaoglu, M. (2025). Fostering a Student-in-the-Loop Approach in Interactions with Generative AI in Online Discussions. In Papadakis (Ed.), *AI Roles and Responsibilities in Education. Signals and Communication Technology.* Springer. <https://doi.org/10.1007/978-3-031-96855-6_10>
+2. Cain, E. J., McCurdy, R. P., & **Akcaoglu, M.** (2023). Rurality, race, and STEM. In Hallmark, Ardoin, & Means (Eds.), *Race and rurality: Considerations for advancing higher education equity.* Routledge. <https://doi.org/10.4324/9781003446620-24>
+3. **Akcaoglu, M.**, Hodges, C. B., & Jensen, L. J. (2022). Using Twitter to Form Professional Learning Communities. In Punziano & Delli Paoli (Eds.), *Handbook of Research on Advanced Research Methodologies for a Digital Society* (pp. 510–525). IGI Global.
+4. Boyer, D. M., **Akcaoglu, M.**, & Pernsteiner, S. (2017). Connecting game and instructional design through development. In Baek (Ed.), *Game-based learning: Theory, strategies and performance outcomes* (pp. 67–83). Nova Publishing.
+5. Lee, E. & **Akcaoglu, M.** (2017). Sociability of Online Learning Environments. In Spector, Locke, & Childress (Eds.), *Learning, design, and technology.* doi: 10.1007/978-3-319-17727-4\_39-2
+6. **Akcaoglu, M.**, Gutierrez, A. P., Sonnleitner, P., & Hodges, C.B. (2016). Game design as a complex problem solving process. In Zheng & Gardner (Eds.), *Handbook of research on serious games for educational applications* (pp. 217–233). IGI Publishing.
+7. Koehler, M.J., Mishra, P., **Akcaoglu, M.**, & Rosenberg, J.M. (2013). TPACK for teachers and teacher educators. In Bharati & Mishra (Eds.), *ICT integrated teacher education models* (pp. 1–8). Commonwealth Educational Media Center for Asia.
+8. **Akcaoglu, M.** (2013). Using an MMORPG in a language classroom. In Baek & Whitton (Eds.), *Cases on digital game-based learning: Methods, models and strategies* (pp. 15–24). IGI Publishing.
+
+### Editorial Work
+
+**Guest editor:** Special Issue: Tinkering in Technology-Rich Design Contexts. *Interdisciplinary Journal of Problem-Based Learning.* Fall 2018.
+
+1. Akcaoglu, M., & Kale, U. (2018). Guest Editors' Introduction: Tinkering in Technology-Rich Design Contexts. *Interdisciplinary Journal of Problem-Based Learning*, 12(2). <https://doi.org/10.7771/1541-5015.1828>
+
+### Conference Keynote
+
+- Akcaoglu, M. (October 3, 2024). Teaching and Learning in the age of AI: What will remain the same and what will change? *International Symposium on Computer and Instructional Technologies (ICITS).* Kastamonu, Türkiye.
+
+### Invited Presentations
+
+- **Akcaoglu, M.** (2024). *Teaching and Learning with AI.* National Ministry of Education Teacher Professional Development Series. Kastamonu, Turkiye.
+- **Akcaoglu, M.** (2021). Oyun Tasarimi in K12 (Game Design in K12). *Yarinin Egitimi Seanslari (Tomorrow's Education Sessions).*
+- **Akcaoglu, M.** (2019). Connecting Game Design and Problem Solving. EDUCAUSE.
+- **Akcaoglu, M.** (2014). *Game-design with Microsoft Kodu.* Playful Learning Summit. Clemson, SC.
+- **Akcaoglu, M.** (2014). *Digital games to support learning.* Michigan State University Bridge Webinar Series.
+
+### Peer-reviewed Conference Presentations
+
+1. Flanigan, A. E., Brady, A. C., **Akcaoglu, M.**, Dai, Y., Won, S., Daleiden, B., & Hartley, K. (2025, November). *Person-centered factors and digital distraction in face-to-face college classes: A transnational investigation.* Mid-Western Educational Research Association, Milwaukee, WI.
+2. Ozcan, M.S. & **Akcaoglu, M.** (2025). *Development and Validation of the Multidimensional Interest Survey (MIS).* AERA Annual Meeting, Denver, CO.
+3. Hodges, C.B., **Akcaoglu, M.**, Dogan, S., & Allen, A. (2023). *Teacher Self-Efficacy During the Development of a CS Curriculum Integrating Game Design and Unity.* AERA Annual Meeting, Chicago.
+4. **Akcaoglu, M.** & Willet, K. B. S. (2023). *The Nature of Online Discussions: Structure, Content, and Discourse in Whole Class Versus Small Groups.* AERA Annual Meeting, Chicago.
+5. Flanigan, A., **Akcaoglu, M.**, & Ray, E. (2022). *Initiating and Maintaining Student-Instructor Rapport in Online Classes.* AERA Annual Meeting, San Diego.
+6. **Akcaoglu, M.**, Dogan, S., Hodges, C., & Allen, A. (2021, November). *Design and Development of a Unity 3D based middle school CS curriculum.* AECT Annual Conference. Virtual.
+7. **Akcaoglu, M.** & Jensen, L.J. (2020, November). *How do they solve it? Investigating middle-school students' problem-solving approaches in game-based puzzles.* AECT Annual Conference. Virtual.
+8. Hodges, C.B., **Akcaoglu, M.**, Downs, E., & Jensen, L.J. (2020, November). *If you build it, will they come? Design, development, and delivery of an undergraduate minor in IDT.* AECT Annual Conference. Virtual.
+9. **Akcaoglu, M.** & Hodges, C. B. (2019, October). *An Analysis of #TECHtalkGA: A weekly Twitter chat for Educators in Georgia.* Georgia Educational Research Conference (GERA), Macon, GA.
+10. **Akcaoglu, M.**, Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' computer science efficacy, value, and interest.* AECT Annual Conference, Kansas City, MO.
+11. Rosenberg, J. M., Willet, K. B. S., Greenhalgh, S. P., Koehler, M. J., & **Akcaoglu, M.** (2018). *Comparing Synchronous and Asynchronous Modes of Twitter for Teacher Professional Learning.* AERA Annual Meeting, New York.
+12. Jensen, L. J. & **Akcaoglu, M.** (2017, November). *EmpathVR: Teaching empathy for ADHD through virtual reality.* AECT Annual Conference, Jacksonville, FL.
+13. Kale, U., **Akcaoglu, M.**, Cullen, T., & Goh, D. (2017, November). *Readiness for teaching computational thinking in rural schools.* AECT Annual Conference, Jacksonville, FL.
+14. Jin, Y., Schmidt-Crawford, D., Dousay, T. A., Boyer, D. M., **Akcaoglu, M.**, & Lee, E. (2017, March). *Makerspaces and Teacher Education.* SITE International Conference, Austin, TX.
+15. Gok, A. & **Akcaoglu, M.** (2016, October). *Evaluating gamification projects in Education: A review of the current research.* AECT Annual Conference, Las Vegas, NV.
+16. **Akcaoglu, M.** & Lee, E. (2016, October). *Making online learning sociable: Examining group size and Facebook groups as social affordances.* AECT Annual Conference, Las Vegas, NV.
+17. Kale, U. & **Akcaoglu, M.** (2016, June). *KODU – A game design tool to equip future teachers with Kodu Game Lab.* International Communication Association (ICA), Fukuoka, Japan.
+18. **Akcaoglu, M.**, Sonnleitner, P., Hodges, C.B., & Gutierrez, A. P. (2016, April). *Teaching complex problem solving through digital game design.* AERA Annual Meeting, Washington, D.C.
+19. Kale, U. & **Akcaoglu, M.** (2016, April). *The effects of a self-generated value intervention on fifth and sixth grade students' utility value and interest.* AERA Annual Meeting, Washington, D.C.
+20. **Akcaoglu, M.** & Bodur, Y. (2016, February). *Increasing sociability of online learning through small group discussions.* Eastern Educational Research Association, Hilton Head Island, SC.
+21. Hamilton, E.R., **Akcaoglu, M.**, & Rosenberg, J.M. (2015, November). *Examining the SAMR Model for instructional design and technology integration.* AECT Annual Conference, Indianapolis, IN.
+22. **Akcaoglu, M.** & Kale, U. (2015, November). *Teaching to teach (with) game-design: GDL workshops for preservice teachers.* AECT Annual Conference, Indianapolis, IN.
+23. Rosenberg, J. M., **Akcaoglu, M.**, Hamilton, E. R., Greenhalgh, S. P., & Koehler, M. J. (2015, November). *Tweeting U.S.A.: An examination of state educational Twitter hashtags (SETHs).* AECT Annual Conference, Indianapolis, IN.
+24. **Akcaoglu, M.** & Lee, E. (2015, November). *Impact of group size on social presence in asynchronous learning environments.* AECT Annual Conference, Indianapolis, IN.
+25. Lee, E., **Akcaoglu, M.**, Dousay, T. A., Boyer, D. M., & Brynteson, K. B. (2015, November). *Makerspaces in higher education.* Panel, AECT Annual Conference, Indianapolis, IN.
+26. Lee, E., **Akcaoglu, M.**, & Jensen, L. J. (2015, September). *The Innovation Studio: A MakerSpace for higher education.* Design, Development, and Research Conference, Athens, GA.
+27. Strahler, D., Bowman, N.D., **Akcaoglu, M.**, Hart, W., & Earnheardt, A. (2015, April). *Pedagogy 2.0: The evolving discourse over social media in education.* Eastern Communication Association, Philadelphia, PA.
+28. **Akcaoglu, M.** (2015, March). *Finding the connection between game-design and problem-solving: Game-Design and Learning programs.* National Youth-At-Risk Conference, Savannah, GA.
+29. **Akcaoglu, M.** & Rosenberg, J.M. (2015, March). *Best practices for designing synchronous and asynchronous online teaching for adult learners.* SITE International Conference, Las Vegas, NV.
+30. **Akcaoglu, M.** (2015, March). *Teaching problem-solving skills through game-design: GDL Courses.* Georgia Scholarship of STEM Teaching & Learning Conference, Statesboro, GA.
+31. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Lee, S.W-Y. (2015, February). *Comparative longitudinal case studies of two middle school teachers' use of scientific modeling.* Create4Stem Mini-Conference, East Lansing, MI.
+32. Rosenberg, J.M., Schwarz, C.V., Lee, S.W.-Y., & **Akcaoglu, M.** (2015, April). *A comparative longitudinal case study of the use of scientific modeling.* NARST, Chicago, IL.
+33. Hamilton, E., Rosenberg, J.M., & **Akcaoglu, M.** (2015, April). *The SAMR framework: Challenges to its use for guiding K-12 teachers' pedagogy and practice.* AERA Annual Meeting, Chicago, IL.
+34. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Lee, S.W.-Y. (2014, April). *A comparative longitudinal case study of the use of scientific modeling.* NARST Annual Meeting, Chicago, IL.
+35. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Wen-Yu Lee, S. (2014, October). *Comparative longitudinal case studies of two middle school teachers' use of scientific modeling.* Advances in Educational Psychology Conference, Alexandria, VA.
+36. Bellibas, M. S., **Akcaoglu, M.**, & Gumus, S. (2013, March). *Understanding the impacts of the FATIH initiative on Turkish teachers' pedagogical perspectives.* Comparative and International Education Society (CIES), New Orleans, LA.
+37. Schwarz, C. V., Li, Z., & **Akcaoglu, M.** (2013, April). *5th grade students' engagement in modeling practice across content areas.* AERA Annual Meeting, San Francisco, CA.
+38. Baek, H., Schwarz, C. V., Li, Z., & **Akcaoglu, M.** (2012, March). *Fostering elementary students' productive engagement in scientific modeling.* NARST Annual Meeting, Indianapolis, IN.
+39. Gumus, S. & **Akcaoglu, M.** (2012, April). *Are Turkish primary school principals ready for the 21st century?* AERA Annual Meeting, Vancouver, WA.
+40. Kereliuk, K. & **Akcaoglu, M.** (2011, April). *Reading TPACK between the lines of theory and practice in pre-service teachers.* AERA Annual Meeting, New Orleans, LA.
+41. Ni, R., **Akcaoglu, M.**, & Dirkin, K. (2010, June). *Compromising among gaming, learning and society.* Games Learning Society (GLS) Annual Conference, Madison, WI.
+42. Gungor, R. & **Akcaoglu, M.** (2010, April). *Technology in the Turkish educational system: Analysis of a policy document.* Comparative and International Education Society (CIES), Chicago, IL.
+43. **Akcaoglu, M.** (2006, May). *Assessing writing through direct and indirect tests.* 4th International Postgraduate Conference in Linguistics and Language Teaching, Adana, Turkey.
+
+### Unpublished Theses
+
+- **Akcaoglu, M.** (2013). *Cognitive and motivational impacts of learning game design on middle school children.* Doctoral Dissertation, Michigan State University. ProQuest (Order No. 3587683).
+- **Akcaoglu, M.** (2008). *Exploring technology integration in English language teaching: Defining the competence, perceived barriers, attitudes, usage frequencies and educational value of technology integration for preservice and in-service ELT teachers.* Master's Thesis, Middle East Technical University, Ankara, Turkey.
+
+## Grants
+
+### PI & Co-PI
+
+1. External Evaluation: Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2025). Georgia Department of Education. Funded: $500,000
+2. External Evaluation: Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2026). Georgia Department of Education. Funded: $500,000
+3. **Senior Personnel** *(responsible for data analytics)*: Brown, S., Williams, E., **Akcaoglu, M.**, Dogan, S., Griffin, M., & Leckie, A. (2022–2024). Mitigating Pandemic Literacy Learning Loss in K-5 Students. GEER II Grant. Funded: $500,000
+4. **PI: Akcaoglu, M.**, Dogan, S., Hodges, C.B., & Allen, A. (2020–2022). *Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum* (#2027948). National Science Foundation. Funded: $299,895
+
+### Advisory Board
+
+1. **Advisor:** Kale, U. & Wang, Y. (2022–2025). Teaching Science with Computational Thinking: Preparing Preservice Elementary Educators of the Future STEM Workforce (#2142274). *National Science Foundation.* Funded: $294,958
+2. **Advisor:** Kale, U. Attracting Future Teachers to Computer Science Education: An Essential Pipeline. *National Science Foundation.* Pending
+3. **Advisor:** Vasconcelos, L. Culturally-sustained Scaffolds for Integrated Computational Thinking and Algebraic Thinking. *National Science Foundation.* Pending
+
+### Proposals – Pending / Unfunded
+
+1. **PI: Akcaoglu, M.**, Ocak, C., Flanigan, A., & McCurdy, R. (2024–2027). IMPACT-CS: *Investigating Motivation and Pedagogical Approaches in Computer Science Teaching.* NSF. Requested: $550,092 – Revise/Resubmit/Pending
+2. Cain, E. & **Akcaoglu, M.** (2020). STEM READY. *NYAR Faculty Research Award.* $10,000 – Funded
+3. Gutierrez, A., **Akcaoglu, M.** & Chambers, W. *COE Seed Grant*, Georgia Southern University. $500 – Funded
+4. Gutierrez, A., **Akcaoglu, M.** & Chambers, W. *COE Partnership Council*, Georgia Southern University. $450 – Funded
+5. **Akcaoglu, M.** & Green, L. S. *COE Partnership Council*, Georgia Southern University. $750 – Funded
+6. **Akcaoglu, M.** & Lee, E. (2015). Digital Media and Learning: Design, Make, & Play. *Innovation Incentive Program*, COE. $9,904 – Funded
+7. Lee, E. & **Akcaoglu, M.** (2015). Student Technology Fees. Georgia Southern University. $60,000 – Funded
+8. **Akcaoglu, M.** (2014). *Faculty Service Awards.* Georgia Southern University. $532.80 – Funded
+9. **Akcaoglu, M.** (2012). Game Design and Learning summer program. *Fevziye Mektepleri Vakfi.* $20,000 – Funded
+10. **Akcaoglu, M.** (2011). Game Design and Learning summer program. *Fevziye Mektepleri Vakfi.* $20,000 – Funded
+
+### Not Funded
+
+1. Gumus, S. & **Akcaoglu, M.** (2020). Leading Schools from Distance. *Independent Research Fund Denmark.* $250,000
+2. Hodges, C. B. & **Akcaoglu, M.** (2018). *Makerspaces in Schools.* ILMS. $100,000
+3. **Akcaoglu, M.** & Kale, U. (2018). *EI: ICU-Computing: A Route to Promote and Integrate Computational Thinking in Teaching.* NSF. $1,426,709
+4. **Akcaoglu, M.**, Jensen, L. J., & Wells, P. (2017). *Empathy VR: A Virtual Reality Experience for Counselor Educators.* GSU Seed Grant. $10,000
+5. Gallard, A. J., **Akcaoglu, M.**, Aslan, A., & Brikich, K. (2016). *Change Makers.* NSF. $1,455,291
+6. Hodges, C. B., Jensen, L. J., & **Akcaoglu, M.** (2016). *Strive.* Cognizant Foundation. $20,000
+7. Yadav, A., **Akcaoglu, M.**, Koehler, M. J., Schmidt, J. A., & Shah, N. (2016). *A 2020 Vision for Girls in Computing.* NSF. $1,069,196
+8. **Akcaoglu, M.** & Kale, U. (2016). *Preservice teachers as game-designers: Teaching game design as pedagogy.* Entertainment Software Association. $48,000
+9. Hilpert, J., Merchand, G., Haddad, R., **Akcaoglu, M.**, et al. (2016). *Complex Systems Science of Learning.* NSF. $734,719
+10. Kale, U., Cullen, T., & **Akcaoglu, M.** (2016). *EI: ICU-Computing.* NSF. $802,321
+11. Yadav, A., Koehler, M. J., Shah, N., Ratan, R., & **Akcaoglu, M.** (2015). *A 2020 Vision for Girls in Computing.* NSF. $1,027,358
+12. Hodges, C.B., **Akcaoglu, M.**, & Haddad, R. (2015). *Project LeaPRS: Learning Problem-solving and Programming in Rural Schools.* NSF. $599,841
+
+## Teaching Experience
+
+### Faculty Teaching (Georgia Southern University)
+
+2025–2026
+:   Department Chair (administrative release) · Fa: ITEC 8135 (2025), ITEC 8135* (2026)
+
+2024
+:   Sp: ITEC 3132, 8739, FRIT 7238* · Su: ITEC 8133 ×2, 7236 · Fa: IDS 2111*, 4111*
+
+2023
+:   Sp: FRIT 7236, ITEC 3132, 8739 · Su: ITEC 8231, Grant buyout · Fa: ITEC 8133, 7236, 7233
+
+2022
+:   Sp: FRIT 7236, ITEC 3132, 8739* · Su: ITEC 8134, Grant buyout · Fa: ITEC 8133, 7236, PD release
+
+2021
+:   Sp: ITEC 3132, 8839 ×2 · Su: ITEC 8134, Grant buyout · Fa: ITEC 3132, 7236, PD release
+
+2020
+:   Sp: ITEC 8838, 8839 · Su: ITEC 8134, 8231 · Fa: ITEC 8231, 3132, 8133, 8135*
+
+2019
+:   Sp: ITEC 3131*, 8839, 7236 · Su: ITEC 8134, 3132*, 3131 · Fa: ITEC 8133, 3132
+
+2018
+:   Sp: FRIT 7236, 7231, 7739 · Su: ITEC 8231, 7335, 8134 · Fa: ITEC 8133, 7236
+
+2017
+:   Sp: ITEC 8134, 7236, 7739 · Su: FRIT 7330 ×2, 7335 · Fa: FRIT 7231, 7236, ITEC 8133
+
+2016
+:   Sp: ITEC 8133, 7430, 8135 · Su: FRIT 7236, ITEC 7330 · Fa: ITEC 8133, 7430, 7739
+
+2015
+:   Sp: FRIT 7236, ITEC 8133, 8135 · Su: FRIT 7231, 7530 · Fa: FRIT 7231, 7236, ITEC 8134
+
+2014
+:   Sp: EDP 600, IDT 740* · Fa: FRIT 7236*, ITEC 8134, 8135
+
+2013
+:   EDP 600*, IDT 735* (Michigan State University, final year of graduate school)
+
+*\* Courses designed or significantly redesigned*
+
+### Graduate Teaching Assistant
+
+Aug 2010–May 2013
+:   **Graduate Teaching Assistant**, Michigan State University, East Lansing, MI
+
+    - TE 150 – Reflections on Learning (face-to-face and online): Fall 2010, Spring 2011, Fall 2011
+    - CEP 807 – Proseminar in Educational Technology (online): Summer 2011
+    - Supported CEP 900, 910, 930, 901b doctoral seminars
+    - Best Hybrid Course Award – 2012 (CEP 910)
+
+### Other Teaching
+
+Sep 2005–June 2008
+:   **English Language Teacher** — Atilim University, Ankara, Turkey
+
+Sep 2003–Jan 2005
+:   **English Language Teacher** — FMV Ayazaga Isik Primary School, Istanbul, Turkey
+
+Sep 2002–June 2003
+:   **English Language Teacher (preservice)** — Robert College, Istanbul, Turkey
+
+Aug 2003–June 2008
+:   **English Language Teacher** — Private language schools, Istanbul and Ankara (Wall Street Institute; English Time)
+
+2010–2020
+:   **Game Design Instructor** — Summer and afterschool camps, grades 3–8
+
+### Doctoral Advisees
+
+- William Bell (2025–Present) – *Role of Engagement on Student Academic Performance in Rural Schools*
+- Moneak McCray (2025–Present) – *Impact of Instructional Leadership on School Success in Rural Contexts*
+
+## Awards & Fellowships
+
+### Honors and Awards
+
+- Jack Miller Research Award, Georgia Southern University, College of Education (August 2022)
+- Jack Miller Educator of the Year, Georgia Southern University, College of Education (August 2018)
+- Georgia Southern University Innovation and Discovery Award (Nominated, November 2020)
+- Georgia Southern University Research Award (Nominated, November 2018)
+
+### Fellowships
+
+1. Michigan State University, Dissertation Completion Fellowship, $6,000 (2013)
+2. Michigan State University, College of Education, Research Development Fund, $1,000 (2012)
+3. Michigan State University, College of Education, Research Development Fund, $1,000 (2010)
+4. Michigan State University, College of Education Scholarship, Research Development Fund, $1,175 (2011)
+5. Michigan State University, College of Education Scholarship, $4,000 (2008)
+6. Honor Scholarship Recipient (stipend + school fees), Boğaziçi University, Istanbul, Turkey (1999–2003)
+
+## Service & Affiliations
+
+### University Service
+
+| Years | Role |
+|:------|:-----|
+| 2016–2019 | Georgia Southern University Faculty Senate |
+| 2017–2019 | Georgia Southern University Academic Standards Committee |
+
+### College, Department, and Program Service
+
+| Years | Role |
+|:------|:-----|
+| 2021–2022 | College of Education, Research Committee – Chair |
+| 2020–2021 | College of Education, Dean Search Committee Member |
+| 2020–2021 | College of Education, Research Committee |
+| 2018–2020 | College of Education, Technology and Instructional Resources Committee *(Co-chair 2019–2020)* |
+| 2017–2018 | Educator Preparation Committee (EPC) |
+| 2016–2019 | Webmaster, LTHD Department |
+| 2016–2022 | Co-Founder, Innovation Studio Events |
+| 2015–2017 | College of Education Research Committee |
+| 2014–2015 | Search Committee, Instructional Technology Program |
+| 2016–2017 | Search Committee, Educational Leadership Program |
+
+### Professional Service
+
+| Years | Role |
+|:------|:-----|
+| 2015–2022 | Technology Coordinator, Scholarly Consortium for Innovative Psychology in Education (SCIPIE) |
+
+**Ad-Hoc Reviewer:** Computers in Human Behavior; International Review of Research on Distance Learning; Computers & Education; Educational Management Administration & Leadership; TechTrends; Communication Teacher; E-Learning and Digital Media; Journal of Educational Computing Research; national and international conferences (SITE, NYAR, AECT); NSF Panel Reviewer.
+
+### Community Service
+
+| Years | Role |
+|:------|:-----|
+| Fall 2018 | Game Design instructor, Portal Elementary School |
+| 2015–2018 | Photography and Digital Learning instructor, Nevils Elementary School |
+| 2015–2019 | Game Design Instructor, Nevils Elementary School |
+| Spring 2016 | Game Design Instructor, Statesboro Main Street Library |
+| 2015–2018 | Game Design Instructor, William James Middle School |
+| 2016–2021 | Robotics Instructor, Innovation Studio |
+
+### Professional Affiliations
+
+- American Educational Research Association (AERA)
+- Association for Educational Communications and Technology (AECT)
+- Scholarly Consortium for Innovative Psychology in Education (SCIPIE)
+
+---
+
+*Last updated April 2026 · [Full publication list (auto-synced)](https://meteakcaoglu.com/scholar-publications/)*
