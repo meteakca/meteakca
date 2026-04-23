@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mete Akcaoglu"
+  navbar: false
+
+format:
+  html:
+    css: site-styles.css
+    toc: false
+    number-sections: false
+    page-layout: article
+    format-links: false
+    include-before-body: _navbar.html
