@@ -12,4 +12,5 @@ node_modules/
 
 /.quarto/
 /_site/
+cv.pdf
 **/*.quarto_ipynb

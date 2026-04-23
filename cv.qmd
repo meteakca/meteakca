@@ -2,6 +2,9 @@
 format:
   html:
     include-after-body: cv-print-btn.html
+  typst:
+    include-in-header: cv-typst-header.typ
+    papersize: us-letter
 ---
 
 # Mete Akcaoglu, Ph.D.
