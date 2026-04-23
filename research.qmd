@@ -1,0 +1,29 @@
+---
+title: "Research — Mete Akcaoglu"
+---
+
+# Research
+
+Professor of Instructional Technology · Georgia Southern University
+
+## Research Program
+
+My work focuses on the design and evaluation of technology-rich learning
+environments, with an emphasis on motivation, curiosity, and computational
+thinking in K–12 settings.
+
+**h-index 27 · 4,488 citations** ·
+[Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en)
+
+## Research Interests
+
+- Interest and motivation development in technology-rich environments
+- Game-based learning and computational thinking
+- AI in education and LLM-assisted research workflows
+- Online learning design
+
+## Publications
+
+*Full details coming soon.*
+
+[View CV for complete publication record](cv.html)

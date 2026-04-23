@@ -1,0 +1,21 @@
+<style>
+.cv-print-btn {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  background: var(--accent, #ff3b00);
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 10px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  cursor: pointer;
+  z-index: 9999;
+  opacity: 0.82;
+  transition: opacity 0.15s;
+}
+.cv-print-btn:hover { opacity: 1; }
+</style>
+<button class="cv-print-btn" onclick="window.print()">⌘P · Print / Save PDF</button>
