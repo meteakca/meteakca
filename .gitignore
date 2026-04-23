@@ -9,3 +9,7 @@ node_modules/
 .DS_Store
 .Rhistory
 .worktrees/
+
+/.quarto/
+/_site/
+**/*.quarto_ipynb

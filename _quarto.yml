@@ -1,10 +1,17 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
+  render:
+    - index.qmd
+    - cv.qmd
+    - research.qmd
 
 website:
   title: "Mete Akcaoglu"
   navbar: false
+  page-navigation: false
 
 format:
   html:
