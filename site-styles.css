@@ -131,7 +131,7 @@ h1 + p + p {
   color: var(--muted) !important;
   margin: 0 !important;
   padding-bottom: 28px;
-  border-bottom: 1px solid var(--rule);
+  border-bottom: 2px solid var(--ink);
 }
 
 h1 + p + p a { color: var(--muted); text-decoration: none; }
