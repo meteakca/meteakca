@@ -441,6 +441,27 @@ hr + p a:hover { color: var(--accent); }
   #quarto-document-content {
     padding: 32px 24px 64px !important;
   }
+
+  /* Collapse definition lists to stacked layout */
+  dl {
+    display: block !important;
+  }
+
+  dt {
+    border-top: 1px solid var(--rule);
+    padding: 12px 0 3px !important;
+  }
+
+  dd {
+    margin: 0;
+    border-top: none !important;
+    padding: 0 0 10px !important;
+  }
+
+  dl > dt:first-child {
+    border-top: none;
+    padding-top: 4px !important;
+  }
 }
 
 /* ── Print ─────────────────────────────────────────────────── */
