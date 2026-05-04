@@ -62,18 +62,20 @@ Aug 2013–May 2014
 ## Leadership Experience
 
 Fall 2024–Present
-:   **Department Chair – Leadership Technology and Human Development**
+:   **Department Chair – Leadership, Technology, and Human Development**
 
-    Georgia Southern University
+    Georgia Southern University (interim Fall 2024; permanent appointment December 2025)
 
     Overseeing 20 full-time and ~20 part-time faculty, 10 graduate programs, and ~600 students. Leadership focuses on faculty development, culture, strategic enrollment management, curriculum reform, and long-term departmental strength.
 
     - **Accreditation & Quality:** Supported CAEP accreditation (Counselor Ed); leading NASP readiness for School Psychology
-    - **Enrollment:** Maintained and grown enrollment (~600 students); designed R Shiny enrollment dashboard for data-informed planning
-    - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created Tier 2 Ed. Leadership certificate
-    - **Faculty:** Led 7 successful hires; redesigned annual review process with rubric-based evaluation system
-    - **Operations:** Manage $25,000 annual discretionary budget; coordinate teaching loads across 20 faculty
-    - **Strategic:** Co-leading development of practitioner-focused COE magazine (est. Spring 2027)
+    - **Enrollment:** Maintained and grown enrollment (~600 students); built [automated enrollment dashboard](https://meteakca.shinyapps.io/lthd-dashboard/) (Python scraper → JSON archive → R Shiny app with daily cron deploy) tracking 10 semesters across 887 course sections
+    - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created faster-paced Ed.D. track; created Tier 2 Ed. Leadership certificate; led revision of departmental TPR documents
+    - **Faculty:** Led 8 successful faculty searches; redesigned annual review process with rubric-based evaluation; implemented structured onboarding for new hires
+    - **Operations:** Manage $25,000 annual discretionary budget; coordinate teaching loads across 20 faculty; implemented Microsoft Planner workflow for program directors; created standardized annual reporting template; established floating academic advisor model for Counseling
+    - **Faculty Development & Culture:** Restructured department meetings with rotating brownbag series; established LTHD D-Space for faculty collaboration; serve as intellectual partner to faculty on research and programmatic questions
+    - **Advocacy:** Raised workload and staffing concerns proactively with college leadership; surfaced implications of institutional decisions for program quality
+    - **Strategic:** Led LTHD strategic plan; contributed to COE strategic plan as college leadership team member; co-leading practitioner-focused COE magazine (est. Spring 2027)
 
 Oct 2023–July 2024
 :   **Provost Faculty Fellow**
