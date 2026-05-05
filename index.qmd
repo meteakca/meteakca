@@ -27,7 +27,7 @@ My work spans experimental, survey, and qualitative methods.
 
 ## Research Interests
 
-- Curiosity, interest development, and motivation in technology-rich learning environments
+- Interest development, and motivation in technology-rich learning environments
 - Game-based learning and computational thinking in K–12
 - AI in education and LLM-assisted research workflows
 - Online learning design and community of inquiry

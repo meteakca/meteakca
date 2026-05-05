@@ -12,8 +12,18 @@ My work focuses on the design and evaluation of technology-rich learning
 environments, with an emphasis on motivation, curiosity, and computational
 thinking in K–12 settings.
 
-**h-index 27 · 4,488 citations** ·
-[Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en)
+```{r}
+#| echo: false
+#| output: asis
+library(scholar)
+stats <- get_profile("0y1b0oEAAAAJ")
+cat(sprintf(
+  "**h-index %d · %s citations** · [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) *(retrieved %s)*",
+  stats$h_index,
+  format(stats$total_cites, big.mark = ","),
+  format(Sys.Date(), "%B %Y")
+))
+```
 
 ## Research Interests
 
