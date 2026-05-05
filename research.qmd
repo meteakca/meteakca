@@ -54,7 +54,6 @@ Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Anal
 ## Active Grants
 
 1. **Math Nation — Georgia Pilot Program Evaluation** (2025–2026). Georgia Department of Education. $1,000,000. Role: Co-PI.
-2. **IMPACT-CS: Investigating Motivation and Pedagogical Approaches in Computer Science Teaching** (pending). NSF. $550,092. Role: PI. *(Revise & resubmit)*
-3. **Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum** (2020–2022). NSF #2027948. $299,895. Role: PI. *(Completed)*
+2. **Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum** (2020–2022). NSF #2027948. $299,895. Role: PI. *(Completed)*
 
 [View complete grants record →](cv.html#grants)
