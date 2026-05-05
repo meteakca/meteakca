@@ -1,0 +1,50 @@
+---
+title: "Projects — Mete Akcaoglu"
+---
+
+# Projects
+
+Selected tools, programs, and initiatives.
+
+## LTHD Enrollment Dashboard
+
+An automated enrollment tracking system for the Department of Leadership, Technology, and Human Development at Georgia Southern University.
+
+- Python scraper pulls enrollment data daily → JSON archive → R Shiny front-end
+- Tracks 10 semesters of data across 887 course sections
+- Deployed with daily cron updates
+
+[View dashboard →](https://meteakca.shinyapps.io/lthd-dashboard/)
+
+## Project GAME
+
+*Developing and Piloting a Game Design-Based Computer Science Curriculum*
+
+NSF-funded (#2027948, $299,895) research project designing a middle school CS curriculum built around game design with Unity 3D.
+
+- Developed and piloted curriculum in Georgia middle schools
+- Published in *TechTrends* (2022): [doi.org/10.1007/s11528-022-00782-1](https://doi.org/10.1007/s11528-022-00782-1)
+- Presented at AERA and AECT conferences
+
+## Innovation Studio
+
+*Georgia Southern University, 2016–2021*
+
+An interdisciplinary university makerspace I co-founded and co-directed.
+
+- Secured ~$250,000 in funding
+- Programming for university and K–12 communities
+- Robotics, game design, and digital fabrication workshops
+
+## Computational Analysis of Educational Data
+
+A textbook co-authored with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026).
+
+- *A Field Guide Using R* — covers data wrangling, visualization, text mining, and machine learning for education researchers
+- [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
+
+## This Website
+
+Built with Quarto, R, and GitHub Actions. Swiss modernist design system. Dynamic Google Scholar statistics via the `scholar` R package. Deployed to GitHub Pages on push.
+
+- [Source on GitHub →](https://github.com/meteakca/meteakca)

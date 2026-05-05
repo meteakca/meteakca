@@ -27,13 +27,34 @@ cat(sprintf(
 
 ## Research Interests
 
-- Interest and motivation development in technology-rich environments
-- Game-based learning and computational thinking
+- Interest development and motivation in technology-rich learning environments
+- Game-based learning and computational thinking in K–12
 - AI in education and LLM-assisted research workflows
-- Online learning design
+- Online learning design and community of inquiry
 
-## Publications
+## Book
 
-*Full details coming soon.*
+Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.* [Read online](https://data-edu.github.io/computational-social-science-cookbook/)
 
-[View CV for complete publication record](cv.html)
+## Selected Publications
+
+1. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
+2. \*Ozcan, M.S. & **Akcaoglu, M.** (2026). Development and validation of the multidimensional interest development survey (MIS). *Journal of Psychoeducational Assessment.* <https://doi.org/10.1177/07342829261440809>
+3. Flanigan, A. E., Brady, A. C., **Akcaoglu, M.**, et al. (2025). The interplay among digital distraction, self-regulation of learning tendencies, and motivational influences. *The Internet and Higher Education.* <https://doi.org/10.1016/j.iheduc.2025.101023>
+4. Hamilton, E., Rosenberg, J.M., & **Akcaoglu, M.** (2016). Examining the SAMR model for technology integration. *TechTrends, 60*(5), 433–441. <https://doi.org/10.1007/s11528-016-0091-y>
+5. **Akcaoglu, M.** & Koehler, M.J. (2014). Cognitive outcomes from the Game-Design and Learning (GDL) after-school program. *Computers & Education, 75,* 72–81. <https://doi.org/10.1016/j.compedu.2014.02.003>
+6. **Akcaoglu, M.** (2014). Learning problem-solving through making games. *Educational Technology Research & Development, 62*(5), 583–600. <https://doi.org/10.1007/s11423-014-9347-4>
+7. Bowman, N.D. & **Akcaoglu, M.** (2014). "I see smart people!": Using Facebook to supplement the university mass lecture. *The Internet and Higher Education, 23,* 1–8. <https://doi.org/10.1016/j.iheduc.2014.05.003>
+8. **Akcaoglu, M.** & Lee, E. (2016). Increasing social presence in online learning through small group discussions. *IRRODL, 17*(3). <https://doi.org/10.19173/irrodl.v17i3.2293>
+
+*\* graduate student co-authors*
+
+[View complete publication record →](cv.html#research)
+
+## Active Grants
+
+1. **Math Nation — Georgia Pilot Program Evaluation** (2025–2026). Georgia Department of Education. $1,000,000. Role: Co-PI.
+2. **IMPACT-CS: Investigating Motivation and Pedagogical Approaches in Computer Science Teaching** (pending). NSF. $550,092. Role: PI. *(Revise & resubmit)*
+3. **Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum** (2020–2022). NSF #2027948. $299,895. Role: PI. *(Completed)*
+
+[View complete grants record →](cv.html#grants)

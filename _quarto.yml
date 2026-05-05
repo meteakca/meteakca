@@ -7,6 +7,8 @@ project:
     - index.qmd
     - cv.qmd
     - research.qmd
+    - projects.qmd
+    - teaching.qmd
 
 website:
   title: "Mete Akcaoglu"

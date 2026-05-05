@@ -47,11 +47,10 @@ a:hover { text-decoration: underline; }
 }
 
 .site-nav-name {
-  font-family: var(--mono);
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
+  font-family: var(--sans);
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
   color: var(--ink);
   text-decoration: none;
 }
@@ -72,18 +71,16 @@ a:hover { text-decoration: underline; }
   font-weight: 500;
   letter-spacing: 0.07em;
   text-transform: uppercase;
-  color: #fff;
-  background: var(--accent);
-  padding: 6px 12px;
+  color: var(--muted);
+  background: transparent;
+  padding: 6px 0;
   text-decoration: none;
-  opacity: 0.82;
-  transition: opacity 0.15s;
+  transition: color 0.15s;
 }
 
 .site-nav-links a:hover,
 .site-nav-links a[aria-current="page"] {
-  color: #fff;
-  opacity: 1;
+  color: var(--ink);
   text-decoration: none;
 }
 

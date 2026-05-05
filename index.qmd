@@ -40,3 +40,11 @@ Georgia Southern University · Fall 2024–Present
 Overseeing 20 full-time faculty, 10 graduate programs, ~600 students. Focus
 areas: faculty development, curriculum reform, enrollment management, and
 accreditation.
+
+## News
+
+- **2026** — Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg. [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
+- **2025–2026** — Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)
+- **2024** — Keynote at the International Symposium on Computer and Instructional Technologies (ICITS), Kastamonu, Türkiye
+- **2024** — Appointed Department Chair, Leadership, Technology, and Human Development
+- **2022** — Completed NSF-funded Project GAME: a game design-based CS curriculum for middle schools
