@@ -14,7 +14,7 @@ An automated enrollment tracking system for the Department of Leadership, Techno
 - Tracks 10 semesters of data across 887 course sections
 - Deployed with daily cron updates
 
-[View dashboard →](https://meteakca.shinyapps.io/lthd-dashboard/)
+[View dashboard →](https://meteakca.shinyapps.io/lthd_dashboard/)
 
 ## Project GAME
 
