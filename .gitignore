@@ -1,0 +1,16 @@
+# IDEs
+.idea/
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/
+.Rproj.user
+.DS_Store
+.Rhistory
+.worktrees/
+
+/.quarto/
+/_site/
+cv.pdf
+**/*.quarto_ipynb

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext /Users/makcaoglu/Documents/meteakca/branding/GSVisualStandardsQuickGuideAug2018.pdf -)",
+      "Bash(cat /Users/makcaoglu/Documents/meteakca/content/home/*.md)",
+      "Bash(find /Users/makcaoglu/Documents/meteakca -path */themes/* -name *.scss)",
+      "Bash(xargs cat:*)"
+    ]
+  }
+}
