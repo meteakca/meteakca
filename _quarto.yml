@@ -22,4 +22,5 @@ format:
     number-sections: false
     page-layout: article
     format-links: false
+    include-in-header: _analytics.html
     include-before-body: _navbar.html
