@@ -8,11 +8,11 @@ Selected tools, programs, and initiatives.
 
 ## LTHD Enrollment Dashboard
 
-An automated enrollment tracking system for the Department of Leadership, Technology, and Human Development at Georgia Southern University.
+A department-level enrollment intelligence tool I built for the Department of Leadership, Technology, and Human Development at Georgia Southern University. A Python scraper collects enrollment figures on a daily cron schedule, archives them as JSON, and feeds an R Shiny front-end that lets faculty and administrators spot trends without waiting on institutional reports.
 
-- Python scraper pulls enrollment data daily → JSON archive → R Shiny front-end
-- Tracks 10 semesters of data across 887 course sections
-- Deployed with daily cron updates
+- 10 semesters of historical data across 887 course sections
+- Daily automated updates via cron + Python pipeline
+- Interactive filters by program, course, and term
 
 [View dashboard →](https://meteakca.shinyapps.io/lthd_dashboard/)
 
@@ -20,31 +20,62 @@ An automated enrollment tracking system for the Department of Leadership, Techno
 
 *Developing and Piloting a Game Design-Based Computer Science Curriculum*
 
-NSF-funded (#2027948, $299,895) research project designing a middle school CS curriculum built around game design with Unity 3D.
+An NSF CSforAll-funded project (#2027948, $299,895) that designed, developed, and piloted a middle school computer science curriculum built around game design with Unity 3D. Unlike block-based approaches such as Scratch, the curriculum uses professional-grade tools so students gain directly transferable programming skills. The project partnered with teachers in underserved rural schools across Southeast Georgia to co-develop and iterate on the materials.
 
-- Developed and piloted curriculum in Georgia middle schools
-- Published in *TechTrends* (2022): [doi.org/10.1007/s11528-022-00782-1](https://doi.org/10.1007/s11528-022-00782-1)
-- Presented at AERA and AECT conferences
+- Four partner schools in Bulloch, Candler, Chatham, and Screven counties; six participating teachers
+- Three research strands: curriculum design, teacher PD and professional learning communities, and implementation evaluation
+- Builds on a decade of game-design-and-learning research (Akcaoglu & Koehler, 2014; Akcaoglu & Santos Green, 2018)
+
+[Project website →](https://www.projectgame.org/) · [NSF award →](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027948)
+
+**Selected publications:**
+
+- Dogan, S. & Akcaoglu, M. (2024). How teachers from underrepresented schools experienced a blended professional development program on computer science and game-design. [*Teacher Education Quarterly, 51*(1), 76–103.](https://doi.org/10.1080/07380569.2023.2172987)
+- Akcaoglu, M., Ozcan, M.S., & Dogan, S. (2023). What keeps teachers engaged during professional development? The role of interest development. [*Education Sciences, 13*(2), 188.](https://doi.org/10.3390/educsci13020188)
+- Akcaoglu, M., Dogan, S., & Hodges, C.B. (2022). Real coding and real games: Design and development of a middle school curriculum using Unity 3D. [*TechTrends.*](https://doi.org/10.1007/s11528-022-00782-1)
+- Akcaoglu, M., Rosenberg, J.M., Hodges, C.B., & Hilpert, J. (2021). An exploration of factors impacting middle school students' attitudes toward computer programming. [*Computers in the Schools, 38*(1).](https://doi.org/10.1080/07380569.2021.1882209)
+
+## Game-Design and Learning (GDL)
+
+The foundational research line behind Project GAME. Starting with my dissertation at Michigan State, I spent a decade designing and studying after-school and in-class programs where students learn problem-solving, systems thinking, and computational thinking by designing their own digital games — first with Kodu and GameMaker, later with Unity 3D and C#.
+
+- Originated as an after-school program studying cognitive outcomes of game design in middle schoolers
+- Demonstrated transfer of problem-solving and systems-thinking skills through game-design tasks
+- Extended into preservice teacher education through GDL workshops
+
+**Key publications:**
+
+- Akcaoglu, M. & Green, L.S. (2019). Teaching systems thinking through game design. [*ETR&D, 67*(1).](https://doi.org/10.1007/s11423-018-9596-8)
+- Akcaoglu, M. & Kale, U. (2016). Teaching to teach (with) game design: Game design and learning workshops for preservice teachers. [*CITE, 16*(1), 60–81.](https://citejournal.org/volume-16/issue-1-16/general/teaching-to-teach-with-game-design-game-design-and-learning-workshops-for-preservice-teachers/)
+- Akcaoglu, M. (2016). Design and implementation of the Game-Design and Learning program. [*TechTrends, 60*(2), 114–123.](https://doi.org/10.1007/s11528-016-0022-y)
+- Akcaoglu, M. (2014). Learning problem-solving through making games. [*ETR&D, 62*(5), 583–600.](https://doi.org/10.1007/s11423-014-9347-4)
+- Akcaoglu, M. & Koehler, M.J. (2014). Cognitive outcomes from the Game-Design and Learning (GDL) after-school program. [*Computers & Education, 75*, 72–81.](https://doi.org/10.1016/j.compedu.2014.02.003)
 
 ## Innovation Studio
 
-*Georgia Southern University, 2016–2021*
+*Georgia Southern University, 2015–2021*
 
-An interdisciplinary university makerspace I co-founded and co-directed.
+A makerspace I co-founded with Eunbae Lee in the College of Education's Instructional Support and Resources Center. The studio brought together university students, faculty, K–12 teachers, and community members around 3D printing, robotics, electronics, augmented reality, and game design. It served as both a teaching lab and a community outreach hub.
 
-- Secured ~$250,000 in funding
-- Programming for university and K–12 communities
-- Robotics, game design, and digital fabrication workshops
+- ~$250,000 in funding from the College of Education and external sources
+- Programming included teacher workshops, youth summer camps, formal courses, and open maker sessions
+- Community outreach initiatives such as the "3D Printer for Your School" contest with local elementary schools
+- Published as a conference paper: Lee, Akcaoglu, & Jensen (2015), *Design, Development, and Research Conference*
+
+[Innovation Studio at GSU →](https://coe.georgiasouthern.edu/isrc/innovation-studio/)
 
 ## Computational Analysis of Educational Data
 
-A textbook co-authored with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026).
+*A Field Guide Using R* — a textbook co-authored with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026). The book targets education researchers who know the basics of R and statistics and want to expand into computational methods. Each chapter follows a field-guide format: data quality guidance, structural requirements, sample research questions, analysis workflow in R, and template write-ups for Methods and Results sections.
 
-- *A Field Guide Using R* — covers data wrangling, visualization, text mining, and machine learning for education researchers
-- [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
+- Covers text analysis, network analysis, machine learning, and LLM-based methods
+- Includes practical chapters on cloud vs. local LLMs and AI coding assistants
+- Designed for doctoral coursework and as a reference for working academics
+
+[Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
 
 ## This Website
 
-Built with Quarto, R, and GitHub Actions. Swiss modernist design system. Dynamic Google Scholar statistics via the `scholar` R package. Deployed to GitHub Pages on push.
+Built with Quarto, R, and GitHub Actions. Swiss modernist design system. Deployed to GitHub Pages on push.
 
 - [Source on GitHub →](https://github.com/meteakca/meteakca)
