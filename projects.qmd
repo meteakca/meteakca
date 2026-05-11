@@ -6,16 +6,6 @@ title: "Projects — Mete Akcaoglu"
 
 Selected tools, programs, and initiatives.
 
-## LTHD Enrollment Dashboard
-
-A department-level enrollment intelligence tool I built for the Department of Leadership, Technology, and Human Development at Georgia Southern University. A Python scraper collects enrollment figures on a daily cron schedule, archives them as JSON, and feeds an R Shiny front-end that lets faculty and administrators spot trends without waiting on institutional reports.
-
-- 10 semesters of historical data across 887 course sections
-- Daily automated updates via cron + Python pipeline
-- Interactive filters by program, course, and term
-
-[View dashboard →](https://meteakca.shinyapps.io/lthd_dashboard/)
-
 ## Project GAME
 
 *Developing and Piloting a Game Design-Based Computer Science Curriculum*
@@ -79,3 +69,13 @@ A makerspace I co-founded with Eunbae Lee in the College of Education's Instruct
 Built with Quarto, R, and GitHub Actions. Swiss modernist design system. Deployed to GitHub Pages on push.
 
 - [Source on GitHub →](https://github.com/meteakca/meteakca)
+
+## LTHD Enrollment Dashboard
+
+A department-level enrollment intelligence tool I built for the Department of Leadership, Technology, and Human Development at Georgia Southern University. A Python scraper collects enrollment figures on a daily cron schedule, archives them as JSON, and feeds an R Shiny front-end that lets faculty and administrators spot trends without waiting on institutional reports.
+
+- 10 semesters of historical data across 887 course sections
+- Daily automated updates via cron + Python pipeline
+- Interactive filters by program, course, and term
+
+[View dashboard →](https://meteakca.shinyapps.io/lthd_dashboard/)
