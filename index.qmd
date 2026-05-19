@@ -2,25 +2,49 @@
 title: "Mete Akcaoglu"
 ---
 
+::: {.hero}
+![](akcaoglu_22_full.jpg){.hero-photo}
+
+:::: {.hero-text}
+[Professor of Instructional Technology · Department Chair]{.hero-lead}
+
 I am a professor of instructional technology and department chair at Georgia
 Southern University. My research focuses on how people learn with and through
-technology — with particular emphasis on motivation, curiosity, and the design
-of technology-rich learning environments.
+technology with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. I study game-based learning, interest development, and AI in educational settings. My work spans experimental, survey, and qualitative methods. 
 
-I study game-based learning, interest development, and AI in educational settings.
-My work spans experimental, survey, and qualitative methods.
-
-[Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) ·
-[GitHub](https://github.com/meteakca) ·
-[LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) ·
-[Bluesky](https://bsky.app/profile/meteakca.bsky.social)
+::: {.social-links}
+[Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [GitHub](https://github.com/meteakca) · [LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [Bluesky](https://bsky.app/profile/meteakca.bsky.social)
+:::
+::::
+:::
 
 ## Research Interests
 
-- Interest development, and motivation in technology-rich learning environments
-- Game-based learning and computational thinking in K–12
-- AI in education and LLM-assisted research workflows
-- Online learning design and community of inquiry
+::: {.interest-cards}
+:::: {.interest-card}
+[Motivation & Interest Development]{.interest-card-title}
+
+How interest emerge in technology-rich environments, and how instructional design can sustain them. [→ Related work](research.html)
+::::
+
+:::: {.interest-card}
+[Game-Based Learning & CS Education]{.interest-card-title}
+
+Using game design as a vehicle for teaching computational thinking in K–12 classrooms. [→ Project GAME](projects.html)
+::::
+
+:::: {.interest-card}
+[AI in Education]{.interest-card-title}
+
+LLM-assisted research workflows, AI literacy, and the role of generative AI in teaching and learning.
+::::
+
+:::: {.interest-card}
+[Online Learning Design]{.interest-card-title}
+
+Community of inquiry frameworks, course design patterns, and engagement in online and hybrid settings.
+::::
+:::
 
 ## Current Position
 
@@ -33,8 +57,19 @@ accreditation.
 
 ## News
 
-- **2026** — Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg. [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
-- **2025–2026** — Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)
-- **2024** — Keynote at the International Symposium on Computer and Instructional Technologies (ICITS), Kastamonu, Türkiye
-- **2024** — Appointed Department Chair, Leadership, Technology, and Human Development
-- **2022** — Completed NSF-funded Project GAME: a game design-based CS curriculum for middle schools
+::: {.news-feed}
+2026
+: Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg. [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
+
+2025–26
+: Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)
+
+2024
+: Keynote at the International Symposium on Computer and Instructional Technologies (ICITS), Kastamonu, Türkiye
+
+2024
+: Appointed Department Chair, Leadership, Technology, and Human Development
+
+2022
+: Completed NSF-funded Project GAME: a game design-based CS curriculum for middle schools
+:::

@@ -25,3 +25,4 @@ format:
     format-links: false
     include-in-header: _analytics.html
     include-before-body: _navbar.html
+    include-after-body: _footer.html
