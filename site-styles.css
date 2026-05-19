@@ -40,9 +40,8 @@ a:hover { text-decoration: underline; }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 980px;
-  margin: 0 auto 36px;
-  padding: 22px 52px 18px;
+  margin: 0 0 36px;
+  padding: 22px 0 18px;
   border-bottom: 2px solid var(--ink);
 }
 
@@ -67,9 +66,9 @@ a:hover { text-decoration: underline; }
 
 .site-nav-links a {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 13px;
   font-weight: 500;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--muted);
   background: transparent;
@@ -102,41 +101,40 @@ nav.navbar,
 body { counter-reset: h2; }
 h2   { counter-increment: h2; }
 
-/* ── Name / H1 ─────────────────────────────────────────────── */
+/* ── Page title / H1 ──────────────────────────────────────── */
 h1 {
   font-family: var(--sans) !important;
   font-weight: 500 !important;
-  font-size: clamp(40px, 6vw, 68px) !important;
-  line-height: 0.92 !important;
-  letter-spacing: -0.032em !important;
+  font-size: clamp(24px, 4vw, 36px) !important;
+  line-height: 1.05 !important;
+  letter-spacing: -0.025em !important;
   color: var(--ink) !important;
   border: none !important;
-  margin: 0 0 10px !important;
+  margin: 0 0 16px !important;
   padding: 0 !important;
 }
 
-/* Role + org line */
-h1 + p {
-  font-size: 15px !important;
-  color: var(--ink-2) !important;
+/* ── Hero subtitle (index page) ──────────────────────────── */
+.hero-subtitle p:first-child {
+  font-size: 15px;
+  color: var(--ink-2);
   line-height: 1.4;
-  margin: 0 0 6px !important;
+  margin: 0 0 6px;
   font-weight: 400;
 }
 
-/* Contact line — mono, uppercase */
-h1 + p + p {
-  font-family: var(--mono) !important;
-  font-size: 11px !important;
+.hero-subtitle p:last-child {
+  font-family: var(--mono);
+  font-size: 11px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--muted) !important;
-  margin: 0 !important;
+  color: var(--muted);
+  margin: 0;
   padding-bottom: 0;
 }
 
-h1 + p + p a { color: var(--muted); text-decoration: none; }
-h1 + p + p a:hover { color: var(--accent); }
+.hero-subtitle p:last-child a { color: var(--muted); text-decoration: none; }
+.hero-subtitle p:last-child a:hover { color: var(--accent); }
 
 /* ── Section headings / H2 ─────────────────────────────────── */
 h2 {
@@ -432,7 +430,7 @@ hr + p a:hover { color: var(--accent); }
   .site-nav {
     flex-direction: column;
     gap: 12px;
-    padding: 16px 24px;
+    padding: 16px 0;
   }
 
   #quarto-document-content {
