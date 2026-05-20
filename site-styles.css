@@ -343,6 +343,16 @@ h3 {
   border: none !important;
 }
 
+/* Blog post H3 — readable size */
+.blog-post h3 {
+  font-family: var(--sans) !important;
+  font-size: 16px !important;
+  text-transform: none !important;
+  letter-spacing: -0.01em !important;
+  color: var(--ink) !important;
+  margin: 32px 0 8px !important;
+}
+
 /* ── Definition lists (dated entries) ─────────────────────── */
 dl {
   display: grid !important;
