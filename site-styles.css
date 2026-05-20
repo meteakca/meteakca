@@ -514,6 +514,12 @@ dd > ul > li > strong {
 /* Italic notes above publication lists */
 .level3 > p > em,
 .level2 > p > em {
+  font-style: italic;
+}
+
+/* Publication note style — only on CV page */
+body:not(.blog-post) .level3 > p:first-child > em:only-child,
+body:not(.blog-post) .level2 > p:first-child > em:only-child {
   font-family: var(--mono);
   font-size: 10px;
   font-style: normal;
