@@ -3,7 +3,6 @@ title: "Blog"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  fields: [date, title, description, categories]
-  date-format: "MMM D, YYYY"
+  type: custom
+  template: _includes/blog-listing.ejs
 ---

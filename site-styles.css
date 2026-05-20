@@ -551,84 +551,49 @@ code {
 }
 
 /* ── Blog listing ─────────────────────────────────────────── */
-.quarto-listing {
+.blog-listing {
   margin: 0;
 }
 
-.quarto-listing .list-group {
-  border: none !important;
-}
-
-.quarto-listing .list-group-item {
-  background: transparent !important;
-  border: none !important;
-  border-top: 1px solid var(--rule) !important;
-  border-radius: 0 !important;
-  padding: 14px 0 !important;
-  margin: 0 !important;
-}
-
-.quarto-listing .list-group-item:first-child {
-  border-top: none !important;
-}
-
-.quarto-listing .listing-title {
-  font-family: var(--sans);
-  font-size: 15px;
-  font-weight: 500;
-  color: var(--ink);
-  letter-spacing: -0.01em;
-}
-
-.quarto-listing .listing-title a {
-  color: var(--ink);
+.blog-item {
+  display: block;
+  padding: 16px 0;
+  border-top: 1px solid var(--rule);
   text-decoration: none;
+  transition: background 0.15s;
 }
 
-.quarto-listing .listing-title a:hover {
-  color: var(--accent);
-}
+.blog-item:first-child { border-top: none; }
 
-.quarto-listing .listing-description {
-  font-size: 13.5px;
-  color: var(--ink-2);
-  line-height: 1.5;
-  margin-top: 2px;
-}
+.blog-item:hover { text-decoration: none; }
+.blog-item:hover .blog-title { color: var(--accent); }
 
-.quarto-listing .listing-date {
+.blog-date {
+  display: block;
   font-family: var(--mono);
   font-size: 10px;
   color: var(--muted);
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-bottom: 3px;
 }
 
-.quarto-listing .listing-categories {
-  margin-top: 4px;
-}
-
-.quarto-listing .listing-category {
-  font-family: var(--mono);
-  font-size: 9px;
+.blog-title {
+  display: block;
+  font-family: var(--sans);
+  font-size: 17px;
   font-weight: 500;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--muted);
-  border: 1px solid var(--rule);
-  border-radius: 2px;
-  padding: 2px 6px;
-  background: transparent;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  transition: color 0.15s;
 }
 
-.quarto-listing .listing-category:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
-/* Blog post page styling */
-.quarto-title .quarto-categories {
-  margin-top: 8px;
+.blog-desc {
+  display: block;
+  font-size: 13.5px;
+  color: var(--ink-2);
+  line-height: 1.5;
+  margin-top: 4px;
 }
 
 /* ── HR + footer ───────────────────────────────────────────── */
