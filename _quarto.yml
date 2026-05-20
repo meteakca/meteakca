@@ -9,6 +9,8 @@ project:
     - research.qmd
     - projects.qmd
     - teaching.qmd
+    - blog.qmd
+    - posts
 
 website:
   title: "Mete Akcaoglu"
@@ -23,6 +25,6 @@ format:
     number-sections: false
     page-layout: article
     format-links: false
-    include-in-header: _analytics.html
-    include-before-body: _navbar.html
-    include-after-body: _footer.html
+    include-in-header: _includes/_analytics.html
+    include-before-body: _includes/_navbar.html
+    include-after-body: _includes/_footer.html

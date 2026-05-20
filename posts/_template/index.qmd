@@ -1,0 +1,9 @@
+---
+title: "Post Title"
+date: 2026-01-01
+categories: []
+description: "A short summary for the listing page."
+draft: true
+---
+
+Your content here.

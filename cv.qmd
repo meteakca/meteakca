@@ -2,10 +2,10 @@
 format:
   html:
     include-after-body:
-      - cv-print-btn.html
-      - _footer.html
+      - _includes/cv-print-btn.html
+      - _includes/_footer.html
   typst:
-    include-in-header: cv-typst-header.typ
+    include-in-header: _includes/cv-typst-header.typ
     papersize: us-letter
 ---
 

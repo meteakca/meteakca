@@ -3,34 +3,36 @@ title: "Mete Akcaoglu"
 ---
 
 ::: {.hero}
-![](akcaoglu_22_full.jpg){.hero-photo}
+![](images/profilePic.jpg){.hero-photo}
 
 :::: {.hero-text}
 [Professor of Instructional Technology · Department Chair]{.hero-lead}
 
-I am a professor of instructional technology and department chair at Georgia
-Southern University. My research focuses on how people learn with and through
-technology with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. I study game-based learning, interest development, and AI in educational settings. My work spans experimental, survey, and qualitative methods. 
+I am a professor of instructional technology and department chair at Georgia Southern University. My research focuses on how people learn with and through technology — with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. My work spans game-based learning, AI in education, and online learning design, using experimental, survey, and qualitative methods.
 
 ::: {.social-links}
-[Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [GitHub](https://github.com/meteakca) · [LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [Bluesky](https://bsky.app/profile/meteakca.bsky.social)
+[↗ Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [↗ GitHub](https://github.com/meteakca) · [↗ LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [↗ Bluesky](https://bsky.app/profile/meteakca.bsky.social)
 :::
 ::::
 :::
 
+::: {.section-header}
 ## Research Interests
+
+[→ All publications](research.html){.section-cta}
+:::
 
 ::: {.interest-cards}
 :::: {.interest-card}
 [Motivation & Interest Development]{.interest-card-title}
 
-How interest emerge in technology-rich environments, and how instructional design can sustain them. [→ Related work](research.html)
+How interest emerges in technology-rich environments, and how instructional design can sustain it.
 ::::
 
 :::: {.interest-card}
 [Game-Based Learning & CS Education]{.interest-card-title}
 
-Using game design as a vehicle for teaching computational thinking in K–12 classrooms. [→ Project GAME](projects.html)
+Using game design as a vehicle for teaching computational thinking in K–12 classrooms.
 ::::
 
 :::: {.interest-card}
