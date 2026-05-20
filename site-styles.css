@@ -703,13 +703,12 @@ hr + p a:hover { color: var(--accent); }
   }
 
   .hero {
-    flex-direction: column;
     gap: 16px;
   }
 
   .hero-photo {
     width: 100px;
-    height: 100px;
+    height: 130px;
   }
 
   .interest-cards {
