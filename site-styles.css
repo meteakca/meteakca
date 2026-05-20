@@ -89,8 +89,31 @@ nav.navbar,
 #quarto-sidebar { display: none !important; }
 
 /* ── Quarto chrome ─────────────────────────────────────────── */
-#title-block-header,
+#title-block-header:not(.blog-post #title-block-header),
 .quarto-title-banner { display: none !important; }
+
+/* Blog post title block */
+.blog-post #title-block-header {
+  display: block !important;
+  margin-bottom: 24px;
+}
+
+.blog-post #title-block-header .title {
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: clamp(24px, 4vw, 36px);
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+
+.blog-post #title-block-header .date {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
 
 #quarto-document-content {
   max-width: 980px !important;
