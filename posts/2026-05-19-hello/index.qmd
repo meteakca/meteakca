@@ -1,8 +1,0 @@
----
-title: "Hello, World"
-date: 2026-05-19
-categories: [meta]
-description: "First post on the new site."
----
-
-This is a test post. More to come.
