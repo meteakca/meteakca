@@ -139,10 +139,13 @@ h1 {
 
 /* ── Hero section (index page) ───────────────────────────── */
 .hero {
+  margin-bottom: 0;
+}
+
+.hero-body {
   display: flex;
   gap: 32px;
   align-items: flex-start;
-  margin-bottom: 0;
 }
 
 .hero-photo {
@@ -702,13 +705,14 @@ hr + p a:hover { color: var(--accent); }
     padding-top: 4px !important;
   }
 
-  .hero {
+  .hero-body {
     gap: 16px;
   }
 
   .hero-photo {
-    width: 100px;
-    height: 130px;
+    width: 130px;
+    height: 170px;
+    flex-shrink: 0;
   }
 
   .interest-cards {

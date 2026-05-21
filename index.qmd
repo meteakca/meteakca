@@ -3,16 +3,18 @@ title: "Mete Akcaoglu"
 ---
 
 ::: {.hero}
-![](images/profilePic.jpg){.hero-photo}
-
-:::: {.hero-text}
 [Professor of Instructional Technology · Department Chair]{.hero-lead}
 
+:::: {.hero-body}
+![](images/profilePic.jpg){.hero-photo}
+
+::::: {.hero-text}
 I am a professor of instructional technology and department chair at Georgia Southern University. My research focuses on how people learn with and through technology — with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. My work spans game-based learning, AI in education, and online learning design, using experimental, survey, and qualitative methods.
 
 ::: {.social-links}
 [↗ Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [↗ GitHub](https://github.com/meteakca) · [↗ LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [↗ Bluesky](https://bsky.app/profile/meteakca.bsky.social)
 :::
+:::::
 ::::
 :::
 
