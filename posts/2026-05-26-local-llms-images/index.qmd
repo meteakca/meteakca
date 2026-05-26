@@ -1,0 +1,21 @@
+---
+title: "Analyzing Classroom Images Locally with R and LLMs"
+date: 2026-05-26
+categories: [Research Methods, AI in Education, Computational Social Science]
+description: "A new chapter in the Computational Social Science Cookbook shows how to analyze classroom photos using local vision models — no API, no privacy risk."
+---
+
+We are almost done with our new book [Computational Social Science Cookbook](https://data-edu.github.io/computational-social-science-cookbook/chapter-10.html), a collaborative open-access book aimed at education researchers working with computational methods. Among many other things, I led the chapter on using local (or cloud) LLMs to conduct methodological image analyses. My chapter covers something I think is genuinely underused in the field: analyzing classroom images with vision-language models in R.
+
+The chapter is practical and self-contained. If you have R and Ollama installed, you can follow along and run the code. But the method is worth a brief argument, because most researchers who haven't tried image analysis aren't uninterested. The barriers are technical friction and a real privacy problem that local models now largely solve.
+
+Images are hard to analyze at scale. Manual coding is slow, expensive, and hard to replicate. And in educational contexts specifically, school photos contain students. Sending them to a commercial API raises real privacy and IRB concerns that most researchers are not willing to navigate.
+
+So we use what we can measure and leave the rest behind. Instructional format, spatial arrangement, student engagement: all visible in a photograph, almost none of it in a typical dataset. Although the example focuses on student engagement, the method applies to any research question that can be answered with visual data. The chapter includes a section on how to use the same workflow with cloud APIs, which is a good option for researchers who don't have access to local models, but with the trade-off of the privacy risk.
+
+The chapter uses the [`{kuzco}` package](https://github.com/frankiethull/kuzco), which wraps Ollama's local model inference and exposes four functions: classification, object recognition, sentiment estimation, and a free-form custom prompt. About a dozen lines of code gets you from a folder of classroom photos to structured, analyzable output. Shout out to [Frank Hull](https://bsky.app/profile/frankiethull.bsky.social), the author of the package, for making this so easy.
+
+For the chapter's worked example, we used classroom photos pulled from Wikimedia Commons. I ran the workflow across three questions: instructional format, group composition, and student engagement. It produced results that could be easily verified, and accurate. And it gets there at a speed and scale that manual coding cannot match. There are of course limitations. The model is not perfect, and the results are not a substitute for careful qualitative analysis. But they are a useful starting point, and a way to get more out of visual data than we have in the past. Another important aspect to LLM work is the need for responsible use practices. The book also has a full section on using LLMs directly for qualitative data analysis, with a responsible use framework built around correctness, transparency, and reproducibility. More on that [here](https://data-edu.github.io/computational-social-science-cookbook/section-3-Intro.html).
+
+Visual data has been treated as supplementary in educational research mostly because analyzing it was impractical. That is no longer true. If you work with classroom images or observational photos, or other ways you use visual data (outside of education is more than welcome) the chapter is a working starting point in R.
+
