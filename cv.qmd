@@ -18,6 +18,53 @@ Savannah, GA 31419
 
 📞 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
 
+## Leadership Experience
+
+Fall 2024–Present
+:   **Department Chair – Leadership, Technology, and Human Development**
+
+    Georgia Southern University (interim Fall 2024; permanent appointment December 2025)
+
+    Overseeing 20 full-time and ~20 part-time faculty, 10 graduate programs, and ~600 students (579 Fall 2024). Leadership focuses on faculty development, culture, strategic enrollment management, curriculum reform, and long-term departmental strength.
+
+    - **Accreditation & Quality:** Supported CACREP accreditation (Counselor Ed); leading NASP readiness for School Psychology
+    - **Enrollment:** Maintained and grown enrollment (~600 students); built [automated enrollment dashboard](https://meteakca.shinyapps.io/lthd-dashboard/) (Python scraper → JSON archive → R Shiny app with daily cron deploy) tracking 10 semesters across 887 course sections
+    - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created faster-paced Ed.D. track; created Tier 2 Ed. Leadership certificate; led revision of departmental TPR documents
+    - **Faculty:** Led 8 successful faculty searches; redesigned annual review process with rubric-based evaluation; implemented structured onboarding for new hires
+    - **Operations:** Manage $25,000 annual discretionary budget; coordinate teaching loads across 20 faculty; implemented Microsoft Planner workflow for program directors; created standardized annual reporting template; established floating academic advisor model for Counseling
+    - **Faculty Development & Culture:** Restructured department meetings with rotating brownbag series; established LTHD D-Space for faculty collaboration; serve as intellectual partner to faculty on research and programmatic questions
+    - **Advocacy:** Raised workload and staffing concerns proactively with college leadership; surfaced implications of institutional decisions for program quality
+    - **Strategic:** Finalized LTHD 2025–2030 Strategic Plan with KPI baselines across Teaching, Research, Service, and Student Success pillars, including EdD enrollment, time-to-degree, and cohort retention data; contributed to COE strategic plan as college leadership team member; co-leading practitioner-focused COE magazine (est. Spring 2027)
+
+Oct 2023–July 2024
+:   **Provost Faculty Fellow**
+
+    University College (Formerly Institute for Interdisciplinary Studies), Georgia Southern University
+
+    - Curriculum and assessment redesign for BIS program; developed IDS 2111 and IDS 4111 online courses
+
+Aug 2018–Jan 2024
+:   **Program Director – Instructional Technology Programs**
+
+    Georgia Southern University
+
+    - Led the creation of the [Computer Science Education for Teachers Endorsement](https://www.georgiasouthern.edu/degrees/computer-science-education-for-teachers-endorsement-online/) — a fully online, 9-credit-hour program enabling P-12 teachers to earn a Georgia certificate upgrade in CS education
+    - Accreditation reporting, enrollment management, program and course revisions, student advising
+
+Jan 2016–Aug 2021
+:   **Founder & Co-Director, Innovation Studio**
+
+    Georgia Southern University
+
+    - Secured ~$250,000 to build interdisciplinary makerspace; launched programming for university and K-12 communities
+
+2007, 2009
+:   **Dean of Residential Life**
+
+    Center for Talented Youth Summer Camp, Johns Hopkins University (Thousand Oaks, CA; Bethlehem, PA)
+
+    - Supervised residential staff, managed camp operations, liaison to students and families
+
 ## Education
 
 Aug 2013
@@ -60,53 +107,6 @@ Aug 2013–May 2014
 :   **Assistant Professor, Instructional Design and Technology**
 
     West Virginia University, College of Education and Human Services
-
-## Leadership Experience
-
-Fall 2024–Present
-:   **Department Chair – Leadership, Technology, and Human Development**
-
-    Georgia Southern University (interim Fall 2024; permanent appointment December 2025)
-
-    Overseeing 20 full-time and ~20 part-time faculty, 10 graduate programs, and ~600 students. Leadership focuses on faculty development, culture, strategic enrollment management, curriculum reform, and long-term departmental strength.
-
-    - **Accreditation & Quality:** Supported CAEP accreditation (Counselor Ed); leading NASP readiness for School Psychology
-    - **Enrollment:** Maintained and grown enrollment (~600 students); built [automated enrollment dashboard](https://meteakca.shinyapps.io/lthd-dashboard/) (Python scraper → JSON archive → R Shiny app with daily cron deploy) tracking 10 semesters across 887 course sections
-    - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created faster-paced Ed.D. track; created Tier 2 Ed. Leadership certificate; led revision of departmental TPR documents
-    - **Faculty:** Led 8 successful faculty searches; redesigned annual review process with rubric-based evaluation; implemented structured onboarding for new hires
-    - **Operations:** Manage $25,000 annual discretionary budget; coordinate teaching loads across 20 faculty; implemented Microsoft Planner workflow for program directors; created standardized annual reporting template; established floating academic advisor model for Counseling
-    - **Faculty Development & Culture:** Restructured department meetings with rotating brownbag series; established LTHD D-Space for faculty collaboration; serve as intellectual partner to faculty on research and programmatic questions
-    - **Advocacy:** Raised workload and staffing concerns proactively with college leadership; surfaced implications of institutional decisions for program quality
-    - **Strategic:** Led LTHD strategic plan; contributed to COE strategic plan as college leadership team member; co-leading practitioner-focused COE magazine (est. Spring 2027)
-
-Oct 2023–July 2024
-:   **Provost Faculty Fellow**
-
-    University College (Formerly Institute for Interdisciplinary Studies), Georgia Southern University
-
-    - Curriculum and assessment redesign for BIS program; developed IDS 2111 and IDS 4111 online courses
-
-Aug 2018–Jan 2024
-:   **Program Director – Instructional Technology Programs**
-
-    Georgia Southern University
-
-    - Led the creation of the [Computer Science Education for Teachers Endorsement](https://www.georgiasouthern.edu/degrees/computer-science-education-for-teachers-endorsement-online/) — a fully online, 9-credit-hour program enabling P-12 teachers to earn a Georgia certificate upgrade in CS education
-    - Accreditation reporting, enrollment management, program and course revisions, student advising
-
-Jan 2016–Aug 2021
-:   **Founder & Co-Director, Innovation Studio**
-
-    Georgia Southern University
-
-    - Secured ~$250,000 to build interdisciplinary makerspace; launched programming for university and K-12 communities
-
-2007, 2009
-:   **Dean of Residential Life**
-
-    Center for Talented Youth Summer Camp, Johns Hopkins University (Thousand Oaks, CA; Bethlehem, PA)
-
-    - Supervised residential staff, managed camp operations, liaison to students and families
 
 ## Research
 
@@ -439,4 +439,4 @@ Aug 2003–June 2008
 
 ---
 
-*Last updated April 2026 · [Full publication list (auto-synced)](https://meteakcaoglu.com/scholar-publications/)*
+*Last updated May 2026 · [Full publication list (auto-synced)](https://meteakcaoglu.com/scholar-publications/)*
