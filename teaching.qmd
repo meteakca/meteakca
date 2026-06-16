@@ -4,16 +4,16 @@ title: "Teaching — Mete Akcaoglu"
 
 # Teaching
 
-Professor of Instructional Technology · Georgia Southern University
+[Professor of Instructional Technology · Georgia Southern University]{.page-subtitle}
 
-## Current Teaching
+## Current Teaching [2024–Present]{.section-kicker}
 
 2025–2026
 :   **ITEC 8135 — Advanced Instructional Design**
 
     Graduate course in the Instructional Technology program. Department chair administrative release for remaining load.
 
-## Doctoral Advisees
+## Doctoral Advisees [2 active]{.section-kicker}
 
 William Bell (2025–Present)
 :   *Role of Engagement on Student Academic Performance in Rural Schools*
@@ -21,7 +21,7 @@ William Bell (2025–Present)
 Moneak McCray (2025–Present)
 :   *Impact of Instructional Leadership on School Success in Rural Contexts*
 
-## Courses Designed
+## Courses Designed [10 courses]{.section-kicker}
 
 Courses I designed or significantly redesigned during my time at Georgia Southern University and West Virginia University.
 

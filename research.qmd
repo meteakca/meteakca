@@ -4,15 +4,20 @@ title: "Research — Mete Akcaoglu"
 
 # Research
 
-Professor of Instructional Technology · Georgia Southern University
+[Professor of Instructional Technology · Georgia Southern University]{.page-subtitle}
+
+<div class="stats-block">
+  <div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
+  <div class="stat-cell"><div class="stat-value">4,923</div><div class="stat-label">Citations</div></div>
+  <div class="stat-cell"><div class="stat-value">41</div><div class="stat-label">Articles</div></div>
+  <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
+</div>
 
 ## Research Program
 
 My work focuses on the design and evaluation of technology-rich learning
 environments, with an emphasis on motivation, curiosity, and computational
 thinking in K–12 settings.
-
-**h-index 28 · 4,923 citations** · [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) *(retrieved May 2026)*
 
 ## Research Interests
 
@@ -25,7 +30,7 @@ thinking in K–12 settings.
 
 Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.* [Read online](https://data-edu.github.io/computational-social-science-cookbook/)
 
-## Selected Publications
+## Selected Publications [41 articles · 8 chapters · 1 book]{.section-kicker}
 
 1. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
 2. \*Ozcan, M.S. & **Akcaoglu, M.** (2026). Development and validation of the multidimensional interest development survey (MIS). *Journal of Psychoeducational Assessment.* <https://doi.org/10.1177/07342829261440809>
@@ -40,7 +45,7 @@ Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Anal
 
 [View complete publication record →](cv.html#research)
 
-## Active Grants
+## Active Grants [Co-PI · 2025–2026]{.section-kicker}
 
 1. **Math Nation — Georgia Pilot Program Evaluation** (2025–2026). Georgia Department of Education. $1,000,000. Role: Co-PI.
 2. **Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum** (2020–2022). NSF #2027948. $299,895. Role: PI. *(Completed)*

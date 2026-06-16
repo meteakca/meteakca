@@ -1,9 +1,8 @@
 ---
 format:
   html:
-    include-after-body:
-      - _includes/cv-print-btn.html
-      - _includes/_footer.html
+    body-classes: cv-page
+    include-before-body: _includes/cv-print-btn.html
   typst:
     include-in-header: _includes/cv-typst-header.typ
     papersize: us-letter
@@ -18,7 +17,17 @@ Savannah, GA 31419
 
 📞 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
 
-## Leadership Experience
+<div class="cv-summary-row">
+<p class="cv-summary">Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.</p>
+<div class="stats-block">
+<div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
+<div class="stat-cell"><div class="stat-value">4,923</div><div class="stat-label">Citations</div></div>
+<div class="stat-cell"><div class="stat-value">41</div><div class="stat-label">Articles</div></div>
+<div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
+</div>
+</div>
+
+## Leadership Experience [Current & recent]{.section-kicker}
 
 Fall 2024–Present
 :   **Department Chair – Leadership, Technology, and Human Development**
@@ -65,28 +74,7 @@ Jan 2016–Aug 2021
 
     - Supervised residential staff, managed camp operations, liaison to students and families
 
-## Education
-
-Aug 2013
-:   **Ph.D., Educational Psychology & Educational Technology**
-
-    Michigan State University, East Lansing, MI
-
-    *Dissertation: Cognitive and Motivational Impacts of Learning Game Design. Director: Dr. Matthew J. Koehler*
-
-June 2008
-:   **M.A., Foreign Language Education**
-
-    Middle East Technical University, Ankara, Turkey
-
-    *Thesis: Exploring technology integration in English language teaching*
-
-June 2003
-:   **B.A., Foreign Language Education**
-
-    Boğaziçi University, Istanbul, Turkey
-
-## Academic Experience
+## Academic Appointments [Georgia Southern · 2014–Present]{.section-kicker}
 
 Aug 2022–Present
 :   **Professor, Instructional Technology**
@@ -108,7 +96,28 @@ Aug 2013–May 2014
 
     West Virginia University, College of Education and Human Services
 
-## Research
+## Education [Ph.D. · M.A. · B.A.]{.section-kicker}
+
+Aug 2013
+:   **Ph.D., Educational Psychology & Educational Technology**
+
+    Michigan State University, East Lansing, MI
+
+    *Dissertation: Cognitive and Motivational Impacts of Learning Game Design. Director: Dr. Matthew J. Koehler*
+
+June 2008
+:   **M.A., Foreign Language Education**
+
+    Middle East Technical University, Ankara, Turkey
+
+    *Thesis: Exploring technology integration in English language teaching*
+
+June 2003
+:   **B.A., Foreign Language Education**
+
+    Boğaziçi University, Istanbul, Turkey
+
+## Research [h-index 28 · 4,923 citations]{.section-kicker}
 
 ### Research Interests & Skills
 
@@ -250,14 +259,17 @@ Aug 2013–May 2014
 - **Akcaoglu, M.** (2013). *Cognitive and motivational impacts of learning game design on middle school children.* Doctoral Dissertation, Michigan State University. ProQuest (Order No. 3587683).
 - **Akcaoglu, M.** (2008). *Exploring technology integration in English language teaching: Defining the competence, perceived barriers, attitudes, usage frequencies and educational value of technology integration for preservice and in-service ELT teachers.* Master's Thesis, Middle East Technical University, Ankara, Turkey.
 
-## Grants
+## Grants [NSF PI · $300K]{.section-kicker}
 
-### PI & Co-PI
+### As Principal Investigator
 
-1. External Evaluation: Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2025). Georgia Department of Education. Funded: $500,000
-2. External Evaluation: Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2026). Georgia Department of Education. Funded: $500,000
-3. **Senior Personnel** *(responsible for data analytics)*: Brown, S., Williams, E., **Akcaoglu, M.**, Dogan, S., Griffin, M., & Leckie, A. (2022–2024). Mitigating Pandemic Literacy Learning Loss in K-5 Students. GEER II Grant. Funded: $500,000
-4. **PI: Akcaoglu, M.**, Dogan, S., Hodges, C.B., & Allen, A. (2020–2022). *Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum* (#2027948). National Science Foundation. Funded: $299,895
+1. **Akcaoglu, M.**, Dogan, S., Hodges, C.B., & Allen, A. (2020–2022). *Project GAME: Developing and Piloting a Game Design-Based Computer Science Curriculum* (#2027948). National Science Foundation. Funded: $299,895
+
+### As Co-Investigator / Senior Personnel
+
+1. Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2025). Georgia Department of Education. Funded: $500,000. Role: Co-PI *(evaluation design and data analysis)*
+2. Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2026). Georgia Department of Education. Funded: $500,000. Role: Co-PI *(evaluation design and data analysis)*
+3. Brown, S., Williams, E., **Akcaoglu, M.**, Dogan, S., Griffin, M., & Leckie, A. (2022–2024). Mitigating Pandemic Literacy Learning Loss in K-5 Students. GEER II Grant. Funded: $500,000. Role: Senior Personnel *(data analytics)*
 
 ### Advisory Board
 
@@ -293,7 +305,7 @@ Aug 2013–May 2014
 11. Yadav, A., Koehler, M. J., Shah, N., Ratan, R., & **Akcaoglu, M.** (2015). *A 2020 Vision for Girls in Computing.* NSF. $1,027,358
 12. Hodges, C.B., **Akcaoglu, M.**, & Haddad, R. (2015). *Project LeaPRS: Learning Problem-solving and Programming in Rural Schools.* NSF. $599,841
 
-## Teaching Experience
+## Teaching Experience [13 yrs · doctoral → undergrad]{.section-kicker}
 
 ### Faculty Teaching (Georgia Southern University)
 

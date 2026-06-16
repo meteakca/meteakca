@@ -3,7 +3,9 @@ title: "Mete Akcaoglu"
 ---
 
 ::: {.hero}
-[Professor of Instructional Technology · Department Chair]{.hero-lead}
+[Mete Akcaoglu.]{.hero-name}
+
+[Professor · Instructional Technology · Department Chair]{.hero-lead}
 
 :::: {.hero-body}
 ![](images/profilePic.jpg){.hero-photo}
@@ -18,8 +20,9 @@ I am a professor of instructional technology and department chair at Georgia Sou
 ::::
 :::
 
+
 ::: {.section-header}
-## Research Interests
+## Research Interests [h-index 28 · 4,923 citations]{.section-kicker}
 
 [→ All publications](research.html){.section-cta}
 :::
@@ -50,7 +53,7 @@ Community of inquiry frameworks, course design patterns, and engagement in onlin
 ::::
 :::
 
-## Current Position
+## Current Position [Chair · Fall 2024–]{.section-kicker}
 
 **Department Chair — Leadership, Technology, and Human Development**
 Georgia Southern University · Fall 2024–Present
