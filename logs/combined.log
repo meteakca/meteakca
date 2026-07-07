@@ -1,0 +1,21 @@
+{"level":"info","message":"🚀 MCP server started on port 3000 in production mode","service":"google-calendar-mcp","timestamp":"2026-06-14 14:40:39"}
+{"level":"info","message":"Server ID: google-calendar-mcp","service":"google-calendar-mcp","timestamp":"2026-06-14 14:40:39"}
+{"level":"info","message":"Server Name: Google Calendar Integration","service":"google-calendar-mcp","timestamp":"2026-06-14 14:40:39"}
+{"level":"info","message":"Using Google Cloud OAuth authentication method","service":"google-calendar-mcp","timestamp":"2026-06-14 14:40:39"}
+{"level":"info","message":"Using authentication method: google_cloud","service":"google-calendar-mcp","timestamp":"2026-06-14 14:40:39"}
+{"level":"info","message":"No authentication found. User needs to authenticate.","service":"google-calendar-mcp","timestamp":"2026-06-14 14:40:39"}
+{"level":"info","message":"Shutting down MCP server...","service":"google-calendar-mcp","timestamp":"2026-06-14 14:41:09"}
+{"level":"info","message":"🚀 MCP server started on port 3000 in production mode","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:23"}
+{"level":"info","message":"Server ID: google-calendar-mcp","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:23"}
+{"level":"info","message":"Server Name: Google Calendar Integration","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:23"}
+{"level":"info","message":"Using Google Cloud OAuth authentication method","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:23"}
+{"level":"info","message":"Using authentication method: google_cloud","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:23"}
+{"level":"info","message":"No authentication found. User needs to authenticate.","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:23"}
+{"level":"info","message":"Shutting down MCP server...","service":"google-calendar-mcp","timestamp":"2026-06-16 10:05:54"}
+{"level":"info","message":"🚀 MCP server started on port 3000 in production mode","service":"google-calendar-mcp","timestamp":"2026-06-16 10:07:21"}
+{"level":"info","message":"Server ID: google-calendar-mcp","service":"google-calendar-mcp","timestamp":"2026-06-16 10:07:21"}
+{"level":"info","message":"Server Name: Google Calendar Integration","service":"google-calendar-mcp","timestamp":"2026-06-16 10:07:21"}
+{"level":"info","message":"Using Google Cloud OAuth authentication method","service":"google-calendar-mcp","timestamp":"2026-06-16 10:07:21"}
+{"level":"info","message":"Using authentication method: google_cloud","service":"google-calendar-mcp","timestamp":"2026-06-16 10:07:21"}
+{"level":"info","message":"No authentication found. User needs to authenticate.","service":"google-calendar-mcp","timestamp":"2026-06-16 10:07:21"}
+{"level":"debug","message":"GET /ICloud/areas/chair/Fall%202026%20Kick%20off%20presentation.md","service":"google-calendar-mcp","timestamp":"2026-06-18 10:18:05"}
