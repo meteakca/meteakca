@@ -24,4 +24,7 @@ cv-dean.typ
 # Worktrees
 .worktrees/
 
+# Logs
+logs/
+
 /.luarc.json
