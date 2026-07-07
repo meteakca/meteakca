@@ -6,6 +6,8 @@ format:
   typst:
     include-in-header: _includes/cv-typst-header.typ
     papersize: us-letter
+    filters:
+      - _filters/section-kicker-typst.lua
 ---
 
 # Mete Akcaoglu, Ph.D.
@@ -15,8 +17,9 @@ Department Chair, Leadership, Technology, and Human Development ·
 Georgia Southern University, College of Education ·
 Savannah, GA 31419
 
-📞 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
+`Tel` 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
 
+::: {.content-visible when-format="html"}
 <div class="cv-summary-row">
 <p class="cv-summary">Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.</p>
 <div class="stats-block">
@@ -26,6 +29,29 @@ Savannah, GA 31419
 <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
 </div>
+:::
+
+::: {.content-visible when-format="typst"}
+Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.
+
+```{=typst}
+#v(0.4em)
+#grid(
+  columns: (1fr, 1fr, 1fr, 1fr),
+  gutter: 0pt,
+  ..( ("28", "h-index"), ("4,923", "Citations"), ("41", "Articles"), ("NSF", "PI Grant · $300K") ).map(((val, lbl)) => box(
+    stroke: 0.5pt + rgb("#CCCCCC"),
+    inset: 8pt,
+    width: 100%,
+    align(center)[
+      #text(size: 14pt, weight: "bold")[#val]\
+      #text(size: 7pt, fill: rgb("#718096"))[#upper(lbl)]
+    ]
+  ))
+)
+#v(0.6em)
+```
+:::
 
 ## Leadership Experience [Current & recent]{.section-kicker}
 
@@ -139,7 +165,7 @@ June 2003
 4. \***Ozcan, M.S.** & **Akcaoglu, M.** (2026). Development and validation of the multidimensional interest development survey (MIS). *Journal of Psychoeducational Assessment, 0*(0). <https://doi.org/10.1177/07342829261440809>
 5. Flanigan, A. E., Brady, A. C., **Akcaoglu, M.**, Dai, Y.\*, Won, S., Daleiden, B.\*, & Hartley, K. (2025). The interplay among digital distraction, self-regulation of learning tendencies, and motivational influences: A transnational investigation. *The Internet and Higher Education.* <https://doi.org/10.1016/j.iheduc.2025.101023>
 6. Ocak, C. & **Akcaoglu, M.** (2025). In-service teachers' perceptions of CS teaching with Scratch: Expanding affordances and uses across disciplines in K-12. *Computers in the Schools.* <https://doi.org/10.1080/07380569.2025.2544052>
-7. Hava, K. & **Akcaoglu, M.** (2025). Simple but effective: Using reflections to improve preservice teachers' utility value to teach with game-design. *Journal of Teacher Education and Educators, 14*(1), 79–97. <https://doi.org/10.30828/real.1576742>
+7. Hava, K. & **Akcaoglu, M.** (2025). Simple but effective: Using reflections to improve preservice teachers' utility value to teach with game-design. *Journal of Teacher Education and Educators, 14*(1), 79–97.
 8. Gümüş, S., **Akcaoglu, M.**, McBrayer, J., & Belova, X. (2025). Virtual professional development for school leadership: Designing and testing a practical web-based simulation for classroom observation. *Research in Educational Administration and Leadership.* <https://doi.org/10.30828/real.1576742>
 9. Dogan, S. & **Akcaoglu, M.** (2024). How teachers from underrepresented schools experienced a blended professional development program on computer science and game-design. *Teacher Education Quarterly, 51*(1), 76–103.
 10. \***Akcaoglu, M.**, Ozcan, M.S.\*, & Dogan, S. (2023). What keeps teachers engaged during professional development? The role of interest development. *Education Sciences, 13*(2), 188. <https://doi.org/10.3390/educsci13020188>
@@ -267,8 +293,8 @@ June 2003
 
 ### As Co-Investigator / Senior Personnel
 
-1. Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2025). Georgia Department of Education. Funded: $500,000. Role: Co-PI *(evaluation design and data analysis)*
-2. Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation (June–December 2026). Georgia Department of Education. Funded: $500,000. Role: Co-PI *(evaluation design and data analysis)*
+1. Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation, Year 1 (June–December 2025). Georgia Department of Education. Funded: $500,000. Role: Co-PI *(evaluation design and data analysis)*
+2. Lingo, A., **Akcaoglu, M.**, Criss, C., & Flanigan, A. Math Nation – Georgia Pilot Program Evaluation, Year 2 (June–December 2026). Georgia Department of Education. Funded: $500,000. Role: Co-PI *(evaluation design and data analysis)*
 3. Brown, S., Williams, E., **Akcaoglu, M.**, Dogan, S., Griffin, M., & Leckie, A. (2022–2024). Mitigating Pandemic Literacy Learning Loss in K-5 Students. GEER II Grant. Funded: $500,000. Role: Senior Personnel *(data analytics)*
 
 ### Advisory Board
@@ -404,44 +430,70 @@ Aug 2003–June 2008
 
 ### University Service
 
-| Years | Role |
-|:------|:-----|
-| 2016–2019 | Georgia Southern University Faculty Senate |
-| 2017–2019 | Georgia Southern University Academic Standards Committee |
+2016–2019
+:   Georgia Southern University Faculty Senate
+
+2017–2019
+:   Georgia Southern University Academic Standards Committee
 
 ### College, Department, and Program Service
 
-| Years | Role |
-|:------|:-----|
-| 2021–2022 | College of Education, Research Committee – Chair |
-| 2020–2021 | College of Education, Dean Search Committee Member |
-| 2020–2021 | College of Education, Research Committee |
-| 2018–2020 | College of Education, Technology and Instructional Resources Committee *(Co-chair 2019–2020)* |
-| 2017–2018 | Educator Preparation Committee (EPC) |
-| 2016–2019 | Webmaster, LTHD Department |
-| 2016–2022 | Co-Founder, Innovation Studio Events |
-| 2015–2017 | College of Education Research Committee |
-| 2014–2015 | Search Committee, Instructional Technology Program |
-| 2016–2017 | Search Committee, Educational Leadership Program |
+2021–2022
+:   College of Education, Research Committee – Chair
+
+2020–2021
+:   College of Education, Dean Search Committee Member
+
+2020–2021
+:   College of Education, Research Committee
+
+2018–2020
+:   College of Education, Technology and Instructional Resources Committee *(Co-chair 2019–2020)*
+
+2017–2018
+:   Educator Preparation Committee (EPC)
+
+2016–2019
+:   Webmaster, LTHD Department
+
+2016–2022
+:   Co-Founder, Innovation Studio Events
+
+2015–2017
+:   College of Education Research Committee
+
+2014–2015
+:   Search Committee, Instructional Technology Program
+
+2016–2017
+:   Search Committee, Educational Leadership Program
 
 ### Professional Service
 
-| Years | Role |
-|:------|:-----|
-| 2015–2022 | Technology Coordinator, Scholarly Consortium for Innovative Psychology in Education (SCIPIE) |
+2015–2022
+:   Technology Coordinator, Scholarly Consortium for Innovative Psychology in Education (SCIPIE)
 
 **Ad-Hoc Reviewer:** Computers in Human Behavior; International Review of Research on Distance Learning; Computers & Education; Educational Management Administration & Leadership; TechTrends; Communication Teacher; E-Learning and Digital Media; Journal of Educational Computing Research; national and international conferences (SITE, NYAR, AECT); NSF Panel Reviewer.
 
 ### Community Service
 
-| Years | Role |
-|:------|:-----|
-| Fall 2018 | Game Design instructor, Portal Elementary School |
-| 2015–2018 | Photography and Digital Learning instructor, Nevils Elementary School |
-| 2015–2019 | Game Design Instructor, Nevils Elementary School |
-| Spring 2016 | Game Design Instructor, Statesboro Main Street Library |
-| 2015–2018 | Game Design Instructor, William James Middle School |
-| 2016–2021 | Robotics Instructor, Innovation Studio |
+Fall 2018
+:   Game Design instructor, Portal Elementary School
+
+2015–2018
+:   Photography and Digital Learning instructor, Nevils Elementary School
+
+2015–2019
+:   Game Design Instructor, Nevils Elementary School
+
+Spring 2016
+:   Game Design Instructor, Statesboro Main Street Library
+
+2015–2018
+:   Game Design Instructor, William James Middle School
+
+2016–2021
+:   Robotics Instructor, Innovation Studio
 
 ### Professional Affiliations
 

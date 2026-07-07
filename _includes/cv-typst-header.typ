@@ -50,8 +50,9 @@
   it.description
 )
 
-// Tables — strip borders, mute first column
+// Tables — strip borders, mute first column, kill paragraph spacing in cells
 #set table(stroke: none, inset: (x: 0pt, y: 3pt))
+#show table: set par(spacing: 0em)
 #show table.cell.where(x: 0): set text(size: 8.5pt, fill: muted)
 
 // Links

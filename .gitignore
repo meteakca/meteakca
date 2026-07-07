@@ -14,5 +14,14 @@
 cv.pdf
 **/*.quarto_ipynb
 
+# Dean CV — private, do not publish to site or push to GitHub
+cv-dean.qmd
+cv-dean.html
+cv-dean.pdf
+cv-dean.typ
+/cv-dean_files/
+
 # Worktrees
 .worktrees/
+
+/.luarc.json

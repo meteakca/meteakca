@@ -318,6 +318,10 @@ p:has(> .hero-name) {
   font-size: 12px;
 }
 
+.cv-summary-row + section > h2 {
+  margin-top: 16px !important;
+}
+
 .cv-page h3 {
   font-size: 12px !important;
   letter-spacing: 0.06em !important;
@@ -493,7 +497,7 @@ h3 {
 /* ── Definition lists (dated entries) ─────────────────────── */
 dl {
   display: grid !important;
-  grid-template-columns: 155px 1fr !important;
+  grid-template-columns: 120px 1fr !important;
   gap: 0 24px !important;
   margin: 0 0 8px !important;
 }
@@ -557,8 +561,8 @@ dd > ul {
 dd > ul > li {
   font-size: 13px;
   color: var(--ink-2);
-  line-height: 1.45;
-  padding: 5px 0 5px 18px;
+  line-height: 1.55;
+  padding: 7px 0 7px 18px;
   border-top: 1px dotted var(--rule);
   position: relative;
 }
@@ -582,7 +586,7 @@ dd > ul > li > strong {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: var(--accent);
+  color: #5a5a5a;
 }
 
 /* ── Numbered lists — publications, grants, chapters ───────── */
