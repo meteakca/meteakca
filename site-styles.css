@@ -888,6 +888,7 @@ hr + p a:hover { color: var(--accent); }
   #quarto-document-content { padding: 24px 32px 48px !important; }
 
   .cv-print-btn { display: none !important; }
+  .site-nav { display: none !important; }
 
   a { color: var(--ink-2) !important; text-decoration: none !important; }
 
@@ -898,5 +899,5 @@ hr + p a:hover { color: var(--accent); }
 
   h3 { page-break-after: avoid; }
 
-  dl, table { page-break-inside: avoid; }
+  table { page-break-inside: avoid; }
 }
