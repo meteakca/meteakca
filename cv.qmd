@@ -3,11 +3,6 @@ format:
   html:
     body-classes: cv-page
     include-before-body: _includes/cv-print-btn.html
-  typst:
-    include-in-header: _includes/cv-typst-header.typ
-    papersize: us-letter
-    filters:
-      - _filters/section-kicker-typst.lua
 ---
 
 # Mete Akcaoglu, Ph.D.
@@ -19,7 +14,6 @@ Savannah, GA 31419
 
 `Tel` 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
 
-::: {.content-visible when-format="html"}
 <div class="cv-summary-row">
 <p class="cv-summary">Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.</p>
 <div class="stats-block">
@@ -29,29 +23,7 @@ Savannah, GA 31419
 <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
 </div>
-:::
 
-::: {.content-visible when-format="typst"}
-Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.
-
-```{=typst}
-#v(0.4em)
-#grid(
-  columns: (1fr, 1fr, 1fr, 1fr),
-  gutter: 0pt,
-  ..( ("28", "h-index"), ("4,923", "Citations"), ("41", "Articles"), ("NSF", "PI Grant · $300K") ).map(((val, lbl)) => box(
-    stroke: 0.5pt + rgb("#CCCCCC"),
-    inset: 8pt,
-    width: 100%,
-    align(center)[
-      #text(size: 14pt, weight: "bold")[#val]\
-      #text(size: 7pt, fill: rgb("#718096"))[#upper(lbl)]
-    ]
-  ))
-)
-#v(0.6em)
-```
-:::
 
 ## Leadership Experience [Current & recent]{.section-kicker}
 
