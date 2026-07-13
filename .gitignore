@@ -24,6 +24,9 @@ cv-dean.typ
 # Worktrees
 .worktrees/
 
+# Scripts
+scripts/
+
 # Logs
 logs/
 
