@@ -223,7 +223,7 @@ p:has(> .hero-name) {
 
 .cv-summary {
   flex: 1;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.45;
   color: var(--ink);
   font-weight: 400;
@@ -231,14 +231,7 @@ p:has(> .hero-name) {
   margin: 0;
 }
 
-.cv-summary::before {
-  content: "↳";
-  display: block;
-  font-family: var(--mono);
-  font-size: 14px;
-  color: var(--accent);
-  margin-bottom: 10px;
-}
+.cv-summary::before { display: none; }
 
 .cv-summary-row .stats-block {
   width: 220px;
@@ -332,6 +325,12 @@ p:has(> .hero-name) {
   line-height: 0.92 !important;
   letter-spacing: -0.035em !important;
   margin: 0 0 10px !important;
+}
+
+.cv-page h1 + p + p {
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--ink-2);
+  margin-bottom: 24px;
 }
 
 /* ── Inner page subtitle (h1 + p role line) ──────────────── */
@@ -881,9 +880,48 @@ hr + p a:hover { color: var(--accent); }
   }
 }
 
+/* ── CV Facets (dean CV two-column sub-item layout) ─────────── */
+.cv-facets {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+.cv-facet {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 12px 0;
+  border-top: 1px solid var(--rule);
+}
+.cv-facet:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+.cv-facet-label {
+  flex: 0 0 100px;
+  font-size: 10px;
+  font-family: var(--mono);
+  color: var(--muted);
+  letter-spacing: 0.03em;
+  line-height: 1.4;
+  padding-top: 3px;
+}
+.cv-facet-label p { margin: 0; }
+.cv-facet-body {
+  flex: 1;
+  font-size: 13.5px;
+}
+.cv-facet-body > p:first-child { margin-top: 0; }
+.cv-facet-body > p:last-child { margin-bottom: 0; }
+.cv-facet-body ul { margin: 0; padding-left: 16px; }
+.cv-facet-body li { margin: 2px 0; padding-left: 0 !important; }
+.cv-facet-body li::before { display: none !important; content: none !important; }
+
 /* ── Print ─────────────────────────────────────────────────── */
 @media print {
+  html { font-size: 10pt !important; }
   html, body { background: #fff !important; }
+
 
   #quarto-document-content { padding: 24px 32px 48px !important; }
 

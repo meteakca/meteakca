@@ -7,12 +7,10 @@ format:
 
 # Mete Akcaoglu, Ph.D.
 
-Professor, Instructional Technology · 
-Department Chair, Leadership, Technology, and Human Development ·
-Georgia Southern University, College of Education ·
-Savannah, GA 31419
+Professor, Instructional Technology · Department Chair, Leadership, Technology, and Human Development\
+Georgia Southern University, College of Education · Savannah, GA 31419
 
-`Tel` 912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
+912.478.0002 · [makcaoglu@georgiasouthern.edu](mailto:makcaoglu@georgiasouthern.edu) · [meteakcaoglu.com](https://meteakcaoglu.com)
 
 <div class="cv-summary-row">
 <p class="cv-summary">Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.</p>
@@ -108,12 +106,16 @@ June 2008
 
     Middle East Technical University, Ankara, Turkey
 
+    *Turkey's leading technical university; English-medium*
+
     *Thesis: Exploring technology integration in English language teaching*
 
 June 2003
 :   **B.A., Foreign Language Education**
 
     Boğaziçi University, Istanbul, Turkey
+
+    *Founded as Robert College (1863); Turkey's most selective, English-medium research university*
 
 ## Research [h-index 28 · 4,923 citations]{.section-kicker}
 
@@ -208,6 +210,7 @@ June 2003
 
 ### Peer-reviewed Conference Presentations
 
+1. **Akcaoglu, M.** & Ocak, C. (2026). *Examining the development of computational thinking interest in asynchronous online courses.* Society for Information Technology & Teacher Education (SITE) International Conference. Association for the Advancement of Computing in Education (AACE).
 1. Flanigan, A. E., Brady, A. C., **Akcaoglu, M.**, Dai, Y., Won, S., Daleiden, B., & Hartley, K. (2025, November). *Person-centered factors and digital distraction in face-to-face college classes: A transnational investigation.* Mid-Western Educational Research Association, Milwaukee, WI.
 2. Ozcan, M.S. & **Akcaoglu, M.** (2025). *Development and Validation of the Multidimensional Interest Survey (MIS).* AERA Annual Meeting, Denver, CO.
 3. Hodges, C.B., **Akcaoglu, M.**, Dogan, S., & Allen, A. (2023). *Teacher Self-Efficacy During the Development of a CS Curriculum Integrating Game Design and Unity.* AERA Annual Meeting, Chicago.
@@ -384,6 +387,7 @@ Aug 2003–June 2008
 
 ### Honors and Awards
 
+- Stanford/Elsevier Top 2% Scientists in Education (2023, 2024)
 - Jack Miller Research Award, Georgia Southern University, College of Education (August 2022)
 - Jack Miller Educator of the Year, Georgia Southern University, College of Education (August 2018)
 - Georgia Southern University Innovation and Discovery Award (Nominated, November 2020)
