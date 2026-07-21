@@ -9,34 +9,34 @@ Educators, rightfully so, are concerned about the impact of GenAI on their profe
 
 I understand the fear. I also think it may be mostly misplaced, or at least productive if we let it be.
 
-GenAI is genuinely disruptive. But the disruption is also revealing something we should have seen all along: many of our standard practices were never well-aligned with how people actually learn (looking at you, 250-student lecture hall). GenAI did not create that gap. It made it impossible to ignore.
+GenAI is genuinely disruptive. The disruption also reveals something we should have seen all along: many of our standard practices were never well-aligned with how people actually learn, the 250-student lecture hall among them. GenAI made that gap impossible to ignore.
 
-Take the book summary. For decades, we assigned it as a proxy for reading comprehension, critical thinking, and synthesis. But what we were actually assessing was a product, a piece of text. The learning was supposed to happen in the process of writing it: the struggle to clarify your own thinking, to hold competing ideas in tension, to find the thread. Writing is thinking.
+The book summary illustrates the drift. For decades, we assigned it as a proxy for reading comprehension, critical thinking, and synthesis. What we were actually assessing was a product, a piece of text. The learning was supposed to happen in the process of writing it: the struggle to clarify your own thinking, to hold competing ideas in tension, to find the thread. Writing is thinking.
 
-The problem is that a student can now generate that product in seconds. And many do, not because they are lazy, but because the assignment never made the process visible or valuable in the first place. The task was always framed around the deliverable, not the doing.
+A student can now generate that product in seconds. Many do so because the assignment rewarded the deliverable and left the process invisible and ungraded.
 
-GenAI did not break the book summary. It exposed that the book summary was already broken, or at least that we were grading the wrong thing.
+The book summary was already broken. GenAI simply exposed that we were grading the wrong thing.
 
-Learning is an active, constructive process. You learn to solve problems by solving them. You learn to write by writing. The struggle is not an obstacle to learning. It *is* the learning. As Andrew Heiss [put it recently](https://stats.andrewheiss.com/pinky-lychee/), "the conditions that produce the most errors during acquisition are often the very conditions that produce the most learning." LLMs, by design, eliminate that friction.
+Learning is an active, constructive process. You learn to solve problems by solving them. You learn to write by writing. The struggle *is* the learning: "the conditions that produce the most errors during acquisition are often the very conditions that produce the most learning" ([Heiss, 2026](https://stats.andrewheiss.com/pinky-lychee/)). LLMs, by design, eliminate that friction.
 
 Learning is also social. It is students in a room, pushing back on each other's ideas, sitting with confusion until something clicks. And it requires a *why*, not just grades, but the intrinsic experience of mastery and the personal relevance of what you are creating.
 
 AI can produce a final product. It cannot replicate the cognitive or emotional experience of getting there.
 
-Gavriel Salomon and David Perkins offered a framework decades ago that I keep returning to. Technology, they argued, has three cognitive effects: you can think *with* it (partnering with a tool to accomplish a task), think *of* it (the cognitive residue left behind after the tool is gone), or think *through* it (the tool fundamentally reorganizes how you understand something).
+Technology has three cognitive effects: you can think *with* it (partnering with a tool to accomplish a task), think *of* it (the cognitive residue left behind after the tool is gone), or think *through* it (the tool fundamentally reorganizes how you understand something) (Salomon & Perkins, 2005).
 
-For a veteran teacher who has designed thousands of lessons, using GenAI to brainstorm is a gift. That is thinking *with*: the expertise is already there, and the tool amplifies it. But for a novice teacher or a student still developing those skills, the risk is different. If the tool does the cognitive work before you have internalized it, you end up with what researchers have called cognitive debt: the illusion of understanding without the substance. That is the dark side of thinking *of*.
+For a veteran teacher who has designed thousands of lessons, using GenAI to brainstorm amplifies existing expertise. That is thinking *with*. A novice teacher or a student still developing those skills faces a different risk: if the tool does the cognitive work before it is internalized, the result is what researchers have called cognitive debt, the illusion of understanding without the substance. That is the dark side of thinking *of*.
 
-This is where the [lower-order versus higher-order distinction](../2026-05-19-radiology-lesson/index.qmd) matters. AI is excellent at offloading lower-order production tasks. The danger is when we let it offload the higher-order thinking that was supposed to be the point.
+The [lower-order versus higher-order distinction](../2026-05-19-radiology-lesson/index.qmd) does the real work here. AI is excellent at offloading lower-order production tasks. The danger is letting it offload the higher-order thinking that was supposed to be the point.
 
-Our *practices* have to change. We can no longer design assignments where the product is the point. We have to assume AI is being used and design around it, not by detecting it, but by making the process matter more than the deliverable.
+Our *practices* have to change. Assignments can no longer treat the product as the point. Design has to assume AI use and make the process matter more than the deliverable; detection is a losing strategy (Piaget, 1970; Vygotsky, 1978; Lave & Wenger, 1991).
 
-Our *theories* do not need to change (and new ones will emerge, theorizing is important work). Active learning, constructivism, situated cognition, transparent pedagogy: these are not outdated. If anything, GenAI makes them more urgent. We need to explain to students *why* we are asking them to struggle. We need to design tasks where the doing is the learning, where the process is authentic enough that delegating it to a machine would feel like giving away the interesting part.
+Our *theories* remain sound, and new ones will keep emerging as theorizing continues. GenAI makes active learning, constructivism, situated cognition, and transparent pedagogy more urgent, not less. Students need an explicit *why* for the struggle we ask of them. Tasks need to make the doing the learning, authentic enough that delegating it to a machine would feel like giving away the interesting part.
 
-I have seen this work in my own game design classes. When students are building their own games, they put in the effort because they are intrinsically motivated to play and improve their own creations. The concept of "cheating" becomes irrelevant. Not because we solved it, but because the task made it beside the point.
+I have seen this work in my own game design classes. Students building their own games put in the effort because they are intrinsically motivated to play and improve their own creations. The task itself makes "cheating" beside the point.
 
-GenAI forces us to ask whether our educational practices actually reflect what we know about how people learn. In most cases, the honest answer is: not as well as we thought.
+GenAI forces us to ask whether our educational practices actually reflect what we know about how people learn. In most cases, the honest answer is that they reflect it poorly.
 
-The foundation of education has never been the technology. It is the relationship between a good teacher and a curious student. That relationship is now more important, not less. Our job is to design learning experiences where students would not want to outsource the thinking.
+The relationship between a good teacher and a curious student remains the foundation of education, and GenAI raises its stakes. Our job is to design learning experiences where students would want to keep the thinking for themselves.
 
-A teacher who offloads lower-order tasks will hopefully have more time and energy to focus on that relationship. A student who has internalized the process of learning will be more motivated to engage with it. I think the disruption, if we take it seriously, pushes us in that direction.
+A teacher who offloads lower-order tasks will hopefully have more time and energy to focus on that relationship. A student who has internalized the process of learning will be more motivated to engage with it. I believe the disruption, if we take it seriously, pushes us in that direction.
