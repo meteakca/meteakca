@@ -538,26 +538,27 @@ dd > p:first-child {
   margin-bottom: 2px;
 }
 
-dd > p:nth-child(2) {
+dd .entry-org {
   font-size: 13px;
+  font-weight: 400;
   color: var(--muted);
-  margin-bottom: 2px;
+  letter-spacing: normal;
 }
 
-dd > p:nth-child(n+3) {
+dd > p:nth-child(n+2) {
   font-size: 13px;
   color: var(--ink-2);
   margin-top: 4px;
 }
 
-/* Bullet lists nested in dd (Leadership entries) */
-dd > ul {
+/* Tagged arrow-bullet treatment (e.g. Department Chair's labeled sub-bullets) */
+.arrow-list > ul {
   list-style: none;
   padding: 0;
   margin: 8px 0 0;
 }
 
-dd > ul > li {
+.arrow-list > ul > li {
   font-size: 13px;
   color: var(--ink-2);
   line-height: 1.55;
@@ -566,9 +567,9 @@ dd > ul > li {
   position: relative;
 }
 
-dd > ul > li:first-child { border-top: none; }
+.arrow-list > ul > li:first-child { border-top: none; }
 
-dd > ul > li::before {
+.arrow-list > ul > li::before {
   content: "→";
   position: absolute;
   left: 0;
@@ -579,13 +580,31 @@ dd > ul > li::before {
 }
 
 /* Bold labels inside bullets (e.g. **Accreditation & Quality:**) */
-dd > ul > li > strong {
+.arrow-list > ul > li > strong {
   font-family: var(--mono);
   font-size: 9.5px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: #5a5a5a;
+}
+
+/* Plain bullet lists nested in dd (e.g. Program Director, Founder & Co-Director) */
+dd > ul {
+  list-style: disc;
+  padding: 0 0 0 18px;
+  margin: 6px 0 0;
+}
+
+dd > ul > li {
+  font-size: 13px;
+  color: var(--ink-2);
+  line-height: 1.6;
+  padding: 0;
+}
+
+dd > ul > li + li {
+  margin-top: 4px;
 }
 
 /* ── Numbered lists — publications, grants, chapters ───────── */

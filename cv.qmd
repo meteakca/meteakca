@@ -26,12 +26,11 @@ Georgia Southern University, College of Education · Savannah, GA 31419
 ## Leadership Experience [Current & recent]{.section-kicker}
 
 Fall 2024–Present
-:   **Department Chair – Leadership, Technology, and Human Development**
-
-    Georgia Southern University (interim Fall 2024; permanent appointment December 2025)
+:   **Department Chair – Leadership, Technology, and Human Development** [Georgia Southern University (interim Fall 2024; permanent appointment December 2025)]{.entry-org}
 
     Overseeing 20 full-time and ~20 part-time faculty, 10 graduate programs, and ~600 students (579 Fall 2024). Leadership focuses on faculty development, culture, strategic enrollment management, curriculum reform, and long-term departmental strength.
 
+    ::: {.arrow-list}
     - **Accreditation & Quality:** Supported CACREP accreditation (Counselor Ed); leading NASP readiness for School Psychology
     - **Enrollment:** Maintained and grown enrollment (~600 students); built [automated enrollment dashboard](https://meteakca.shinyapps.io/lthd-dashboard/) (Python scraper → JSON archive → R Shiny app with daily cron deploy) tracking 10 semesters across 887 course sections
     - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created faster-paced Ed.D. track; created Tier 2 Ed. Leadership certificate; led revision of departmental TPR documents
@@ -40,80 +39,59 @@ Fall 2024–Present
     - **Faculty Development & Culture:** Restructured department meetings with rotating brownbag series; established LTHD D-Space for faculty collaboration; serve as intellectual partner to faculty on research and programmatic questions
     - **Advocacy:** Raised workload and staffing concerns proactively with college leadership; surfaced implications of institutional decisions for program quality
     - **Strategic:** Finalized LTHD 2025–2030 Strategic Plan with KPI baselines across Teaching, Research, Service, and Student Success pillars, including EdD enrollment, time-to-degree, and cohort retention data; contributed to COE strategic plan as college leadership team member; co-leading practitioner-focused COE magazine (est. Spring 2027)
+    :::
 
 Oct 2023–July 2024
-:   **Provost Faculty Fellow**
-
-    University College (Formerly Institute for Interdisciplinary Studies), Georgia Southern University
+:   **Provost Faculty Fellow** [University College (Formerly Institute for Interdisciplinary Studies), Georgia Southern University]{.entry-org}
 
     - Curriculum and assessment redesign for BIS program; developed IDS 2111 and IDS 4111 online courses
 
 Aug 2018–Jan 2024
-:   **Program Director – Instructional Technology Programs**
-
-    Georgia Southern University
+:   **Program Director – Instructional Technology Programs** [Georgia Southern University]{.entry-org}
 
     - Led the creation of the [Computer Science Education for Teachers Endorsement](https://www.georgiasouthern.edu/degrees/computer-science-education-for-teachers-endorsement-online/) — a fully online, 9-credit-hour program enabling P-12 teachers to earn a Georgia certificate upgrade in CS education
     - Accreditation reporting, enrollment management, program and course revisions, student advising
 
 Jan 2016–Aug 2021
-:   **Founder & Co-Director, Innovation Studio**
-
-    Georgia Southern University
+:   **Founder & Co-Director, Innovation Studio** [Georgia Southern University]{.entry-org}
 
     - Secured ~$250,000 to build interdisciplinary makerspace; launched programming for university and K-12 communities
 
 2007, 2009
-:   **Dean of Residential Life**
-
-    Center for Talented Youth Summer Camp, Johns Hopkins University (Thousand Oaks, CA; Bethlehem, PA)
+:   **Dean of Residential Life** [Center for Talented Youth Summer Camp, Johns Hopkins University (Thousand Oaks, CA; Bethlehem, PA)]{.entry-org}
 
     - Supervised residential staff, managed camp operations, liaison to students and families
 
 ## Academic Appointments [Georgia Southern · 2014–Present]{.section-kicker}
 
 Aug 2022–Present
-:   **Professor, Instructional Technology**
-
-    Georgia Southern University, College of Education
+:   **Professor, Instructional Technology** [Georgia Southern University, College of Education]{.entry-org}
 
 Aug 2018–July 2022
-:   **Associate Professor, Instructional Technology**
-
-    Georgia Southern University, College of Education
+:   **Associate Professor, Instructional Technology** [Georgia Southern University, College of Education]{.entry-org}
 
 Aug 2014–July 2018
-:   **Assistant Professor, Instructional Technology**
-
-    Georgia Southern University, College of Education
+:   **Assistant Professor, Instructional Technology** [Georgia Southern University, College of Education]{.entry-org}
 
 Aug 2013–May 2014
-:   **Assistant Professor, Instructional Design and Technology**
-
-    West Virginia University, College of Education and Human Services
+:   **Assistant Professor, Instructional Design and Technology** [West Virginia University, College of Education and Human Services]{.entry-org}
 
 ## Education [Ph.D. · M.A. · B.A.]{.section-kicker}
 
 Aug 2013
-:   **Ph.D., Educational Psychology & Educational Technology**
-
-    Michigan State University, East Lansing, MI
+:   **Ph.D., Educational Psychology & Educational Technology** [Michigan State University, East Lansing, MI]{.entry-org}
 
     *Dissertation: Cognitive and Motivational Impacts of Learning Game Design. Director: Dr. Matthew J. Koehler*
 
 June 2008
-:   **M.A., Foreign Language Education**
-
-    Middle East Technical University, Ankara, Turkey
+:   **M.A., Foreign Language Education** [Middle East Technical University, Ankara, Turkey]{.entry-org}
 
     *Turkey's leading technical university; English-medium*
 
     *Thesis: Exploring technology integration in English language teaching*
 
 June 2003
-:   **B.A., Foreign Language Education**
-
-    Boğaziçi University, Istanbul, Turkey
+:   **B.A., Foreign Language Education** [Boğaziçi University, Istanbul, Turkey]{.entry-org}
 
     *Founded as Robert College (1863); Turkey's most selective, English-medium research university*
 
