@@ -936,6 +936,19 @@ hr + p a:hover { color: var(--accent); }
 .cv-facet-body li { margin: 2px 0; padding-left: 0 !important; }
 .cv-facet-body li::before { display: none !important; content: none !important; }
 
+/* ── Paper-sheet effect, site-wide (screen only — print/PDF untouched) ── */
+@media screen {
+  body {
+    background: var(--rule) !important;
+  }
+
+  #quarto-document-content {
+    background: var(--bg);
+    margin: 0 auto;
+    padding: 52px 52px 80px !important;
+  }
+}
+
 /* ── Print ─────────────────────────────────────────────────── */
 @media print {
   html { font-size: 10pt !important; }
