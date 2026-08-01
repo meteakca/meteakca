@@ -9,7 +9,7 @@ title: "Teaching — Mete Akcaoglu"
 ## Current Teaching [2024–Present]{.section-kicker}
 
 2025–2026
-:   **ITEC 8135 — Advanced Instructional Design**
+:   **ITEC 8135 — Pedagogy of Online Learning**
 
     Graduate course in the Instructional Technology program. Department chair administrative release for remaining load.
 
@@ -18,21 +18,21 @@ title: "Teaching — Mete Akcaoglu"
 William Bell (2025–Present)
 :   *Role of Engagement on Student Academic Performance in Rural Schools*
 
-Moneak McCray (2025–Present)
+Moneak McCray (Graduated Spring 2026)
 :   *Impact of Instructional Leadership on School Success in Rural Contexts*
 
 ## Courses Designed [10 courses]{.section-kicker}
 
 Courses I designed or significantly redesigned during my time at Georgia Southern University and West Virginia University.
 
-- ITEC 8135 — Advanced Instructional Design (2026)
-- IDS 4111 — Integrative Studies Capstone (2024)
-- IDS 2111 — Integrative Studies Foundations (2024)
-- FRIT 7238 — Technology in Education (2024)
-- ITEC 8839 — Emerging Technologies (2020)
-- ITEC 3132 — Instructional Technology for Teachers (2019)
-- ITEC 3131 — Intro to Instructional Technology (2019)
-- FRIT 7236 — Instructional Design (2014)
+- ITEC 8135 — Pedagogy of Online Learning (2026)
+- IDS 4111 — Interdisciplinary Studies Capstone (2024)
+- IDS 2111 — Interdisciplinary Studies Foundations (2024)
+- FRIT 7238 — Computer Programming for Teachers (Python) (2024)
+- ITEC 8839 — Instructional Technology Capstone (2020)
+- ITEC 3132 — E-learning (Undergraduate) (2019)
+- ITEC 3131 — Intro to Instructional Design (2019)
+- FRIT 7236 — Technology-Based Assessment (2014)
 - IDT 740 — Instructional Design (2014, West Virginia University)
 - EDP 600 — Educational Psychology (2013, West Virginia University)
 
