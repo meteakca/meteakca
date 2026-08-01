@@ -875,6 +875,15 @@ hr + p a:hover { color: var(--accent); }
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .cv-summary-row {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .cv-summary-row .stats-block {
+    width: 100%;
+  }
+
   .hero-text > p:first-child::before {
     display: none;
   }
@@ -946,6 +955,12 @@ hr + p a:hover { color: var(--accent); }
     background: var(--bg);
     margin: 0 auto;
     padding: 52px 52px 80px !important;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #quarto-document-content {
+    padding: 32px 24px 48px !important;
   }
 }
 
