@@ -43,6 +43,10 @@ a:hover { text-decoration: underline; }
   margin: 0 0 36px;
   padding: 22px 0 18px;
   border-bottom: 1px solid var(--ink);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--bg);
 }
 
 .site-nav-name {
