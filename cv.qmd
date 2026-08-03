@@ -31,11 +31,11 @@ Fall 2024–Present
     Overseeing 20 full-time and ~20 part-time faculty, 10 graduate programs, and ~600 students (579 Fall 2024). Leadership focuses on faculty development, culture, strategic enrollment management, curriculum reform, and long-term departmental strength.
 
     ::: {.arrow-list}
-    - **Accreditation & Quality:** Supported CACREP accreditation (Counselor Ed); leading NASP readiness for School Psychology
+    - **Accreditation & Quality:** Supported CACREP accreditation (Counselor Ed); supported NASP readiness for School Psychology
     - **Enrollment:** Maintained and grown enrollment (~600 students); built [automated enrollment dashboard](https://meteakca.shinyapps.io/lthd-dashboard/) (Python scraper → JSON archive → R Shiny app with daily cron deploy) tracking 10 semesters across 887 course sections
-    - **Curriculum:** Led credit hour reductions in MED Higher Ed and ITEC (36→30 hours); created faster-paced Ed.D. track; created Tier 2 Ed. Leadership certificate; led revision of departmental TPR documents
+    - **Curriculum:** Supported credit hour reductions in MED Higher Ed and ITEC (36→30 hours); supported faster-paced Ed.D. track; created Tier 2 Ed. Leadership certificate; led revision of departmental TPR documents
     - **Faculty:** Led 8 successful faculty searches; redesigned annual review process with rubric-based evaluation; implemented structured onboarding for new hires
-    - **Operations:** Manage $25,000 annual discretionary budget; coordinate teaching loads across 20 faculty; implemented Microsoft Planner workflow for program directors; created standardized annual reporting template; established floating academic advisor model for Counseling
+    - **Operations:** Manage annual discretionary department budget; coordinate teaching loads across 20 faculty; implemented Planner workflow for program directors; created standardized annual reporting template; established floating academic advisor model for Counseling
     - **Faculty Development & Culture:** Restructured department meetings with rotating brownbag series; established LTHD D-Space for faculty collaboration; serve as intellectual partner to faculty on research and programmatic questions
     - **Advocacy:** Raised workload and staffing concerns proactively with college leadership; surfaced implications of institutional decisions for program quality
     - **Strategic:** Finalized LTHD 2025–2030 Strategic Plan with KPI baselines across Teaching, Research, Service, and Student Success pillars, including EdD enrollment, time-to-degree, and cohort retention data; contributed to COE strategic plan as college leadership team member; co-leading practitioner-focused COE magazine (est. Spring 2027)
