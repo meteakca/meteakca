@@ -3,7 +3,9 @@ title: "Mete Akcaoglu"
 ---
 
 ::: {.hero}
-[Mete Akcaoglu.]{.hero-name}
+[Mete Akcaoglu]{.hero-name}
+
+[MEH-teh ahk-CHA-oh-loo]{.hero-pronunciation}
 
 [Professor · Instructional Technology · Department Chair]{.hero-lead}
 

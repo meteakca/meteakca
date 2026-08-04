@@ -150,14 +150,29 @@ h1 {
   display: block;
   font-family: var(--sans);
   font-weight: 500;
-  font-size: clamp(40px, 6vw, 68px);
+  font-size: clamp(36px, 5.5vw, 60px);
   line-height: 0.92;
   letter-spacing: -0.035em;
   color: var(--ink);
-  margin: 0 0 10px;
+  margin: 0 0 4px;
 }
 
 p:has(> .hero-name) {
+  margin: 0;
+}
+
+.hero-pronunciation {
+  display: block;
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 14px;
+}
+
+p:has(> .hero-pronunciation) {
   margin: 0;
 }
 
@@ -325,7 +340,7 @@ p:has(> .hero-name) {
 }
 
 .cv-page h1 {
-  font-size: clamp(40px, 6vw, 68px) !important;
+  font-size: clamp(36px, 5.5vw, 60px) !important;
   line-height: 0.92 !important;
   letter-spacing: -0.035em !important;
   margin: 0 0 10px !important;
