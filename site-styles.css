@@ -978,6 +978,10 @@ hr + p a:hover { color: var(--accent); }
 }
 
 @media screen and (max-width: 640px) {
+  body {
+    background: var(--bg) !important;
+  }
+
   #quarto-document-content {
     padding: 32px 24px 48px !important;
   }
