@@ -79,3 +79,12 @@ A department-level enrollment intelligence tool I built for the Department of Le
 - Interactive filters by program, course, and term
 
 [View dashboard →](https://meteakca.shinyapps.io/lthd_dashboard/)
+
+## Program Comparator Analysis [R · 2026]{.section-kicker}
+
+A system-level benchmarking pipeline for the twelve graduate programs in my department, built from the University System of Georgia Board of Regents degrees-conferred extract. Each program is matched to its comparator set on CIP code and degree level, then rendered into a report with a peer table, a five-year trend, and a written interpretation — parameterized so a single source produces both a combined document and standalone per-program handouts.
+
+- 2,878 program rows across all 26 USG institutions, FY2021–FY2025
+- Comparator matching on CIP code and degree level, with per-program peer sets
+- One parameterized source rendering a 14-page combined report and twelve individual handouts
+- Surfaced a reporting artifact worth knowing about generally: degree-conferral counts lag student intake by four to five years, so a program can appear to decline in conferral data while its enrollment is growing

@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+# Claude Code — machine-local permission allowlist, contains absolute paths
+.claude/settings.local.json
+
 # System
 .DS_Store
 

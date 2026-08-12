@@ -24,7 +24,7 @@ I am a professor of instructional technology and department chair at Georgia Sou
 
 
 ::: {.section-header}
-## Research Interests [h-index 28 · 4,923 citations]{.section-kicker}
+## Research Interests [h-index 28 · 5,152 citations]{.section-kicker}
 
 [→ All publications](research.html){.section-cta}
 :::
