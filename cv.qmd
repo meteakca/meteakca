@@ -16,7 +16,7 @@ Georgia Southern University, College of Education · Savannah, GA 31419
 <p class="cv-summary">Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.</p>
 <div class="stats-block">
 <div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
-<div class="stat-cell"><div class="stat-value">5,152</div><div class="stat-label">Citations</div></div>
+<div class="stat-cell"><div class="stat-value">5,164</div><div class="stat-label">Citations</div></div>
 <div class="stat-cell"><div class="stat-value">42</div><div class="stat-label">Articles</div></div>
 <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
@@ -84,7 +84,7 @@ June 2003
 
     *Founded as Robert College (1863); Turkey's most selective, English-medium research university*
 
-## Research [h-index 28 · 5,152 citations]{.section-kicker}
+## Research [h-index 28 · 5,164 citations]{.section-kicker}
 
 ### Research Interests & Skills
 
@@ -94,7 +94,7 @@ June 2003
 
 - **Research Design & Methods:** Quantitative, qualitative, and mixed-methods educational research; survey instrument design and validation; experimental and quasi-experimental designs
 
-- [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 28 · 5,152 citations *(retrieved August 2026)*
+- [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 28 · 5,164 citations *(retrieved August 2026)*
 
 ### Peer-Reviewed Journal Articles
 
@@ -102,7 +102,7 @@ June 2003
 
 1. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
 2. Ocak, C., Hodges, C.B., & **Akcaoglu, M.** (under review). Teacher Agency in the Age of Generative AI: A Three-Process Account of Deskilling, Reskilling, and Upskilling.
-3. Staudt Willet, B.K., Bai, C., Hur, J., & **Akcaoglu, M.** (accepted). Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions. *The International Review of Research in Open and Distributed Learning.*
+3. Staudt Willet, B.K., Bai, C., Hur, J., & **Akcaoglu, M.** (2026). Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions. *The International Review of Research in Open and Distributed Learning, 27*(3), 137–157. <https://doi.org/10.19173/irrodl.v27i3.9316>
 4. Akcaoglu, M.O., Mor, E., **Akcaoglu, M.**\*, Coşkun, B.K., & Külekçi, E. (2026). Adaptation and validation of the Turkish version of the online learning readiness self-check survey. *American Journal of Distance Education.* *40*(2), 201–220 <https://doi.org/10.1080/08923647.2026.2631259>
 5. \***Ozcan, M.S.** & **Akcaoglu, M.** (2026). Development and validation of the multidimensional interest development survey (MIS). *Journal of Psychoeducational Assessment, 0*(0). <https://doi.org/10.1177/07342829261440809>
 6. Flanigan, A. E., Brady, A. C., **Akcaoglu, M.**, Dai, Y.\*, Won, S., Daleiden, B.\*, & Hartley, K. (2025). The interplay among digital distraction, self-regulation of learning tendencies, and motivational influences: A transnational investigation. *The Internet and Higher Education.* <https://doi.org/10.1016/j.iheduc.2025.101023>
