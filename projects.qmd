@@ -10,7 +10,7 @@ title: "Projects — Mete Akcaoglu"
 
 *Developing and Piloting a Game Design-Based Computer Science Curriculum*
 
-An NSF CSforAll-funded project (#2027948, $299,895) that designed, developed, and piloted a middle school computer science curriculum built around game design with Unity 3D. Unlike block-based approaches such as Scratch, the curriculum uses professional-grade tools so students gain directly transferable programming skills. The project partnered with teachers in underserved rural schools across Southeast Georgia to co-develop and iterate on the materials.
+I designed, developed, and piloted a middle school computer science curriculum built around game design in Unity 3D, funded by an NSF CSforAll award (#2027948, $299,895). The curriculum trades block-based tools like Scratch for professional-grade ones, so students walk away with programming skills that transfer directly. Teachers in underserved rural schools across Southeast Georgia helped design and refine the materials with us.
 
 - Four partner schools in Bulloch, Candler, Chatham, and Screven counties; six participating teachers
 - Three research strands: curriculum design, teacher PD and professional learning communities, and implementation evaluation
@@ -45,7 +45,7 @@ The foundational research line behind Project GAME. Starting with my dissertatio
 
 *Georgia Southern University, 2015–2021*
 
-A makerspace I co-founded with Eunbae Lee in the College of Education's Instructional Support and Resources Center. The studio brought together university students, faculty, K–12 teachers, and community members around 3D printing, robotics, electronics, augmented reality, and game design. It served as both a teaching lab and a community outreach hub.
+I co-founded this makerspace with Eunbae Lee inside the College of Education's Instructional Support and Resources Center. It brought together university students, faculty, K–12 teachers, and community members around 3D printing, robotics, electronics, augmented reality, and game design, running as both a teaching lab and a community outreach hub.
 
 - ~$250,000 in funding from the College of Education and external sources
 - Programming included teacher workshops, youth summer camps, formal courses, and open maker sessions
@@ -56,7 +56,7 @@ A makerspace I co-founded with Eunbae Lee in the College of Education's Instruct
 
 ## Computational Analysis of Educational Data [Book · 2026]{.section-kicker}
 
-*A Field Guide Using R* — a textbook co-authored with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026). The book targets education researchers who know the basics of R and statistics and want to expand into computational methods. Each chapter follows a field-guide format: data quality guidance, structural requirements, sample research questions, analysis workflow in R, and template write-ups for Methods and Results sections.
+I co-authored this field guide with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026), written for education researchers who already know R and statistics and want to push into computational methods. Every chapter follows the same format: data quality guidance, structural requirements, sample research questions, an R workflow, and template write-ups for the Methods and Results sections.
 
 - Covers text analysis, network analysis, machine learning, and LLM-based methods
 - Includes practical chapters on cloud vs. local LLMs and AI coding assistants
@@ -66,13 +66,13 @@ A makerspace I co-founded with Eunbae Lee in the College of Education's Instruct
 
 ## This Website
 
-Built with Quarto, R, and GitHub Actions. Swiss modernist design system. Deployed to GitHub Pages on push.
+I built this site with Quarto, R, and GitHub Actions, in a Swiss modernist design system I designed myself. It deploys to GitHub Pages on every push.
 
 - [Source on GitHub →](https://github.com/meteakca/meteakca)
 
 ## LTHD Enrollment Dashboard [Shiny · 2024]{.section-kicker}
 
-A department-level enrollment intelligence tool I built for the Department of Leadership, Technology, and Human Development at Georgia Southern University. A Python scraper collects enrollment figures on a daily cron schedule, archives them as JSON, and feeds an R Shiny front-end that lets faculty and administrators spot trends without waiting on institutional reports.
+I built this enrollment intelligence tool for the Department of Leadership, Technology, and Human Development at Georgia Southern University. A Python scraper pulls enrollment figures on a daily cron schedule and archives them as JSON; an R Shiny front-end turns that into trends faculty and administrators can check without waiting on institutional reports.
 
 - 10 semesters of historical data across 887 course sections
 - Daily automated updates via cron + Python pipeline
@@ -82,9 +82,11 @@ A department-level enrollment intelligence tool I built for the Department of Le
 
 ## Program Comparator Analysis [R · 2026]{.section-kicker}
 
-A system-level benchmarking pipeline for the twelve graduate programs in my department, built from the University System of Georgia Board of Regents degrees-conferred extract. Each program is matched to its comparator set on CIP code and degree level, then rendered into a report with a peer table, a five-year trend, and a written interpretation — parameterized so a single source produces both a combined document and standalone per-program handouts.
+I built a benchmarking pipeline that places each of my department's twelve graduate programs against every comparable program in the University System of Georgia, using the Board of Regents degrees-conferred extract. I match each program to its peer set by CIP code and degree level, then turn it into a report with a peer table, a five-year trend, and a written read of what the numbers mean. One parameterized source generates both the combined document and twelve standalone per-program handouts.
 
 - 2,878 program rows across all 26 USG institutions, FY2021–FY2025
 - Comparator matching on CIP code and degree level, with per-program peer sets
 - One parameterized source rendering a 14-page combined report and twelve individual handouts
 - Surfaced a reporting artifact worth knowing about generally: degree-conferral counts lag student intake by four to five years, so a program can appear to decline in conferral data while its enrollment is growing
+
+![Peer table and trend chart layout from the report — illustrative figure with placeholder institutions and values, not the underlying USG data.](images/program-comparator-mock.png)

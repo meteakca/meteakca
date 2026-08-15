@@ -755,6 +755,26 @@ td:first-child {
   letter-spacing: 0.02em;
 }
 
+/* ── Figures ──────────────────────────────────────────────── */
+figure {
+  margin: 20px 0 24px;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--rule);
+}
+
+figcaption {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+  line-height: 1.5;
+  margin-top: 8px;
+}
+
 /* ── Inline ─────────────────────────────────────────────────── */
 strong { font-weight: 500; color: var(--ink); }
 
