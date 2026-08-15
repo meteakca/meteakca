@@ -52,6 +52,12 @@ I co-founded this makerspace with Eunbae Lee inside the College of Education's I
 - Community outreach initiatives such as the "3D Printer for Your School" contest with local elementary schools
 - Published as a conference paper: Lee, Akcaoglu, & Jensen (2015), *Design, Development, and Research Conference*
 
+**In the news**
+
+- [College of Education awards use of 3D printer to Bulloch County school](https://news.georgiasouthern.edu/2016/12/13/college-of-education-awards-3d-printer-to-bulloch-county-elementary-school/) — Georgia Southern Newsroom, Dec. 2016
+- [COE's Innovation Studio to host Digital Media & Learning Summer Institute](https://www.georgiasouthern.edu/news/2017/04/11/coes-innovation-studio-to-host-digital-media-learning-summer-institute/) — Georgia Southern Newsroom, Apr. 2017
+- [Scratch Day at Georgia Southern](https://calendar.georgiasouthern.edu/event/scratch_day_at_georgia_southern) — LTHD-hosted teacher workshop at the Innovation Studio, May 2017
+
 [Innovation Studio at GSU →](https://coe.georgiasouthern.edu/isrc/innovation-studio/)
 
 ## Computational Analysis of Educational Data [Book · 2026]{.section-kicker}
