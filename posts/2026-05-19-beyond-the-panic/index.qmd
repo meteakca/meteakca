@@ -9,6 +9,8 @@ Educators, rightfully so, are concerned about the impact of GenAI on their profe
 
 I understand the fear. I also think it may be mostly misplaced, or at least productive if we let it be.
 
+*This piece grew out of a keynote I gave at [ICITS 2024](https://icits2024.kastamonu.edu.tr/index.php/en/), Kastamonu University.*
+
 GenAI is genuinely disruptive. The disruption also reveals something we should have seen all along: many of our standard practices were never well-aligned with how people actually learn, the 250-student lecture hall among them. GenAI made that gap impossible to ignore.
 
 The book summary illustrates the drift. For decades, we assigned it as a proxy for reading comprehension, critical thinking, and synthesis. What we were actually assessing was a product, a piece of text. The learning was supposed to happen in the process of writing it: the struggle to clarify your own thinking, to hold competing ideas in tension, to find the thread. Writing is thinking.
