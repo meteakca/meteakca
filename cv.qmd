@@ -16,7 +16,7 @@ Georgia Southern University, College of Education · Savannah, GA 31419
 <p class="cv-summary">Professor of instructional technology and department chair at Georgia Southern University. Research spans motivation, interest development, game-based learning, and AI in education — working with K–12 teachers and students using experimental, survey, and qualitative methods.</p>
 <div class="stats-block">
 <div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
-<div class="stat-cell"><div class="stat-value">5,164</div><div class="stat-label">Citations</div></div>
+<div class="stat-cell"><div class="stat-value">5,263</div><div class="stat-label">Citations</div></div>
 <div class="stat-cell"><div class="stat-value">42</div><div class="stat-label">Articles</div></div>
 <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
@@ -84,7 +84,7 @@ June 2003
 
     *Founded as Robert College (1863); Turkey's most selective, English-medium research university*
 
-## Research [h-index 28 · 5,164 citations]{.section-kicker}
+## Research [h-index 28 · 5,263 citations]{.section-kicker}
 
 ### Research Interests & Skills
 
@@ -94,7 +94,7 @@ June 2003
 
 - **Research Design & Methods:** Quantitative, qualitative, and mixed-methods educational research; survey instrument design and validation; experimental and quasi-experimental designs
 
-- [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 28 · 5,164 citations *(retrieved August 2026)*
+- [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 28 · 5,263 citations *(retrieved September 2026)*
 
 ### Peer-Reviewed Journal Articles
 
@@ -193,34 +193,38 @@ June 2003
 13. Jensen, L. J. & **Akcaoglu, M.** (2017, November). *EmpathVR: Teaching empathy for ADHD through virtual reality.* AECT Annual Conference, Jacksonville, FL.
 14. Kale, U., **Akcaoglu, M.**, Cullen, T., & Goh, D. (2017, November). *Readiness for teaching computational thinking in rural schools.* AECT Annual Conference, Jacksonville, FL.
 15. Jin, Y., Schmidt-Crawford, D., Dousay, T. A., Boyer, D. M., **Akcaoglu, M.**, & Lee, E. (2017, March). *Makerspaces and Teacher Education.* SITE International Conference, Austin, TX.
-16. Gok, A. & **Akcaoglu, M.** (2016, October). *Evaluating gamification projects in Education: A review of the current research.* AECT Annual Conference, Las Vegas, NV.
-17. **Akcaoglu, M.** & Lee, E. (2016, October). *Making online learning sociable: Examining group size and Facebook groups as social affordances.* AECT Annual Conference, Las Vegas, NV.
-18. Kale, U. & **Akcaoglu, M.** (2016, June). *KODU – A game design tool to equip future teachers with Kodu Game Lab.* International Communication Association (ICA), Fukuoka, Japan.
-19. **Akcaoglu, M.**, Sonnleitner, P., Hodges, C.B., & Gutierrez, A. P. (2016, April). *Teaching complex problem solving through digital game design.* AERA Annual Meeting, Washington, D.C.
-20. Kale, U. & **Akcaoglu, M.** (2016, April). *The effects of a self-generated value intervention on fifth and sixth grade students' utility value and interest.* AERA Annual Meeting, Washington, D.C.
-21. **Akcaoglu, M.** & Bodur, Y. (2016, February). *Increasing sociability of online learning through small group discussions.* Eastern Educational Research Association, Hilton Head Island, SC.
-22. Hamilton, E.R., **Akcaoglu, M.**, & Rosenberg, J.M. (2015, November). *Examining the SAMR Model for instructional design and technology integration.* AECT Annual Conference, Indianapolis, IN.
-23. **Akcaoglu, M.** & Kale, U. (2015, November). *Teaching to teach (with) game-design: GDL workshops for preservice teachers.* AECT Annual Conference, Indianapolis, IN.
-24. Rosenberg, J. M., **Akcaoglu, M.**, Hamilton, E. R., Greenhalgh, S. P., & Koehler, M. J. (2015, November). *Tweeting U.S.A.: An examination of state educational Twitter hashtags (SETHs).* AECT Annual Conference, Indianapolis, IN.
-25. **Akcaoglu, M.** & Lee, E. (2015, November). *Impact of group size on social presence in asynchronous learning environments.* AECT Annual Conference, Indianapolis, IN.
-26. Lee, E., **Akcaoglu, M.**, Dousay, T. A., Boyer, D. M., & Brynteson, K. B. (2015, November). *Makerspaces in higher education.* Panel, AECT Annual Conference, Indianapolis, IN.
-27. Lee, E., **Akcaoglu, M.**, & Jensen, L. J. (2015, September). *The Innovation Studio: A MakerSpace for higher education.* Design, Development, and Research Conference, Athens, GA.
-28. Strahler, D., Bowman, N.D., **Akcaoglu, M.**, Hart, W., & Earnheardt, A. (2015, April). *Pedagogy 2.0: The evolving discourse over social media in education.* Eastern Communication Association, Philadelphia, PA.
-29. **Akcaoglu, M.** (2015, March). *Finding the connection between game-design and problem-solving: Game-Design and Learning programs.* National Youth-At-Risk Conference, Savannah, GA.
-30. **Akcaoglu, M.** & Rosenberg, J.M. (2015, March). *Best practices for designing synchronous and asynchronous online teaching for adult learners.* SITE International Conference, Las Vegas, NV.
-31. **Akcaoglu, M.** (2015, March). *Teaching problem-solving skills through game-design: GDL Courses.* Georgia Scholarship of STEM Teaching & Learning Conference, Statesboro, GA.
-32. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Lee, S.W-Y. (2015, February). *Comparative longitudinal case studies of two middle school teachers' use of scientific modeling.* Create4Stem Mini-Conference, East Lansing, MI.
-33. Rosenberg, J.M., Schwarz, C.V., Lee, S.W.-Y., & **Akcaoglu, M.** (2015, April). *A comparative longitudinal case study of the use of scientific modeling.* NARST, Chicago, IL.
-34. Hamilton, E., Rosenberg, J.M., & **Akcaoglu, M.** (2015, April). *The SAMR framework: Challenges to its use for guiding K-12 teachers' pedagogy and practice.* AERA Annual Meeting, Chicago, IL.
-35. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Lee, S.W.-Y. (2014, April). *A comparative longitudinal case study of the use of scientific modeling.* NARST Annual Meeting, Chicago, IL.
-36. Bellibas, M. S., **Akcaoglu, M.**, & Gumus, S. (2013, March). *Understanding the impacts of the FATIH initiative on Turkish teachers' pedagogical perspectives.* Comparative and International Education Society (CIES), New Orleans, LA.
-37. Schwarz, C. V., Li, Z., & **Akcaoglu, M.** (2013, April). *5th grade students' engagement in modeling practice across content areas.* AERA Annual Meeting, San Francisco, CA.
-38. Baek, H., Schwarz, C. V., Li, Z., & **Akcaoglu, M.** (2012, March). *Fostering elementary students' productive engagement in scientific modeling.* NARST Annual Meeting, Indianapolis, IN.
-39. Gumus, S. & **Akcaoglu, M.** (2012, April). *Are Turkish primary school principals ready for the 21st century?* AERA Annual Meeting, Vancouver, WA.
-40. Kereliuk, K. & **Akcaoglu, M.** (2011, April). *Reading TPACK between the lines of theory and practice in pre-service teachers.* AERA Annual Meeting, New Orleans, LA.
-41. Ni, R., **Akcaoglu, M.**, & Dirkin, K. (2010, June). *Compromising among gaming, learning and society.* Games Learning Society (GLS) Annual Conference, Madison, WI.
-42. Gungor, R. & **Akcaoglu, M.** (2010, April). *Technology in the Turkish educational system: Analysis of a policy document.* Comparative and International Education Society (CIES), Chicago, IL.
-43. **Akcaoglu, M.** (2006, May). *Assessing writing through direct and indirect tests.* 4th International Postgraduate Conference in Linguistics and Language Teaching, Adana, Turkey.
+16. Rosenberg, J., **Akcaoglu, M.**, Willet, K. B. S., Greenhalgh, S. P., & Koehler, M. J. (2017, March). *A Tale of Two Twitters: Synchronous and Asynchronous Use of the Same Hashtag.* SITE International Conference, Austin, TX.
+17. Gok, A. & **Akcaoglu, M.** (2016, October). *Evaluating gamification projects in Education: A review of the current research.* AECT Annual Conference, Las Vegas, NV.
+18. **Akcaoglu, M.** & Lee, E. (2016, October). *Making online learning sociable: Examining group size and Facebook groups as social affordances.* AECT Annual Conference, Las Vegas, NV.
+19. Kale, U. & **Akcaoglu, M.** (2016, June). *KODU – A game design tool to equip future teachers with Kodu Game Lab.* International Communication Association (ICA), Fukuoka, Japan.
+20. **Akcaoglu, M.**, Sonnleitner, P., Hodges, C.B., & Gutierrez, A. P. (2016, April). *Teaching complex problem solving through digital game design.* AERA Annual Meeting, Washington, D.C.
+21. Kale, U. & **Akcaoglu, M.** (2016, April). *The effects of a self-generated value intervention on fifth and sixth grade students' utility value and interest.* AERA Annual Meeting, Washington, D.C.
+22. **Akcaoglu, M.** & Bodur, Y. (2016, February). *Increasing sociability of online learning through small group discussions.* Eastern Educational Research Association, Hilton Head Island, SC.
+23. Hamilton, E.R., **Akcaoglu, M.**, & Rosenberg, J.M. (2015, November). *Examining the SAMR Model for instructional design and technology integration.* AECT Annual Conference, Indianapolis, IN.
+24. **Akcaoglu, M.** & Kale, U. (2015, November). *Teaching to teach (with) game-design: GDL workshops for preservice teachers.* AECT Annual Conference, Indianapolis, IN.
+25. Rosenberg, J. M., **Akcaoglu, M.**, Hamilton, E. R., Greenhalgh, S. P., & Koehler, M. J. (2015, November). *Tweeting U.S.A.: An examination of state educational Twitter hashtags (SETHs).* AECT Annual Conference, Indianapolis, IN.
+26. **Akcaoglu, M.** & Lee, E. (2015, November). *Impact of group size on social presence in asynchronous learning environments.* AECT Annual Conference, Indianapolis, IN.
+27. Lee, E., **Akcaoglu, M.**, Dousay, T. A., Boyer, D. M., & Brynteson, K. B. (2015, November). *Makerspaces in higher education.* Panel, AECT Annual Conference, Indianapolis, IN.
+28. Lee, E., **Akcaoglu, M.**, & Jensen, L. J. (2015, September). *The Innovation Studio: A MakerSpace for higher education.* Design, Development, and Research Conference, Athens, GA.
+29. Strahler, D., Bowman, N.D., **Akcaoglu, M.**, Hart, W., & Earnheardt, A. (2015, April). *Pedagogy 2.0: The evolving discourse over social media in education.* Eastern Communication Association, Philadelphia, PA.
+30. **Akcaoglu, M.** (2015, March). *Finding the connection between game-design and problem-solving: Game-Design and Learning programs.* National Youth-At-Risk Conference, Savannah, GA.
+31. **Akcaoglu, M.** & Rosenberg, J.M. (2015, March). *Best practices for designing synchronous and asynchronous online teaching for adult learners.* SITE International Conference, Las Vegas, NV.
+32. **Akcaoglu, M.** (2015, March). *Teaching problem-solving skills through game-design: GDL Courses.* Georgia Scholarship of STEM Teaching & Learning Conference, Statesboro, GA.
+33. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Lee, S.W-Y. (2015, February). *Comparative longitudinal case studies of two middle school teachers' use of scientific modeling.* Create4Stem Mini-Conference, East Lansing, MI.
+34. Rosenberg, J.M., Schwarz, C.V., Lee, S.W.-Y., & **Akcaoglu, M.** (2015, April). *A comparative longitudinal case study of the use of scientific modeling.* NARST, Chicago, IL.
+35. Hamilton, E., Rosenberg, J.M., & **Akcaoglu, M.** (2015, April). *The SAMR framework: Challenges to its use for guiding K-12 teachers' pedagogy and practice.* AERA Annual Meeting, Chicago, IL.
+36. Rosenberg, J.M., Schwarz, C.V., **Akcaoglu, M.**, & Lee, S.W.-Y. (2014, April). *A comparative longitudinal case study of the use of scientific modeling.* NARST Annual Meeting, Chicago, IL.
+37. Bellibas, M. S., **Akcaoglu, M.**, & Gumus, S. (2013, March). *Understanding the impacts of the FATIH initiative on Turkish teachers' pedagogical perspectives.* Comparative and International Education Society (CIES), New Orleans, LA.
+38. Schwarz, C. V., Li, Z., & **Akcaoglu, M.** (2013, April). *5th grade students' engagement in modeling practice across content areas.* AERA Annual Meeting, San Francisco, CA.
+39. Baek, H., Schwarz, C. V., Li, Z., & **Akcaoglu, M.** (2012, March). *Fostering elementary students' productive engagement in scientific modeling.* NARST Annual Meeting, Indianapolis, IN.
+40. Gumus, S. & **Akcaoglu, M.** (2012, April). *Are Turkish primary school principals ready for the 21st century?* AERA Annual Meeting, Vancouver, WA.
+41. **Akcaoglu, M.**, Kereluik, K., & Boyer, D. M. (2012, March). *New Media Literacy Skills of Middle School Students in Turkey: Students Are Ready, Are the Schools?* SITE International Conference, Austin, TX.
+42. Kereliuk, K. & **Akcaoglu, M.** (2011, April). *Reading TPACK between the lines of theory and practice in pre-service teachers.* AERA Annual Meeting, New Orleans, LA.
+43. **Akcaoglu, M.**, Kereluik, K., & Casperson, G. (2011, March). *Refining TPACK Rubric through Online Lesson Plans.* SITE International Conference, Nashville, TN.
+44. Ni, R., **Akcaoglu, M.**, & Dirkin, K. (2010, June). *Compromising among gaming, learning and society.* Games Learning Society (GLS) Annual Conference, Madison, WI.
+45. Gungor, R. & **Akcaoglu, M.** (2010, April). *Technology in the Turkish educational system: Analysis of a policy document.* Comparative and International Education Society (CIES), Chicago, IL.
+46. Kereluik, K., Casperson, G., & **Akcaoglu, M.** (2010, March). *Coding Pre-Service Teacher Lesson Plans for TPACK.* SITE International Conference, San Diego, CA.
+47. **Akcaoglu, M.** (2006, May). *Assessing writing through direct and indirect tests.* 4th International Postgraduate Conference in Linguistics and Language Teaching, Adana, Turkey.
 
 ### Unpublished Theses
 
@@ -446,4 +450,4 @@ Spring 2016
 
 ---
 
-*Last updated August 2026 · [Full publication list on Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ)*
+*Last updated September 2026 · [Full publication list on Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ)*
