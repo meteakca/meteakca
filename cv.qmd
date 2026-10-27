@@ -100,7 +100,7 @@ June 2003
 
 *\* publications with graduate student co-authors*
 
-1. **Akcaoglu, M.** (under review). The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence.
+1. **Akcaoglu, M.** (under review). The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence. Preprint: <https://doi.org/10.35542/osf.io/ys2fu_v1>
 2. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
 3. Ocak, C., Hodges, C.B., & **Akcaoglu, M.** (under review). Teacher Agency in the Age of Generative AI: A Three-Process Account of Deskilling, Reskilling, and Upskilling.
 4. Staudt Willet, B.K., Bai, C., Hur, J., & **Akcaoglu, M.** (2026). Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions. *The International Review of Research in Open and Distributed Learning, 27*(3), 137–157. <https://doi.org/10.19173/irrodl.v27i3.9316>
