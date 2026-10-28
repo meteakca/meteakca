@@ -9,7 +9,7 @@ Educators, rightfully so, are concerned about the impact of GenAI on their profe
 
 I understand the fear. I also think it may be mostly misplaced, or at least productive if we let it be.
 
-*This piece grew out of a keynote I gave at [ICITS 2024](https://icits2024.kastamonu.edu.tr/index.php/en/), Kastamonu University.*
+*This piece grew out of a keynote I gave at [ICITS 2024](https://icits2024.kastamonu.edu.tr/index.php/en/), Kastamonu University. I later developed its argument into a paper, [The Offloading Ladder](../2026-10-28-offloading-ladder/index.qmd) ([preprint](https://doi.org/10.35542/osf.io/ys2fu_v1)).*
 
 GenAI is genuinely disruptive. The disruption also reveals something we should have seen all along: many of our standard practices were never well-aligned with how people actually learn, the 250-student lecture hall among them. GenAI made that gap impossible to ignore.
 

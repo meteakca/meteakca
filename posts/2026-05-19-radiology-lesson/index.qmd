@@ -27,4 +27,6 @@ AI will change teaching, as every technology integration does. The profession wi
 
 ---
 
+*Update (October 2026): I developed the lower-order/higher-order argument into a paper, [The Offloading Ladder](../2026-10-28-offloading-ladder/index.qmd) ([preprint](https://doi.org/10.35542/osf.io/ys2fu_v1)).*
+
 *Further reading: Hamilton, Rosenberg & Akcaoglu (2016) examined the SAMR model as a framework for thinking about levels of technology integration in teaching, in [TechTrends, 60(5)](https://doi.org/10.1007/s11528-016-0091-y). Koehler, Mishra, Akcaoglu & Rosenberg (2013) addressed TPACK (the knowledge teachers need to integrate technology effectively) in Bharati & Mishra (Eds.), ICT Integrated Teacher Education Models.*

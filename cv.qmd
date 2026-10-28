@@ -17,7 +17,7 @@ Georgia Southern University, College of Education · Savannah, GA 31419
 <div class="stats-block">
 <div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
 <div class="stat-cell"><div class="stat-value">5,385</div><div class="stat-label">Citations</div></div>
-<div class="stat-cell"><div class="stat-value">43</div><div class="stat-label">Articles</div></div>
+<div class="stat-cell"><div class="stat-value">42</div><div class="stat-label">Articles</div></div>
 <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
 </div>

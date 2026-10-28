@@ -68,6 +68,9 @@ accreditation.
 
 ::: {.news-feed}
 2026
+: Preprint: *The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence* (under review). [Read the preprint →](https://doi.org/10.35542/osf.io/ys2fu_v1) · [Blog post →](posts/2026-10-28-offloading-ladder/index.qmd)
+
+2026
 : Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg. [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
 
 2025–26
