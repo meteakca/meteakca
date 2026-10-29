@@ -22,6 +22,8 @@ format:
 ::: {.project}
 ### Project GAME {#project-game}
 
+![](images/marks/project-game.svg){.project-mark}
+
 [NSF · $299,895 · 2020–2022]{.project-kicker}
 
 [An NSF-funded middle school computer science curriculum that teaches programming through game design in Unity 3D.]{.project-teaser}
@@ -49,6 +51,8 @@ I designed, developed, and piloted a middle school computer science curriculum b
 ::: {.project}
 ### Game-Design and Learning (GDL) {#gdl}
 
+![](images/marks/gdl.svg){.project-mark}
+
 [Research line · 2009–2022]{.project-kicker}
 
 [A decade of after-school and classroom programs where students learn problem-solving by designing their own games.]{.project-teaser}
@@ -72,6 +76,8 @@ The foundational research line behind Project GAME. Starting with my dissertatio
 
 ::: {.project}
 ### Innovation Studio {#innovation-studio}
+
+![](images/marks/innovation-studio.svg){.project-mark}
 
 [GSU · 2015–2021]{.project-kicker}
 
@@ -100,6 +106,8 @@ I co-founded this makerspace with Eunbae Lee inside the College of Education's I
 ::: {.project}
 ### Computational Analysis of Educational Data {#book}
 
+![](images/marks/book.svg){.project-mark}
+
 [Book · 2026]{.project-kicker}
 
 [A field guide to computational methods in R for education researchers.]{.project-teaser}
@@ -124,6 +132,8 @@ I co-authored this field guide with Wei Wang, Joshua Rosenberg, and Shaun Kellog
 ::: {.project}
 ### LTHD Enrollment Dashboard {#enrollment-dashboard}
 
+![](images/marks/enrollment-dashboard.svg){.project-mark}
+
 [Shiny · 2024]{.project-kicker}
 
 [Daily-updated enrollment trends for my department, built on a Python scraper and an R Shiny front-end.]{.project-teaser}
@@ -141,6 +151,8 @@ I built this enrollment intelligence tool for the Department of Leadership, Tech
 
 ::: {.project}
 ### Program Comparator Analysis {#program-comparator}
+
+![](images/marks/program-comparator.svg){.project-mark}
 
 [R · 2026]{.project-kicker}
 
@@ -161,6 +173,8 @@ I built a benchmarking pipeline that places each of my department's twelve gradu
 ::: {.project}
 ### Project Timeline Prototype {#timeline-prototype}
 
+![](images/marks/timeline-prototype.svg){.project-mark}
+
 [HTML · 2026]{.project-kicker}
 
 [A course project laid out as one timeline, with a rule for AI use at each step.]{.project-teaser}
@@ -178,6 +192,8 @@ I built a project timeline for my Instructional Design course (FRIT 7231) as a f
 
 ::: {.project}
 ### This Website {#this-website}
+
+![](images/marks/this-website.svg){.project-mark}
 
 [Quarto · 2026]{.project-kicker}
 

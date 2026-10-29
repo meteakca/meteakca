@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" fill="none">
+<line x1="40" y1="84" x2="280" y2="84" stroke="#0e0e0e" stroke-width="1.5"/>
+<line x1="40" y1="84" x2="40" y2="90" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="56" y1="84" x2="56" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="72" y1="84" x2="72" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="88" y1="84" x2="88" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="104" y1="84" x2="104" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="120" y1="84" x2="120" y2="90" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="136" y1="84" x2="136" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="152" y1="84" x2="152" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="168" y1="84" x2="168" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="184" y1="84" x2="184" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="200" y1="84" x2="200" y2="90" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="216" y1="84" x2="216" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="232" y1="84" x2="232" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="248" y1="84" x2="248" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="264" y1="84" x2="264" y2="90" stroke="#707070" stroke-width="1"/>
+<line x1="280" y1="84" x2="280" y2="90" stroke="#0e0e0e" stroke-width="1"/>
+<rect x="41" y="62" width="30" height="8" fill="#0e0e0e"/>
+<rect x="73" y="50" width="30" height="8" fill="#0e0e0e"/>
+<rect x="105" y="62" width="30" height="8" fill="#0e0e0e"/>
+<rect x="137.5" y="50.5" width="29" height="7" fill="none" stroke="#0e0e0e" stroke-width="1"/>
+<rect x="169.5" y="62.5" width="29" height="7" fill="none" stroke="#0e0e0e" stroke-width="1"/>
+<rect x="201.5" y="50.5" width="29" height="7" fill="none" stroke="#0e0e0e" stroke-width="1"/>
+<rect x="233.5" y="62.5" width="29" height="7" fill="none" stroke="#0e0e0e" stroke-width="1"/>
+<rect x="265.5" y="50.5" width="13" height="7" fill="none" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="144.0" y1="34" x2="144.0" y2="104" stroke="#ff3b00" stroke-width="2"/>
+<rect x="140.0" y="30" width="8" height="8" fill="#ff3b00"/>
+</svg>

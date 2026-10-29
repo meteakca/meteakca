@@ -1272,3 +1272,20 @@ hr + p a:hover { color: var(--accent); }
 .project:not(:has(.project-open)) p:has(> .project-kicker) { margin-top: 4px; }
 .project-dialog-close:focus { outline: none; }
 .project-dialog-close:focus-visible { outline: 1px solid var(--accent); }
+
+/* Project marks: a strip across the top of each card */
+.project p:has(> .project-mark) { display: none; }
+.js-cards .project p:has(> .project-mark) {
+  display: block;
+  order: -2;
+  margin: -16px -18px 14px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--rule);
+  border-radius: 5px 5px 0 0;
+}
+.project-mark {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 320 / 140;
+}
