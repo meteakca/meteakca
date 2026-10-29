@@ -1,13 +1,32 @@
 ---
 title: "Projects — Mete Akcaoglu"
+format:
+  html:
+    include-after-body:
+      - _includes/_footer.html
+      - _includes/projects-cards.html
 ---
+
+```{=html}
+<script>document.documentElement.classList.add('js-cards');</script>
+```
 
 # Projects
 
 [Selected tools, programs, and initiatives.]{.page-subtitle}
 
-## Project GAME [NSF · $299,895 · 2020–2022]{.section-kicker}
+## Research Programs
 
+:::: {.project-grid}
+
+::: {.project}
+### Project GAME {#project-game}
+
+[NSF · $299,895 · 2020–2022]{.project-kicker}
+
+[An NSF-funded middle school computer science curriculum that teaches programming through game design in Unity 3D.]{.project-teaser}
+
+:::: {.project-body}
 *Developing and Piloting a Game Design-Based Computer Science Curriculum*
 
 I designed, developed, and piloted a middle school computer science curriculum built around game design in Unity 3D, funded by an NSF CSforAll award (#2027948, $299,895). The curriculum trades block-based tools like Scratch for professional-grade ones, so students walk away with programming skills that transfer directly. Teachers in underserved rural schools across Southeast Georgia helped design and refine the materials with us.
@@ -24,9 +43,17 @@ I designed, developed, and piloted a middle school computer science curriculum b
 - Akcaoglu, M., Ozcan, M.S., & Dogan, S. (2023). What keeps teachers engaged during professional development? The role of interest development. [*Education Sciences, 13*(2), 188.](https://doi.org/10.3390/educsci13020188)
 - Akcaoglu, M., Dogan, S., & Hodges, C.B. (2022). Real coding and real games: Design and development of a middle school curriculum using Unity 3D. [*TechTrends.*](https://doi.org/10.1007/s11528-022-00782-1)
 - Akcaoglu, M., Rosenberg, J.M., Hodges, C.B., & Hilpert, J. (2021). An exploration of factors impacting middle school students' attitudes toward computer programming. [*Computers in the Schools, 38*(1).](https://doi.org/10.1080/07380569.2021.1882209)
+::::
+:::
 
-## Game-Design and Learning (GDL) [2009–2022]{.section-kicker}
+::: {.project}
+### Game-Design and Learning (GDL) {#gdl}
 
+[Research line · 2009–2022]{.project-kicker}
+
+[A decade of after-school and classroom programs where students learn problem-solving by designing their own games.]{.project-teaser}
+
+:::: {.project-body}
 The foundational research line behind Project GAME. Starting with my dissertation at Michigan State, I spent a decade designing and studying after-school and in-class programs where students learn problem-solving, systems thinking, and computational thinking by designing their own digital games — first with Kodu and GameMaker, later with Unity 3D and C#.
 
 - Originated as an after-school program studying cognitive outcomes of game design in middle schoolers
@@ -40,9 +67,17 @@ The foundational research line behind Project GAME. Starting with my dissertatio
 - Akcaoglu, M. (2016). Design and implementation of the Game-Design and Learning program. [*TechTrends, 60*(2), 114–123.](https://doi.org/10.1007/s11528-016-0022-y)
 - Akcaoglu, M. (2014). Learning problem-solving through making games. [*ETR&D, 62*(5), 583–600.](https://doi.org/10.1007/s11423-014-9347-4)
 - Akcaoglu, M. & Koehler, M.J. (2014). Cognitive outcomes from the Game-Design and Learning (GDL) after-school program. [*Computers & Education, 75*, 72–81.](https://doi.org/10.1016/j.compedu.2014.02.003)
+::::
+:::
 
-## Innovation Studio [GSU · 2015–2021]{.section-kicker}
+::: {.project}
+### Innovation Studio {#innovation-studio}
 
+[GSU · 2015–2021]{.project-kicker}
+
+[A makerspace I co-founded in the College of Education for students, faculty, teachers, and the community.]{.project-teaser}
+
+:::: {.project-body}
 *Georgia Southern University, 2015–2021*
 
 I co-founded this makerspace with Eunbae Lee inside the College of Education's Instructional Support and Resources Center. It brought together university students, faculty, K–12 teachers, and community members around 3D printing, robotics, electronics, augmented reality, and game design, running as both a teaching lab and a community outreach hub.
@@ -59,9 +94,17 @@ I co-founded this makerspace with Eunbae Lee inside the College of Education's I
 - [Scratch Day at Georgia Southern](https://calendar.georgiasouthern.edu/event/scratch_day_at_georgia_southern) — LTHD-hosted teacher workshop at the Innovation Studio, May 2017
 
 [Innovation Studio at GSU →](https://coe.georgiasouthern.edu/isrc/innovation-studio/)
+::::
+:::
 
-## Computational Analysis of Educational Data [Book · 2026]{.section-kicker}
+::: {.project}
+### Computational Analysis of Educational Data {#book}
 
+[Book · 2026]{.project-kicker}
+
+[A field guide to computational methods in R for education researchers.]{.project-teaser}
+
+:::: {.project-body}
 I co-authored this field guide with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026), written for education researchers who already know R and statistics and want to push into computational methods. Every chapter follows the same format: data quality guidance, structural requirements, sample research questions, an R workflow, and template write-ups for the Methods and Results sections.
 
 - Covers text analysis, network analysis, machine learning, and LLM-based methods
@@ -69,15 +112,23 @@ I co-authored this field guide with Wei Wang, Joshua Rosenberg, and Shaun Kellog
 - Designed for doctoral coursework and as a reference for working academics
 
 [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
+::::
+:::
 
-## This Website
+::::
 
-I built this site with Quarto, R, and GitHub Actions, in a Swiss modernist design system I designed myself. It deploys to GitHub Pages on every push.
+## Tools I Built
 
-- [Source on GitHub →](https://github.com/meteakca/meteakca)
+:::: {.project-grid}
 
-## LTHD Enrollment Dashboard [Shiny · 2024]{.section-kicker}
+::: {.project}
+### LTHD Enrollment Dashboard {#enrollment-dashboard}
 
+[Shiny · 2024]{.project-kicker}
+
+[Daily-updated enrollment trends for my department, built on a Python scraper and an R Shiny front-end.]{.project-teaser}
+
+:::: {.project-body}
 I built this enrollment intelligence tool for the Department of Leadership, Technology, and Human Development at Georgia Southern University. A Python scraper pulls enrollment figures on a daily cron schedule and archives them as JSON; an R Shiny front-end turns that into trends faculty and administrators can check without waiting on institutional reports.
 
 - 10 semesters of historical data across 887 course sections
@@ -85,9 +136,17 @@ I built this enrollment intelligence tool for the Department of Leadership, Tech
 - Interactive filters by program, course, and term
 
 [View dashboard →](https://meteakca.shinyapps.io/lthd_dashboard/)
+::::
+:::
 
-## Program Comparator Analysis [R · 2026]{.section-kicker}
+::: {.project}
+### Program Comparator Analysis {#program-comparator}
 
+[R · 2026]{.project-kicker}
+
+[Benchmarks my department's twelve graduate programs against every comparable program in the University System of Georgia.]{.project-teaser}
+
+:::: {.project-body}
 I built a benchmarking pipeline that places each of my department's twelve graduate programs against every comparable program in the University System of Georgia, using the Board of Regents degrees-conferred extract. I match each program to its peer set by CIP code and degree level, then turn it into a report with a peer table, a five-year trend, and a written read of what the numbers mean. One parameterized source generates both the combined document and twelve standalone per-program handouts.
 
 - 2,878 program rows across all 26 USG institutions, FY2021–FY2025
@@ -96,9 +155,17 @@ I built a benchmarking pipeline that places each of my department's twelve gradu
 - Surfaced a reporting artifact worth knowing about generally: degree-conferral counts lag student intake by four to five years, so a program can appear to decline in conferral data while its enrollment is growing
 
 ![Peer table and trend chart layout from the report — illustrative figure with placeholder institutions and values, not the underlying USG data.](images/program-comparator-mock.png)
+::::
+:::
 
-## Project Timeline Prototype [HTML · 2026]{.section-kicker}
+::: {.project}
+### Project Timeline Prototype {#timeline-prototype}
 
+[HTML · 2026]{.project-kicker}
+
+[A course project laid out as one timeline, with a rule for AI use at each step.]{.project-teaser}
+
+:::: {.project-body}
 I built a project timeline for my Instructional Design course (FRIT 7231) as a first step toward a learning-focused course layout. The course project runs across the term as one timeline, and each step opens into what to do, where to submit it, how much it counts, and how AI may be used at that step. It runs as a page inside the LMS.
 
 - Eight Key Assessment parts and their milestones across a 15-week term
@@ -106,3 +173,21 @@ I built a project timeline for my Instructional Design course (FRIT 7231) as a f
 - Works without scripts; a today line and upcoming deadlines appear when scripts run
 
 [Open the prototype →](https://claude.ai/artifact/8jXYsPCujKgBVyVsPinQqj) · [Read the post →](posts/2026-10-29-course-timeline/index.qmd) · [DOI →](https://doi.org/10.5281/zenodo.23773997)
+::::
+:::
+
+::: {.project}
+### This Website {#this-website}
+
+[Quarto · 2026]{.project-kicker}
+
+[Built with Quarto, R, and GitHub Actions in a Swiss modernist design system I designed.]{.project-teaser}
+
+:::: {.project-body}
+I built this site with Quarto, R, and GitHub Actions, in a Swiss modernist design system I designed myself. It deploys to GitHub Pages on every push.
+
+- [Source on GitHub →](https://github.com/meteakca/meteakca)
+::::
+:::
+
+::::

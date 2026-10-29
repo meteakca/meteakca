@@ -1,0 +1,72 @@
+<!-- Projects page: turns each .project into a card that opens in a modal dialog.
+     Without scripts the page stays a plain list (the js-cards class is never set). -->
+<dialog class="project-dialog" aria-labelledby="project-dialog-title">
+  <div class="project-dialog-inner">
+    <button class="project-dialog-close" type="button" aria-label="Close">×</button>
+    <div class="project-dialog-kicker"></div>
+    <p class="project-dialog-title" id="project-dialog-title"></p>
+    <div class="project-dialog-body"></div>
+  </div>
+</dialog>
+<script>
+(function () {
+  var dialog = document.querySelector('.project-dialog');
+  if (!dialog || !dialog.showModal) {
+    document.documentElement.classList.remove('js-cards');
+    return;
+  }
+  var kicker = dialog.querySelector('.project-dialog-kicker');
+  var title = dialog.querySelector('.project-dialog-title');
+  var body = dialog.querySelector('.project-dialog-body');
+  var projects = {};
+  var pushed = false;
+
+  document.querySelectorAll('.project').forEach(function (card) {
+    var heading = card.querySelector('h3');
+    var id = (heading.closest('section') || heading).id || heading.id;
+    projects[id] = card;
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'project-open';
+    btn.textContent = 'Details →';
+    btn.setAttribute('aria-label', 'Details: ' + heading.textContent.trim());
+    btn.addEventListener('click', function () { open(id, true); });
+    card.appendChild(btn);
+  });
+
+  function open(id, push) {
+    var card = projects[id];
+    if (!card) return;
+    var heading = card.querySelector('h3').cloneNode(true);
+    heading.querySelectorAll('.anchorjs-link').forEach(function (a) { a.remove(); });
+    title.textContent = heading.textContent.trim();
+    kicker.textContent = card.querySelector('.project-kicker').textContent;
+    body.innerHTML = card.querySelector('.project-body').innerHTML;
+    if (push) { history.pushState({ project: id }, '', '#' + id); pushed = true; }
+    if (!dialog.open) dialog.showModal();
+    document.documentElement.classList.add('project-open-lock');
+    dialog.scrollTop = 0;
+  }
+
+  function close() { if (dialog.open) dialog.close(); }
+
+  dialog.addEventListener('close', function () {
+    document.documentElement.classList.remove('project-open-lock');
+    if (!projects[location.hash.slice(1)]) return;
+    if (pushed) { pushed = false; history.back(); }
+    else history.replaceState(null, '', location.pathname + location.search);
+  });
+
+  dialog.querySelector('.project-dialog-close').addEventListener('click', close);
+  dialog.addEventListener('click', function (e) { if (e.target === dialog) close(); });
+
+  window.addEventListener('popstate', function () {
+    var id = location.hash.slice(1);
+    if (projects[id]) open(id, false);
+    else { pushed = false; close(); }
+  });
+
+  var initial = location.hash.slice(1);
+  if (projects[initial]) open(initial, false);
+})();
+</script>

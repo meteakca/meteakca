@@ -1029,3 +1029,246 @@ hr + p a:hover { color: var(--accent); }
 
   table { page-break-inside: avoid; }
 }
+
+/* ── Projects page: card grid + dialog ─────────────────────── */
+/* Card surface and shadows match the mealApp recipe cards. */
+.project-grid, .project-dialog {
+  --surface: #fbfaf7;
+  --card-shadow: 0 1px 2px rgba(14, 14, 14, 0.06), 0 2px 8px rgba(14, 14, 14, 0.06);
+  --card-shadow-hover: 0 2px 4px rgba(14, 14, 14, 0.08), 0 10px 24px rgba(14, 14, 14, 0.12);
+}
+
+/* Without JS (.js-cards unset) projects render as a plain list. */
+.project-kicker {
+  display: block;
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin: 0 0 8px;
+}
+
+.project h3 {
+  font-family: var(--sans) !important;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.015em !important;
+  text-transform: none !important;
+  color: var(--ink) !important;
+  margin: 0 0 6px !important;
+  line-height: 1.2;
+}
+
+.project .anchorjs-link { display: none !important; }
+
+.project-teaser {
+  display: block;
+  font-size: 13.5px;
+  color: var(--ink-2);
+  line-height: 1.5;
+}
+
+.project p:has(> .project-kicker),
+.project p:has(> .project-teaser) { margin: 0; }
+
+.project-body,
+.project-dialog-body {
+  font-size: 13.5px;
+  color: var(--ink-2);
+  line-height: 1.55;
+}
+
+.project-body p,
+.project-dialog-body p { margin: 0 0 10px; }
+
+.project-body ul,
+.project-dialog-body ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 12px;
+}
+
+.project-body li,
+.project-dialog-body li {
+  padding: 7px 0;
+  border-top: 1px solid var(--rule);
+}
+
+.project-body li:first-child,
+.project-dialog-body li:first-child { border-top: none; }
+
+.project-body strong,
+.project-dialog-body strong { color: var(--ink); font-weight: 500; }
+
+.project-body img,
+.project-dialog-body img { max-width: 100%; height: auto; }
+
+.project-body figcaption,
+.project-dialog-body figcaption {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+/* No-JS list layout */
+.project { padding: 18px 0 8px; }
+.project + .project { border-top: 1px solid var(--rule); }
+.project-teaser { margin-bottom: 10px; }
+
+/* Card grid (JS on) */
+.js-cards .project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin: 18px 0 8px;
+}
+
+.js-cards .project {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 18px 16px;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.js-cards .project:hover {
+  border-color: var(--ink);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-2px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js-cards .project { transition: none; }
+  .js-cards .project:hover { transform: none; }
+}
+
+.js-cards .project > section,
+.js-cards .project > section.level3 { display: flex; flex-direction: column; flex: 1; }
+.js-cards .project-teaser { margin-bottom: 14px; }
+.js-cards .project-body { display: none; }
+
+.project-open {
+  margin-top: auto;
+  align-self: flex-start;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+/* Whole card is the click target */
+.project-open::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.js-cards .project:hover h3 { color: var(--accent) !important; }
+.project-open:focus-visible { outline: none; }
+.js-cards .project:has(.project-open:focus-visible) {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Dialog */
+.project-open-lock body { overflow: hidden; }
+
+.project-dialog {
+  width: min(720px, calc(100vw - 32px));
+  max-height: min(86vh, 900px);
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--ink);
+  overflow: auto;
+  box-shadow: 0 4px 12px rgba(14, 14, 14, 0.12), 0 24px 64px rgba(14, 14, 14, 0.28);
+}
+
+.project-dialog::backdrop {
+  background: rgba(14, 14, 14, 0.45);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+
+.project-dialog[open] { animation: project-pop 0.18s ease-out; }
+.project-dialog[open]::backdrop { animation: project-fade 0.18s ease-out; }
+
+@keyframes project-pop {
+  from { opacity: 0; transform: translateY(8px) scale(0.98); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes project-fade { from { opacity: 0; } to { opacity: 1; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .project-dialog[open],
+  .project-dialog[open]::backdrop { animation: none; }
+}
+
+.project-dialog-inner {
+  position: relative;
+  padding: 22px 32px 28px;
+}
+
+.project-dialog-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-family: var(--sans);
+  font-size: 26px;
+  line-height: 1;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 4px 8px;
+}
+.project-dialog-close:hover { color: var(--accent); }
+
+.project-dialog-kicker {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin: 0 40px 8px 0;
+}
+
+.project-dialog-title {
+  font-family: var(--sans);
+  font-size: 26px;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+  color: var(--ink);
+  margin: 0 0 18px;
+  padding: 0 40px 14px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+@media (max-width: 640px) {
+  .js-cards .project-grid { grid-template-columns: 1fr; }
+  .project-dialog-inner { padding: 18px 20px 24px; }
+  .project-dialog-title { font-size: 22px; }
+}
+
+@media print {
+  .js-cards .project-grid { display: block; }
+  .js-cards .project-body { display: block; }
+  .project-open, .project-dialog { display: none !important; }
+}
+.project p:has(> .project-kicker) { order: -1; }
+.project:not(:has(.project-open)) p:has(> .project-kicker) { margin-top: 4px; }
+.project-dialog-close:focus { outline: none; }
+.project-dialog-close:focus-visible { outline: 1px solid var(--accent); }
