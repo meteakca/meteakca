@@ -19,6 +19,8 @@ I built the timeline for my Instructional Design course (FRIT 7231), and it runs
 
 If you teach online and are trying something similar, I would like to hear how it goes.
 
+**Cite this post:** Akcaoglu, M. (2026). *Learning-Focused Design for the LMS* (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.23773997>
+
 **References**
 
 Brown, M., Dehoney, J., & Millichap, N. (2015). *The next generation digital learning environment: A report on research* [ELI Paper]. EDUCAUSE. <https://library.educause.edu/resources/2015/4/the-next-generation-digital-learning-environment-a-report-on-research>
