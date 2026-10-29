@@ -96,3 +96,13 @@ I built a benchmarking pipeline that places each of my department's twelve gradu
 - Surfaced a reporting artifact worth knowing about generally: degree-conferral counts lag student intake by four to five years, so a program can appear to decline in conferral data while its enrollment is growing
 
 ![Peer table and trend chart layout from the report — illustrative figure with placeholder institutions and values, not the underlying USG data.](images/program-comparator-mock.png)
+
+## Project Timeline Prototype [HTML · 2026]{.section-kicker}
+
+I built a project timeline for my Instructional Design course (FRIT 7231) as a first step toward a learning-focused course layout. The course project runs across the term as one timeline, and each step opens into what to do, where to submit it, how much it counts, and how AI may be used at that step. It runs as a page inside the LMS.
+
+- Eight Key Assessment parts and their milestones across a 15-week term
+- A rule for AI use at each step of the project
+- Works without scripts; a today line and upcoming deadlines appear when scripts run
+
+[Open the prototype →](https://claude.ai/artifact/8jXYsPCujKgBVyVsPinQqj) · [Read the post →](posts/2026-10-29-course-timeline/index.qmd) · [DOI →](https://doi.org/10.5281/zenodo.23773997)

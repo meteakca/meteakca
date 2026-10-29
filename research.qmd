@@ -8,8 +8,8 @@ title: "Research — Mete Akcaoglu"
 
 <div class="stats-block">
   <div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
-  <div class="stat-cell"><div class="stat-value">5,385</div><div class="stat-label">Citations</div></div>
-  <div class="stat-cell"><div class="stat-value">42</div><div class="stat-label">Articles</div></div>
+  <div class="stat-cell"><div class="stat-value">5,390</div><div class="stat-label">Citations</div></div>
+  <div class="stat-cell"><div class="stat-value">40</div><div class="stat-label">Articles</div></div>
   <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
 
@@ -30,7 +30,7 @@ thinking in K–12 settings.
 
 Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.* [Read online](https://data-edu.github.io/computational-social-science-cookbook/)
 
-## Selected Publications [42 articles · 8 chapters · 1 book]{.section-kicker}
+## Selected Publications [40 articles · 8 chapters · 1 book]{.section-kicker}
 
 1. **Akcaoglu, M.** (under review). The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence. Preprint: <https://doi.org/10.35542/osf.io/ys2fu_v1>
 2. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
