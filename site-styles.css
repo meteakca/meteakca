@@ -1470,10 +1470,10 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 .front-lead-text { display: block; }
 .front-lead-title {
   display: block;
-  font-size: clamp(28px, 3.6vw, 40px);
+  font-size: clamp(22px, 2.4vw, 26px);
   font-weight: 500;
-  line-height: 1.02;
-  letter-spacing: -0.03em;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
   color: var(--ink);
   margin-bottom: 14px;
   transition: color 0.15s;
@@ -1527,3 +1527,14 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 }
 .byline-strip > p:first-child { flex-shrink: 0; line-height: 0; }
 #listing-news { margin-top: 26px; }
+
+/* AI-generated illustration disclosure (landing + projects) */
+.ai-note {
+  display: block;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+p:has(> .ai-note) { margin: 32px 0 0; }
