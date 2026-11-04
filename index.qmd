@@ -1,90 +1,73 @@
 ---
 title: "Mete Akcaoglu"
+listing:
+  - id: stories
+    contents: posts
+    sort: "date desc"
+    max-items: 4
+    type: custom
+    template: _includes/front-listing.ejs
+    fields: [title, date, description, path, image]
+  - id: news
+    contents: news.yml
+    sort: "date desc"
+    max-items: 3
+    type: custom
+    template: _includes/latest-listing.ejs
+    fields: [title, date, description, path, when]
 ---
 
-::: {.hero}
-[Mete Akcaoglu]{.hero-name}
+::: {.byline-strip}
+![](images/profilePic.jpg){.byline-photo}
 
-[MEH-teh ahk-CHA-oh-loo]{.hero-pronunciation}
-
-[Professor · Instructional Technology · Department Chair]{.hero-lead}
-
-:::: {.hero-body}
-![](images/profilePic.jpg){.hero-photo}
-
-::::: {.hero-text}
-I am a professor of instructional technology and department chair at Georgia Southern University. My research focuses on how people learn with and through technology — with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. My work spans game-based learning and online learning design, using experimental, survey, and qualitative methods.
-
-::: {.social-links}
-[↗ Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [↗ GitHub](https://github.com/meteakca) · [↗ LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [↗ Bluesky](https://bsky.app/profile/meteakca.bsky.social)
-:::
-:::::
-::::
+[**Mete Akcaoglu** · Professor of Instructional Technology and Department Chair, Georgia Southern University. I study how people learn with and through technology. [About me →](about.html)]{.byline-text}
 :::
 
+::: {#stories}
+:::
+
+[→ All posts](blog.html){.front-all}
 
 ::: {.section-header}
-## Research Interests [h-index 28 · 5,390 citations]{.section-kicker}
+## Selected Work [Programs · Tools]{.section-kicker}
 
-[→ All publications](research.html){.section-cta}
+[→ All projects](projects.html){.section-cta}
 :::
 
-::: {.interest-cards}
-:::: {.interest-card}
-[Motivation & Interest Development]{.interest-card-title}
+```{=html}
+<div class="feature-grid">
+  <a class="feature-card" href="projects.html#project-game">
+    <img src="images/marks/project-game.svg" alt="" class="feature-mark">
+    <span class="feature-kicker">NSF · $299,895 · 2020–2022</span>
+    <span class="feature-title">Project GAME</span>
+    <span class="feature-teaser">An NSF-funded middle school computer science curriculum that teaches programming through game design in Unity 3D.</span>
+  </a>
+  <a class="feature-card" href="projects.html#book">
+    <img src="images/marks/book.svg" alt="" class="feature-mark">
+    <span class="feature-kicker">Book · 2026</span>
+    <span class="feature-title">Computational Analysis of Educational Data</span>
+    <span class="feature-teaser">A field guide to computational methods in R for education researchers.</span>
+  </a>
+  <a class="feature-card" href="projects.html#timeline-prototype">
+    <img src="images/marks/timeline-prototype.svg" alt="" class="feature-mark">
+    <span class="feature-kicker">HTML · 2026</span>
+    <span class="feature-title">Project Timeline Prototype</span>
+    <span class="feature-teaser">A course project laid out as one timeline, with a rule for AI use at each step.</span>
+  </a>
+  <a class="feature-card" href="projects.html#program-comparator">
+    <img src="images/marks/program-comparator.svg" alt="" class="feature-mark">
+    <span class="feature-kicker">R · 2026</span>
+    <span class="feature-title">Program Comparator Analysis</span>
+    <span class="feature-teaser">Benchmarks my department's twelve graduate programs against every comparable program in the University System of Georgia.</span>
+  </a>
+</div>
+```
 
-How interest emerges in technology-rich environments, and how instructional design can sustain it.
-::::
-
-:::: {.interest-card}
-[Game-Based Learning & CS Education]{.interest-card-title}
-
-Using game design as a vehicle for teaching computational thinking in K–12 classrooms.
-::::
-
-:::: {.interest-card}
-[AI in Education]{.interest-card-title}
-
-LLM-assisted research workflows, AI literacy, and the role of generative AI in teaching and learning.
-::::
-
-:::: {.interest-card}
-[Online Learning Design]{.interest-card-title}
-
-Community of inquiry frameworks, course design patterns, and engagement in online and hybrid settings.
-::::
-:::
-
-## Current Position [Chair · Fall 2024–]{.section-kicker}
-
-**Department Chair — Leadership, Technology, and Human Development**
-Georgia Southern University · Fall 2024–Present
-
-Overseeing 20 full-time faculty, 10 graduate programs, ~600 students. Focus
-areas: faculty development, curriculum reform, enrollment management, and
-accreditation.
-
+::: {.section-header}
 ## News
 
-::: {.news-feed}
-2026
-: Preprint: *The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence* (under review). [Read the preprint →](https://doi.org/10.35542/osf.io/ys2fu_v1) · [Blog post →](posts/2026-10-28-offloading-ladder/index.qmd)
+[→ All news](about.html#news){.section-cta}
+:::
 
-2026
-: Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg. [Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
-
-2025–26
-: Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)
-
-2024
-: Named to Stanford/Elsevier Top 2% Scientists in Education (2023, 2024)
-
-2024
-: Keynote at the International Symposium on Computer and Instructional Technologies (ICITS), Kastamonu, Türkiye
-
-2024
-: Appointed Department Chair, Leadership, Technology, and Human Development
-
-2022
-: Completed NSF-funded Project GAME: a game design-based CS curriculum for middle schools
+::: {#news}
 :::

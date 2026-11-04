@@ -3,6 +3,7 @@ title: "Beyond the Panic"
 date: 2026-05-19
 categories: [AI in Education, Teaching]
 description: "GenAI hasn't changed how humans learn. It has exposed how far our practices drifted from our theories."
+image: "../../images/marks/posts/beyond-the-panic.svg"
 ---
 
 Educators, rightfully so, are concerned about the impact of GenAI on their profession, myself included. The fear is that it will make it too easy for students to outsource the work of learning, and that what gets lost in the process is the thinking itself.

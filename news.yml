@@ -1,0 +1,30 @@
+# News items for the landing-page "Latest" stream and the About page.
+# Each item is one line; `path` is where the row links (external or site page).
+# `date` sorts the stream; `when` is what's shown (year or range).
+# A blog post that announces something doesn't need a news item too.
+
+- title: "Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg"
+  date: 2026-01-01
+  when: "2026"
+  path: https://data-edu.github.io/computational-social-science-cookbook/
+
+- title: "Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)"
+  date: 2025-08-01
+  when: "2025–26"
+
+- title: "Named to Stanford/Elsevier Top 2% Scientists in Education (2023, 2024)"
+  date: 2024-10-01
+  when: "2024"
+
+- title: "Keynote at the International Symposium on Computer and Instructional Technologies (ICITS), Kastamonu, Türkiye"
+  date: 2024-09-01
+  when: "2024"
+
+- title: "Appointed Department Chair, Leadership, Technology, and Human Development"
+  date: 2024-08-01
+  when: "2024"
+
+- title: "Completed NSF-funded Project GAME: a game design-based CS curriculum for middle schools"
+  date: 2022-08-01
+  when: "2022"
+  path: projects.html#project-game

@@ -1,0 +1,77 @@
+---
+title: "About — Mete Akcaoglu"
+listing:
+  id: news
+  contents: news.yml
+  sort: "date desc"
+  type: custom
+  template: _includes/latest-listing.ejs
+  fields: [title, date, description, path, when]
+---
+
+::: {.hero}
+[Mete Akcaoglu]{.hero-name}
+
+[MEH-teh ahk-CHA-oh-loo]{.hero-pronunciation}
+
+[Professor · Instructional Technology · Department Chair]{.hero-lead}
+
+:::: {.hero-body}
+![](images/profilePic.jpg){.hero-photo}
+
+::::: {.hero-text}
+I am a professor of instructional technology and department chair at Georgia Southern University. My research focuses on how people learn with and through technology — with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. My work spans game-based learning and online learning design, using experimental, survey, and qualitative methods.
+
+::: {.social-links}
+[↗ Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [↗ GitHub](https://github.com/meteakca) · [↗ LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [↗ Bluesky](https://bsky.app/profile/meteakca.bsky.social)
+:::
+:::::
+::::
+:::
+
+
+::: {.section-header}
+## Research Interests [h-index 28 · 5,390 citations]{.section-kicker}
+
+[→ All publications](research.html){.section-cta}
+:::
+
+::: {.interest-cards}
+:::: {.interest-card}
+[Motivation & Interest Development]{.interest-card-title}
+
+How interest emerges in technology-rich environments, and how instructional design can sustain it.
+::::
+
+:::: {.interest-card}
+[Game-Based Learning & CS Education]{.interest-card-title}
+
+Using game design as a vehicle for teaching computational thinking in K–12 classrooms.
+::::
+
+:::: {.interest-card}
+[AI in Education]{.interest-card-title}
+
+LLM-assisted research workflows, AI literacy, and the role of generative AI in teaching and learning.
+::::
+
+:::: {.interest-card}
+[Online Learning Design]{.interest-card-title}
+
+Community of inquiry frameworks, course design patterns, and engagement in online and hybrid settings.
+::::
+:::
+
+## Current Position [Chair · Fall 2024–]{.section-kicker}
+
+**Department Chair — Leadership, Technology, and Human Development**
+Georgia Southern University · Fall 2024–Present
+
+Overseeing 20 full-time faculty, 10 graduate programs, ~600 students. Focus
+areas: faculty development, curriculum reform, enrollment management, and
+accreditation.
+
+## News
+
+::: {#news}
+:::
