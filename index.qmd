@@ -23,13 +23,17 @@ listing:
 [**Mete Akcaoglu** · Professor of Instructional Technology and Department Chair, Georgia Southern University. I study how people learn with and through technology. [About me →](about.html)]{.byline-text}
 :::
 
+::: {.section-header}
+## Latest Writing
+
+[→ All posts](blog.html){.section-cta}
+:::
+
 ::: {#stories}
 :::
 
-[→ All posts](blog.html){.front-all}
-
 ::: {.section-header}
-## Selected Work [Programs · Tools]{.section-kicker}
+## Selected Work
 
 [→ All projects](projects.html){.section-cta}
 :::

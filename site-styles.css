@@ -1417,8 +1417,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   align-items: center;
   gap: 18px;
   padding: 0 0 20px;
-  margin: 0 0 28px;
-  border-bottom: 1px solid var(--rule);
+  margin: 0 0 8px;
 }
 .byline-strip p { margin: 0; }
 .byline-photo {
@@ -1519,8 +1518,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 }
 .front-card-desc { display: block; font-size: 13px; line-height: 1.5; }
 
-p:has(> .front-all) { text-align: right; margin: 18px 0 0; }
-.front-all { font-family: var(--mono); font-size: 11px; letter-spacing: 0.02em; }
+#listing-stories { margin-top: 26px; }
 
 @media (max-width: 640px) {
   .front-lead { grid-template-columns: 1fr; gap: 16px; }
