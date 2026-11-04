@@ -1528,13 +1528,3 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 .byline-strip > p:first-child { flex-shrink: 0; line-height: 0; }
 #listing-news { margin-top: 26px; }
 
-/* AI-generated illustration disclosure (landing + projects) */
-.ai-note {
-  display: block;
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-p:has(> .ai-note) { margin: 32px 0 0; }
