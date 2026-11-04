@@ -3,7 +3,7 @@ title: "Learning-Focused Design for the LMS"
 date: 2026-10-29
 categories: [Teaching, Online Learning]
 description: "Every LMS I know manages content. A course built around learning would show the work and the people."
-image: "timeline-screenshot.png"
+image: "../../images/marks/posts/course-timeline.svg"
 ---
 
 Every learning management system I know is a content management system, unfortunately (Brown et al., 2015). Instructors upload modules, files, discussion boards, and a gradebook, and the course takes the shape of those folders.
