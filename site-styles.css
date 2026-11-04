@@ -27,7 +27,7 @@ html, body {
   background: var(--bg) !important;
   color: var(--ink);
   font-family: var(--sans) !important;
-  font-size: 14px;
+  font-size: 15.5px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -51,7 +51,7 @@ a:hover { text-decoration: underline; }
 
 .site-nav-name {
   font-family: var(--sans);
-  font-size: 18px;
+  font-size: 19.5px;
   font-weight: 600;
   letter-spacing: -0.01em;
   color: var(--accent);
@@ -70,7 +70,7 @@ a:hover { text-decoration: underline; }
 
 .site-nav-links a {
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 14.5px;
   font-weight: 500;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -105,7 +105,7 @@ nav.navbar,
 .blog-post #title-block-header .title {
   font-family: var(--sans);
   font-weight: 500;
-  font-size: clamp(24px, 4vw, 36px);
+  font-size: clamp(25px, 4vw, 38px);
   letter-spacing: -0.025em;
   color: var(--ink);
   margin: 0 0 8px;
@@ -113,7 +113,7 @@ nav.navbar,
 
 .blog-post #title-block-header .date {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -132,7 +132,7 @@ h2   { counter-increment: h2; }
 h1 {
   font-family: var(--sans) !important;
   font-weight: 500 !important;
-  font-size: clamp(24px, 4vw, 36px) !important;
+  font-size: clamp(25px, 4vw, 38px) !important;
   line-height: 1.05 !important;
   letter-spacing: -0.025em !important;
   color: var(--ink) !important;
@@ -150,7 +150,7 @@ h1 {
   display: block;
   font-family: var(--sans);
   font-weight: 500;
-  font-size: clamp(36px, 5.5vw, 60px);
+  font-size: clamp(38px, 5.5vw, 63px);
   line-height: 0.92;
   letter-spacing: -0.035em;
   color: var(--ink);
@@ -164,7 +164,7 @@ p:has(> .hero-name) {
 .hero-pronunciation {
   display: block;
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 400;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -200,14 +200,14 @@ p:has(> .hero-pronunciation) {
   content: "↳";
   display: block;
   font-family: var(--mono);
-  font-size: 14px;
+  font-size: 15.5px;
   color: var(--accent);
   margin-bottom: 8px;
 }
 
 .hero-lead {
   font-family: var(--sans);
-  font-size: 16px;
+  font-size: 17.5px;
   font-weight: 400;
   color: var(--muted);
   line-height: 1.35;
@@ -216,7 +216,7 @@ p:has(> .hero-pronunciation) {
 }
 
 .hero-bio {
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.55;
   margin: 0;
@@ -242,7 +242,7 @@ p:has(> .hero-pronunciation) {
 
 .cv-summary {
   flex: 1;
-  font-size: 14px;
+  font-size: 15.5px;
   line-height: 1.45;
   color: var(--ink);
   font-weight: 400;
@@ -265,7 +265,7 @@ p:has(> .hero-pronunciation) {
 }
 
 .stat-value {
-  font-size: 22px;
+  font-size: 23.5px;
   font-weight: 500;
   letter-spacing: -0.02em;
   color: var(--ink);
@@ -275,7 +275,7 @@ p:has(> .hero-pronunciation) {
 
 .stat-label {
   font-family: var(--mono);
-  font-size: 9.5px;
+  font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--muted);
@@ -285,7 +285,7 @@ p:has(> .hero-pronunciation) {
 /* ── Social links block ──────────────────────────────────── */
 .social-links {
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.03em;
   color: var(--muted);
   margin: 12px 0 0;
@@ -317,7 +317,7 @@ p:has(> .hero-pronunciation) {
   right: 0;
   top: 54px;
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.02em;
   color: var(--accent);
   text-decoration: none;
@@ -327,7 +327,7 @@ p:has(> .hero-pronunciation) {
 
 /* ── CV page overrides ───────────────────────────────────── */
 .cv-page dt {
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .cv-summary-row + section > h2 {
@@ -335,12 +335,12 @@ p:has(> .hero-pronunciation) {
 }
 
 .cv-page h3 {
-  font-size: 12px !important;
+  font-size: 13px !important;
   letter-spacing: 0.06em !important;
 }
 
 .cv-page h1 {
-  font-size: clamp(36px, 5.5vw, 60px) !important;
+  font-size: clamp(38px, 5.5vw, 63px) !important;
   line-height: 0.92 !important;
   letter-spacing: -0.035em !important;
   margin: 0 0 10px !important;
@@ -355,7 +355,7 @@ p:has(> .hero-pronunciation) {
 /* ── Inner page subtitle (h1 + p role line) ──────────────── */
 .page-subtitle {
   display: block;
-  font-size: 14px;
+  font-size: 15.5px;
   color: var(--muted);
   font-weight: 400;
   letter-spacing: 0;
@@ -368,7 +368,7 @@ p:has(> .page-subtitle) {
 /* ── Section kicker (metadata right of h2) ───────────────── */
 .section-kicker {
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 14.5px;
   color: var(--muted);
   letter-spacing: 0.02em;
   text-transform: uppercase;
@@ -394,7 +394,7 @@ p:has(> .page-subtitle) {
 
 .interest-card-title {
   font-family: var(--sans);
-  font-size: 14px;
+  font-size: 15.5px;
   font-weight: 500;
   letter-spacing: -0.01em;
   color: var(--ink);
@@ -402,13 +402,13 @@ p:has(> .page-subtitle) {
 }
 
 .interest-card p {
-  font-size: 13px;
+  font-size: 14.5px;
   color: var(--ink-2);
   line-height: 1.5;
   margin: 0;
 }
 
-.interest-card a { font-size: 13px; }
+.interest-card a { font-size: 14.5px; }
 
 /* ── News feed ───────────────────────────────────────────── */
 dl.news-feed {
@@ -418,7 +418,7 @@ dl.news-feed {
 
 .news-feed dt {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   font-weight: 400;
   letter-spacing: 0.03em;
@@ -431,7 +431,7 @@ dl.news-feed {
   margin: 0;
   padding: 10px 0 8px;
   border-top: 1px solid var(--rule);
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.5;
 }
@@ -447,7 +447,7 @@ dl.news-feed {
 /* ── Site footer ─────────────────────────────────────────── */
 .site-footer {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -468,7 +468,7 @@ h2 {
   gap: 14px;
   font-family: var(--sans) !important;
   font-weight: 500 !important;
-  font-size: 22px !important;
+  font-size: 23.5px !important;
   letter-spacing: -0.02em !important;
   color: var(--ink) !important;
   border-top: 1px solid var(--ink) !important;
@@ -481,7 +481,7 @@ h2 {
 h2::before {
   content: "§ " counter(h2);
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 0.06em;
   flex-shrink: 0;
@@ -493,7 +493,7 @@ h2::before {
 h3 {
   font-family: var(--mono) !important;
   font-weight: 500 !important;
-  font-size: 10px !important;
+  font-size: 11px !important;
   text-transform: uppercase !important;
   letter-spacing: 0.09em !important;
   color: var(--muted) !important;
@@ -505,7 +505,7 @@ h3 {
 /* Blog post H3 — readable size */
 .blog-post h3 {
   font-family: var(--sans) !important;
-  font-size: 16px !important;
+  font-size: 17.5px !important;
   text-transform: none !important;
   letter-spacing: -0.01em !important;
   color: var(--ink) !important;
@@ -522,7 +522,7 @@ dl {
 
 dt {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 0.03em;
@@ -550,7 +550,7 @@ dl > dt:first-child + dd {
 dd > p { margin: 0 0 2px; }
 
 dd > p:first-child {
-  font-size: 15px;
+  font-size: 16.5px;
   font-weight: 500;
   color: var(--ink);
   letter-spacing: -0.01em;
@@ -558,14 +558,14 @@ dd > p:first-child {
 }
 
 dd .entry-org {
-  font-size: 13px;
+  font-size: 14.5px;
   font-weight: 400;
   color: var(--muted);
   letter-spacing: normal;
 }
 
 dd > p:nth-child(n+2) {
-  font-size: 13px;
+  font-size: 14.5px;
   color: var(--ink-2);
   margin-top: 4px;
 }
@@ -578,7 +578,7 @@ dd > p:nth-child(n+2) {
 }
 
 .arrow-list > ul > li {
-  font-size: 13px;
+  font-size: 14.5px;
   color: var(--ink-2);
   line-height: 1.55;
   padding: 7px 0 7px 18px;
@@ -594,14 +594,14 @@ dd > p:nth-child(n+2) {
   left: 0;
   top: 6px;
   font-family: var(--mono);
-  font-size: 9px;
+  font-size: 10.5px;
   color: var(--accent);
 }
 
 /* Bold labels inside bullets (e.g. **Accreditation & Quality:**) */
 .arrow-list > ul > li > strong {
   font-family: var(--mono);
-  font-size: 9.5px;
+  font-size: 11px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -616,7 +616,7 @@ dd > ul {
 }
 
 dd > ul > li {
-  font-size: 13px;
+  font-size: 14.5px;
   color: var(--ink-2);
   line-height: 1.6;
   padding: 0;
@@ -641,7 +641,7 @@ dd > ul > li + li {
   position: relative;
   padding: 9px 0 9px 38px !important;
   border-top: 1px solid var(--rule);
-  font-size: 13.5px;
+  font-size: 15px;
   line-height: 1.5;
   color: var(--ink-2);
 }
@@ -656,7 +656,7 @@ dd > ul > li + li {
   left: 0;
   top: 11px;
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   line-height: 1;
 }
@@ -679,7 +679,7 @@ dd > ul > li + li {
 .level3 > ul > li {
   padding: 7px 0;
   border-top: 1px solid var(--rule);
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.5;
 }
@@ -693,7 +693,7 @@ dd > ul > li + li {
 /* ── Section prose paragraphs ──────────────────────────────── */
 .level2 > p,
 .level3 > p {
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   margin: 0 0 10px;
   line-height: 1.55;
@@ -709,7 +709,7 @@ dd > ul > li + li {
 body:not(.blog-post) .level3 > p:first-child > em:only-child,
 body:not(.blog-post) .level2 > p:first-child > em:only-child {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   font-style: normal;
   color: var(--muted);
   letter-spacing: 0.02em;
@@ -719,7 +719,7 @@ body:not(.blog-post) .level2 > p:first-child > em:only-child {
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 13px;
+  font-size: 14.5px;
   margin-bottom: 20px;
 }
 
@@ -730,7 +730,7 @@ thead {
 
 th {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -749,7 +749,7 @@ td {
 
 td:first-child {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   white-space: nowrap;
   letter-spacing: 0.02em;
@@ -768,7 +768,7 @@ figure img {
 
 figcaption {
   font-family: var(--mono);
-  font-size: 10.5px;
+  font-size: 11.5px;
   color: var(--muted);
   letter-spacing: 0.01em;
   line-height: 1.5;
@@ -780,7 +780,7 @@ strong { font-weight: 500; color: var(--ink); }
 
 code {
   font-family: var(--mono);
-  font-size: 12px;
+  font-size: 13px;
   background: none;
   color: var(--muted);
   padding: 0;
@@ -807,7 +807,7 @@ code {
 .blog-date {
   display: block;
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -817,7 +817,7 @@ code {
 .blog-title {
   display: block;
   font-family: var(--sans);
-  font-size: 17px;
+  font-size: 18.5px;
   font-weight: 500;
   color: var(--ink);
   letter-spacing: -0.01em;
@@ -826,7 +826,7 @@ code {
 
 .blog-desc {
   display: block;
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.5;
   margin-top: 4px;
@@ -841,7 +841,7 @@ hr {
 
 hr + p {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -966,7 +966,7 @@ hr + p a:hover { color: var(--accent); }
 }
 .cv-facet-label {
   flex: 0 0 100px;
-  font-size: 10px;
+  font-size: 11px;
   font-family: var(--mono);
   color: var(--muted);
   letter-spacing: 0.03em;
@@ -976,7 +976,7 @@ hr + p a:hover { color: var(--accent); }
 .cv-facet-label p { margin: 0; }
 .cv-facet-body {
   flex: 1;
-  font-size: 13.5px;
+  font-size: 15px;
 }
 .cv-facet-body > p:first-child { margin-top: 0; }
 .cv-facet-body > p:last-child { margin-bottom: 0; }
@@ -1042,7 +1042,7 @@ hr + p a:hover { color: var(--accent); }
 .project-kicker {
   display: block;
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -1051,7 +1051,7 @@ hr + p a:hover { color: var(--accent); }
 
 .project h3 {
   font-family: var(--sans) !important;
-  font-size: 18px !important;
+  font-size: 19.5px !important;
   font-weight: 500 !important;
   letter-spacing: -0.015em !important;
   text-transform: none !important;
@@ -1064,7 +1064,7 @@ hr + p a:hover { color: var(--accent); }
 
 .project-teaser {
   display: block;
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.5;
 }
@@ -1074,7 +1074,7 @@ hr + p a:hover { color: var(--accent); }
 
 .project-body,
 .project-dialog-body {
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.55;
 }
@@ -1107,7 +1107,7 @@ hr + p a:hover { color: var(--accent); }
 .project-body figcaption,
 .project-dialog-body figcaption {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 0.02em;
 }
@@ -1160,7 +1160,7 @@ hr + p a:hover { color: var(--accent); }
   border: none;
   padding: 0;
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--accent);
@@ -1228,7 +1228,7 @@ hr + p a:hover { color: var(--accent); }
   background: none;
   border: none;
   font-family: var(--sans);
-  font-size: 26px;
+  font-size: 27.5px;
   line-height: 1;
   color: var(--muted);
   cursor: pointer;
@@ -1238,7 +1238,7 @@ hr + p a:hover { color: var(--accent); }
 
 .project-dialog-kicker {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -1247,7 +1247,7 @@ hr + p a:hover { color: var(--accent); }
 
 .project-dialog-title {
   font-family: var(--sans);
-  font-size: 26px;
+  font-size: 27.5px;
   font-weight: 500;
   letter-spacing: -0.025em;
   line-height: 1.1;
@@ -1260,7 +1260,7 @@ hr + p a:hover { color: var(--accent); }
 @media (max-width: 640px) {
   .js-cards .project-grid { grid-template-columns: 1fr; }
   .project-dialog-inner { padding: 18px 20px 24px; }
-  .project-dialog-title { font-size: 22px; }
+  .project-dialog-title { font-size: 23.5px; }
 }
 
 @media print {
@@ -1311,7 +1311,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   flex-direction: column;
   gap: 2px;
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--muted);
@@ -1321,18 +1321,18 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 
 .latest-title {
   display: block;
-  font-size: 15px;
+  font-size: 16.5px;
   font-weight: 500;
   letter-spacing: -0.01em;
   color: var(--ink);
   line-height: 1.35;
   transition: color 0.15s;
 }
-.latest-news .latest-title { font-size: 13.5px; font-weight: 400; color: var(--ink-2); }
+.latest-news .latest-title { font-size: 15px; font-weight: 400; color: var(--ink-2); }
 
 .latest-desc {
   display: block;
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--ink-2);
   line-height: 1.5;
   margin-top: 3px;
@@ -1379,14 +1379,14 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 }
 .feature-kicker {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   letter-spacing: 0.05em;
   text-transform: uppercase;
   color: var(--muted);
   margin-bottom: 6px;
 }
 .feature-title {
-  font-size: 18px;
+  font-size: 19.5px;
   font-weight: 500;
   letter-spacing: -0.015em;
   color: var(--ink);
@@ -1394,7 +1394,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   margin-bottom: 6px;
   transition: color 0.15s;
 }
-.feature-teaser { font-size: 13.5px; line-height: 1.5; }
+.feature-teaser { font-size: 15px; line-height: 1.5; }
 
 @media (prefers-reduced-motion: reduce) {
   .feature-card { transition: none; }
@@ -1427,14 +1427,14 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   object-position: top;
   flex-shrink: 0;
 }
-.byline-text { font-size: 14px; line-height: 1.5; color: var(--ink-2); }
+.byline-text { font-size: 18px; line-height: 1.45; color: var(--ink-2); }
 .byline-text strong { color: var(--ink); font-weight: 500; }
 
 /* ── Landing: lead story + post cards ───────────────────────── */
 .front-meta {
   display: block;
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   letter-spacing: 0.05em;
   text-transform: uppercase;
   color: var(--muted);
@@ -1470,7 +1470,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 .front-lead-text { display: block; }
 .front-lead-title {
   display: block;
-  font-size: clamp(22px, 2.4vw, 26px);
+  font-size: clamp(23px, 2.4vw, 27.5px);
   font-weight: 500;
   line-height: 1.15;
   letter-spacing: -0.02em;
@@ -1478,10 +1478,10 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   margin-bottom: 14px;
   transition: color 0.15s;
 }
-.front-lead-desc { display: block; font-size: 15px; line-height: 1.5; margin-bottom: 14px; }
+.front-lead-desc { display: block; font-size: 16.5px; line-height: 1.5; margin-bottom: 14px; }
 .front-more {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 11px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--accent);
@@ -1508,7 +1508,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 }
 .front-card-title {
   display: block;
-  font-size: 16px;
+  font-size: 17.5px;
   font-weight: 500;
   letter-spacing: -0.01em;
   line-height: 1.25;
@@ -1516,7 +1516,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   margin-bottom: 6px;
   transition: color 0.15s;
 }
-.front-card-desc { display: block; font-size: 13px; line-height: 1.5; }
+.front-card-desc { display: block; font-size: 14.5px; line-height: 1.5; }
 
 #listing-stories { margin-top: 26px; }
 
