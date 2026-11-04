@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" fill="none">
+<rect x="40.75" y="28.75" width="62.5" height="46.5" stroke="#0e0e0e" stroke-width="1.5"/>
+<polyline points="46,70 64,50 76,62 84,54 98,70" stroke="#707070" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="88" cy="40" r="4" fill="#707070"/>
+<rect x="48.75" y="82.75" width="62.5" height="30.5" stroke="#d9d7d1" stroke-width="1.5"/>
+<line x1="118" y1="70" x2="170" y2="70" stroke="#0e0e0e" stroke-width="1.5"/>
+<polygon points="170,65 178,70 170,75" fill="#0e0e0e"/>
+<rect x="186.75" y="40.75" width="62.5" height="58.5" stroke="#0e0e0e" stroke-width="1.5"/>
+<line x1="198" y1="56" x2="238" y2="56" stroke="#d9d7d1" stroke-width="2"/>
+<line x1="198" y1="66" x2="232" y2="66" stroke="#d9d7d1" stroke-width="2"/>
+<line x1="198" y1="76" x2="238" y2="76" stroke="#d9d7d1" stroke-width="2"/>
+<rect x="198" y="84" width="10" height="8" fill="#ff3b00"/>
+<line x1="186" y1="110" x2="250" y2="110" stroke="#0e0e0e" stroke-width="1.5"/>
+<line x1="262" y1="40" x2="262" y2="100" stroke="#d9d7d1" stroke-width="1.5" stroke-dasharray="3 3"/>
+</svg>

@@ -3,6 +3,7 @@ title: "The Offloading Ladder"
 date: 2026-10-28
 categories: [AI in Education]
 description: "My first preprint: what learners and practitioners should hand to AI depends on how experienced they are with the task."
+image: "figure-1-offloading-ladder.png"
 ---
 
 This is my first preprint, and my first conceptual piece.

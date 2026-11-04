@@ -1,0 +1,9 @@
+<%
+  // Blog posts and news.yml items in one date-sorted stream.
+  // News items carry `when` (display date); posts show their full date.
+  // Keep each item on one line: Pandoc re-reads this output as markdown,
+  // and blank lines or indentation break the anchors into <p> fragments.
+  const fmt = (d) => new Date(d).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
+%><div class="latest-listing">
+<% for (const item of items) { const isNews = item.when !== undefined; const tag = isNews ? 'News' : 'Post'; const date = isNews ? item.when : (item.date ? fmt(item.date) : ''); const href = item.path || ''; const el = href ? 'a' : 'div'; const attrs = href ? ` href="${href}"` + (/^https?:/.test(href) ? ' target="_blank" rel="noopener"' : '') : ''; const desc = (!isNews && item.description) ? `<span class="latest-desc">${item.description}</span>` : ''; %><div class="latest-row"><<%= el %> class="latest-item latest-<%= tag.toLowerCase() %>"<%= attrs %>><span class="latest-meta"><span class="latest-date"><%= date %></span><span class="latest-tag"><%= tag %></span></span><span class="latest-main"><span class="latest-title"><%= item.title %></span><%= desc %></span></<%= el %>></div>
+<% } %></div>

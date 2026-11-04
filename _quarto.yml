@@ -5,6 +5,7 @@ project:
     - CNAME
   render:
     - index.qmd
+    - about.qmd
     - cv.qmd
     - research.qmd
     - projects.qmd

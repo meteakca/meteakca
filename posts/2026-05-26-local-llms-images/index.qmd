@@ -3,6 +3,7 @@ title: "Analyzing Classroom Images Locally with R and LLMs"
 date: 2026-05-26
 categories: [Research Methods, AI in Education, Computational Social Science]
 description: "A new chapter in the Computational Social Science Cookbook shows how to analyze classroom photos using local vision models, with no API and no privacy risk."
+image: "../../images/marks/posts/local-llms-images.svg"
 ---
 
 We are almost done with our new book [Computational Social Science Cookbook](https://data-edu.github.io/computational-social-science-cookbook/), a collaborative open-access book aimed at education researchers working with, or looking to expand their research toolkits with, computational methods. Among many other things, I led the chapter on using local (or cloud) LLMs to conduct methodological image analyses. The chapter covers something I think is underused in the field: analyzing classroom images with vision-language models in R.

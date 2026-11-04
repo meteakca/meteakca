@@ -1,0 +1,12 @@
+<%
+  // Landing page: newest post as the lead story, the next ones as image cards.
+  // Keep each item on one line: Pandoc re-reads this output as markdown.
+  const fmt = (d) => new Date(d).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
+  const lead = items[0];
+  const rest = items.slice(1);
+%><div class="front-stories">
+<% if (lead) { %><div class="front-lead-row"><a class="front-lead" href="<%= lead.path %>"><span class="front-lead-media"><img src="<%= lead.image %>" alt=""></span><span class="front-lead-text"><span class="front-meta">Post · <%= fmt(lead.date) %></span><span class="front-lead-title"><%= lead.title %></span><span class="front-lead-desc"><%= lead.description || '' %></span><span class="front-more">Read →</span></span></a></div><% } %>
+<div class="front-cards">
+<% for (const item of rest) { %><div class="front-card-cell"><a class="front-card" href="<%= item.path %>"><span class="front-card-media"><img src="<%= item.image %>" alt=""></span><span class="front-meta"><%= fmt(item.date) %></span><span class="front-card-title"><%= item.title %></span><span class="front-card-desc"><%= item.description || '' %></span></a></div>
+<% } %></div>
+</div>
