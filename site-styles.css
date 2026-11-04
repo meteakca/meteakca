@@ -987,11 +987,12 @@ hr + p a:hover { color: var(--accent); }
 /* ── Paper-sheet effect, site-wide (screen only — print/PDF untouched) ── */
 @media screen {
   body {
-    background: var(--rule) !important;
+    background: #c8c5bd !important;
   }
 
   #quarto-document-content {
     background: var(--bg);
+    box-shadow: -40px 0 0 var(--rule), 40px 0 0 var(--rule);
     margin: 0 auto;
     padding: 52px 52px 80px !important;
   }
