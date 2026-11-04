@@ -3,6 +3,10 @@ title: "Post Title"
 date: 2026-01-01
 categories: []
 description: "A short summary for the listing page."
+# Required: the landing page shows the newest post as the lead story with this
+# image. Use a figure or screenshot in this folder, or a mark from
+# ../../images/marks/posts/ (320×140 SVG in the site's geometric style).
+image: "figure.png"
 draft: true
 ---
 
