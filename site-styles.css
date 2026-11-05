@@ -141,86 +141,44 @@ h1 {
   padding: 0 !important;
 }
 
-/* ── Hero section (index page) ───────────────────────────── */
-.hero {
-  margin-bottom: 0;
-}
-
-.hero-name {
-  display: block;
-  font-family: var(--sans);
-  font-weight: 500;
-  font-size: clamp(38px, 5.5vw, 63px);
-  line-height: 0.92;
-  letter-spacing: -0.035em;
-  color: var(--ink);
-  margin: 0 0 4px;
-}
-
-p:has(> .hero-name) {
-  margin: 0;
-}
-
-.hero-pronunciation {
-  display: block;
-  font-family: var(--mono);
-  font-size: 12px;
-  font-weight: 400;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin: 0 0 14px;
-}
-
-p:has(> .hero-pronunciation) {
-  margin: 0;
-}
-
-.hero-body {
+/* ── About: intro (photo + bio + fact sheet) ─────────────── */
+.about-intro {
   display: flex;
-  gap: 32px;
+  gap: 36px;
   align-items: flex-start;
+  margin: 8px 0 0;
 }
-
-.hero-photo {
-  width: 180px;
-  height: 230px;
+.about-intro > p:first-child { margin: 0; line-height: 0; flex-shrink: 0; }
+.about-photo {
+  width: 220px;
+  height: 280px;
   border-radius: 8px;
   object-fit: cover;
   object-position: top;
-  flex-shrink: 0;
 }
-
-.hero-text {
-  flex: 1;
-  min-width: 0;
-}
-
-.hero-text > p:first-child::before {
-  content: "↳";
+.about-text { flex: 1; min-width: 0; }
+.about-label {
   display: block;
   font-family: var(--mono);
-  font-size: 15.5px;
-  color: var(--accent);
-  margin-bottom: 8px;
-}
-
-.hero-lead {
-  font-family: var(--sans);
-  font-size: 17.5px;
-  font-weight: 400;
+  font-size: 11px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
   color: var(--muted);
-  line-height: 1.35;
-  margin: 0 0 14px;
-  letter-spacing: 0;
 }
+.about-text > p { font-size: 17px; line-height: 1.55; color: var(--ink-2); margin: 0 0 20px; }
+.about-text > p:first-child { margin: 0 0 10px; line-height: 1; }
 
-.hero-bio {
-  font-size: 15px;
-  color: var(--ink-2);
-  line-height: 1.55;
-  margin: 0;
+dl.about-facts {
+  grid-template-columns: 96px 1fr !important;
+  gap: 0 20px !important;
+  border-top: 1px solid var(--ink);
+  margin: 0 !important;
 }
+.about-facts dt,
+.about-facts dd { padding: 9px 0 7px; }
+.about-facts dt:first-child,
+.about-facts dt:first-child + dd { padding-top: 10px; }
+.about-facts dd { font-size: 15px; line-height: 1.45; color: var(--ink-2); }
 
 /* ── Stats block ─────────────────────────────────────────── */
 .stats-block {
@@ -907,14 +865,14 @@ hr + p a:hover { color: var(--accent); }
     padding-top: 4px !important;
   }
 
-  .hero-body {
-    gap: 16px;
+  .about-intro {
+    flex-direction: column;
+    gap: 20px;
   }
 
-  .hero-photo {
-    width: 130px;
-    height: 170px;
-    flex-shrink: 0;
+  .about-photo {
+    width: 140px;
+    height: 180px;
   }
 
   .stats-block {
@@ -928,10 +886,6 @@ hr + p a:hover { color: var(--accent); }
 
   .cv-summary-row .stats-block {
     width: 100%;
-  }
-
-  .hero-text > p:first-child::before {
-    display: none;
   }
 
   .interest-cards {

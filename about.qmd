@@ -9,29 +9,36 @@ listing:
   fields: [title, date, description, path, when]
 ---
 
-::: {.hero}
-[Mete Akcaoglu]{.hero-name}
+::: {.about-intro}
+![](images/profilePic.jpg){.about-photo}
 
-[MEH-teh ahk-CHA-oh-loo]{.hero-pronunciation}
+:::: {.about-text}
+[About]{.about-label}
 
-[Professor · Instructional Technology · Department Chair]{.hero-lead}
-
-:::: {.hero-body}
-![](images/profilePic.jpg){.hero-photo}
-
-::::: {.hero-text}
 I am a professor of instructional technology and department chair at Georgia Southern University. My research focuses on how people learn with and through technology — with particular emphasis on motivation, interest development, and the design of technology-rich learning environments. My work spans game-based learning and online learning design, using experimental, survey, and qualitative methods.
 
-::: {.social-links}
-[↗ Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [↗ GitHub](https://github.com/meteakca) · [↗ LinkedIn](https://www.linkedin.com/in/meteakcaoglu/) · [↗ Bluesky](https://bsky.app/profile/meteakca.bsky.social)
-:::
-:::::
+```{=html}
+<dl class="about-facts">
+  <dt>Position</dt>
+  <dd>Professor and Department Chair, Leadership, Technology, and Human Development, Georgia Southern University</dd>
+  <dt>Department</dt>
+  <dd>20 faculty · six graduate programs, ten degrees · ~600 students</dd>
+  <dt>Ph.D.</dt>
+  <dd>Michigan State University, 2013</dd>
+  <dt>Say it</dt>
+  <dd>MEH-teh ahk-CHA-oh-loo</dd>
+  <dt>Citations</dt>
+  <dd>h-index 28 · 5,390 citations</dd>
+  <dt>Elsewhere</dt>
+  <dd><a href="https://scholar.google.com/citations?user=0y1b0oEAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://github.com/meteakca">GitHub</a> · <a href="https://www.linkedin.com/in/meteakcaoglu/">LinkedIn</a> · <a href="https://bsky.app/profile/meteakca.bsky.social">Bluesky</a></dd>
+</dl>
+```
 ::::
 :::
 
 
 ::: {.section-header}
-## Research Interests [h-index 28 · 5,390 citations]{.section-kicker}
+## Research Interests
 
 [→ All publications](research.html){.section-cta}
 :::
@@ -61,15 +68,6 @@ LLM-assisted research workflows, AI literacy, and the role of generative AI in t
 Community of inquiry frameworks, course design patterns, and engagement in online and hybrid settings.
 ::::
 :::
-
-## Current Position [Chair · Fall 2024–]{.section-kicker}
-
-**Department Chair — Leadership, Technology, and Human Development**
-Georgia Southern University · Fall 2024–Present
-
-Overseeing 20 full-time faculty, 10 graduate programs, ~600 students. Focus
-areas: faculty development, curriculum reform, enrollment management, and
-accreditation.
 
 ## News
 
