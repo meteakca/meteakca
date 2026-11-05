@@ -14,6 +14,7 @@
   --muted:  #707070;
   --rule:   #d9d7d1;
   --accent: #ff3b00;
+  --shade:  #eae8e2;   /* between --bg and --rule: hover and panel fills */
   --sans:   "Inter Tight", system-ui, sans-serif;
   --mono:   "JetBrains Mono", ui-monospace, monospace;
 }
@@ -179,6 +180,7 @@ dl.about-facts {
 .about-facts dt:first-child,
 .about-facts dt:first-child + dd { padding-top: 10px; }
 .about-facts dd { font-size: 15px; line-height: 1.45; color: var(--ink-2); }
+dl.about-facts { background: var(--shade); padding: 4px 16px 6px; border-radius: 0 0 6px 6px; }
 
 /* ── Stats block ─────────────────────────────────────────── */
 .stats-block {
@@ -947,20 +949,26 @@ hr + p a:hover { color: var(--accent); }
 
 /* ── Paper-sheet effect, site-wide (screen only — print/PDF untouched) ── */
 @media screen {
-  body {
+  html, body {
     background: #c8c5bd !important;
   }
 
+  /* Band on three sides: the 40px spread also runs above the page, where it is clipped */
   #quarto-document-content {
     background: var(--bg);
-    box-shadow: -40px 0 0 var(--rule), 40px 0 0 var(--rule);
+    box-shadow: 0 0 0 40px var(--rule);
     margin: 0 auto;
     padding: 52px 52px 80px !important;
+  }
+
+  .site-footer {
+    border-top: none;
+    margin-top: 40px;
   }
 }
 
 @media screen and (max-width: 640px) {
-  body {
+  html, body {
     background: var(--bg) !important;
   }
 
@@ -968,6 +976,8 @@ hr + p a:hover { color: var(--accent); }
     box-shadow: none;
     padding: 32px 24px 48px !important;
   }
+
+  .site-footer { margin-top: 0; border-top: 1px solid var(--rule); }
 }
 
 /* ── Print ─────────────────────────────────────────────────── */
@@ -1412,6 +1422,15 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   color: var(--ink-2);
   text-decoration: none;
 }
+.front-lead,
+.front-card {
+  margin: -12px;
+  padding: 12px;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+.front-lead:hover,
+.front-card:hover { background: var(--shade); }
 .front-lead:hover { text-decoration: none; }
 .front-lead:hover .front-lead-title { color: var(--accent); }
 
@@ -1459,6 +1478,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
   border-top: 1px solid var(--rule);
 }
 .front-card { display: block; color: var(--ink-2); text-decoration: none; }
+@media (prefers-reduced-motion: reduce) { .front-lead, .front-card { transition: none; } }
 .front-card:hover { text-decoration: none; }
 .front-card:hover .front-card-title { color: var(--accent); }
 .front-card-media { margin-bottom: 12px; }
