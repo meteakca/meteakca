@@ -862,7 +862,14 @@ hr + p a:hover { color: var(--accent); }
 
   .site-nav-links {
     flex-wrap: wrap;
-    gap: 16px 20px;
+    justify-content: space-between;
+    width: 100%;
+    gap: 8px 4px;
+  }
+
+  .site-nav-links a {
+    font-size: 11px;
+    letter-spacing: 0;
   }
 
   #quarto-document-content {
@@ -1004,6 +1011,7 @@ hr + p a:hover { color: var(--accent); }
   }
 
   #quarto-document-content {
+    box-shadow: none;
     padding: 32px 24px 48px !important;
   }
 }
