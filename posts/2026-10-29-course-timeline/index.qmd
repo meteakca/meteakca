@@ -6,6 +6,10 @@ description: "Every LMS I know manages content. A course built around learning w
 image: "../../images/marks/posts/course-timeline.svg"
 ---
 
+::: {.callout-note appearance="simple"}
+**Update, November 12, 2026.** I am now building this layout as a learning-focused LMS for any course. A course with a project shows its steps on the timeline, and a course without one shows its modules. The feed now has posts, comments, and a group chat, and a to-do list above the timeline shows what is late and what is due this week. [Open the new prototype](https://claude.ai/artifact/HBCHKNbKZE4PSZ3t3EdvnS){target="_blank"} to try the student and instructor views on invented data, in four visual designs I am still comparing. The essay below is Version 1, as deposited on Zenodo.
+:::
+
 Every learning management system I know is a content management system, unfortunately (Brown et al., 2015). Instructors upload modules, files, discussion boards, and a gradebook, and the course takes the shape of those folders.
 
 A learner needs to see two things in a course: their work over time and the people doing it with them. Students piece the first together from module pages and due dates, because the folders hide the shape of the project. For the second, the LMS offers little. Social presence grows when the design supports it, through small groups and through spaces students already use, such as Facebook groups (Lee & Akcaoglu, 2017). Discussion boards crept in to fill the social gap. They did a poor job of reflecting the buzz of a classroom, and lately most students' posts read as AI-generated.
