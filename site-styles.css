@@ -1511,3 +1511,7 @@ a.latest-item:hover .latest-title { color: var(--accent); }
 .byline-strip > p:first-child { flex-shrink: 0; line-height: 0; }
 #listing-news { margin-top: 26px; }
 
+
+/* Callout notes (post update notes): site accent instead of Quarto's blue */
+.callout.callout-note { border-left-color: var(--accent) !important; }
+.callout.callout-note .callout-icon-container { display: none; }
