@@ -650,6 +650,14 @@ dd > ul > li + li {
 .level2 > ul > li strong,
 .level3 > ul > li strong { color: var(--ink); font-weight: 500; }
 
+/* CV: entries separated by spacing, no rule lines */
+.cv-page .level2 > ol > li,
+.cv-page .level3 > ol > li,
+.cv-page .level2 > ul > li,
+.cv-page .level3 > ul > li { border-top: none; padding-top: 5px !important; padding-bottom: 5px !important; }
+.cv-page .level2 > ol > li::before,
+.cv-page .level3 > ol > li::before { top: 8px; }
+
 /* ── Section prose paragraphs ──────────────────────────────── */
 .level2 > p,
 .level3 > p {

@@ -127,13 +127,11 @@ June 2003
 
 ### Research Interests & Skills
 
-- **Research focus:** Design and evaluation of technology-rich learning environments for developing critical thinking, problem-solving, and STEM interest in K-12 learners. Particular emphasis on game-design as a scaffold for computational thinking and interest development.
+**Research focus:** Design and evaluation of technology-rich learning environments for developing critical thinking, problem-solving, and STEM interest in K-12 learners. Particular emphasis on game-design as a scaffold for computational thinking and interest development.
 
-- **Computational & Data Analysis:** R (tidyverse, ggplot2, Shiny), text mining, network analysis, machine learning, LLM-assisted research workflows, reproducible research (GitHub, Quarto)
+**Computational & Data Analysis:** R (tidyverse, ggplot2, Shiny), text mining, network analysis, machine learning, LLM-assisted research workflows, reproducible research (GitHub, Quarto). **Research Design & Methods:** Quantitative, qualitative, and mixed-methods educational research; survey instrument design and validation; experimental and quasi-experimental designs.
 
-- **Research Design & Methods:** Quantitative, qualitative, and mixed-methods educational research; survey instrument design and validation; experimental and quasi-experimental designs
-
-- [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 28 · 5,390 citations *(retrieved October 2026)*
+[Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ): h-index 28 · 5,390 citations *(retrieved October 2026)*
 
 ### Peer-Reviewed Journal Articles
 
@@ -206,15 +204,15 @@ June 2003
 
 ### Conference Keynote
 
-- Akcaoglu, M. (October 3, 2024). Teaching and Learning in the age of AI: What will remain the same and what will change? *International Symposium on Computer and Instructional Technologies (ICITS).* Kastamonu, Türkiye.
+1. Akcaoglu, M. (October 3, 2024). Teaching and Learning in the age of AI: What will remain the same and what will change? *International Symposium on Computer and Instructional Technologies (ICITS).* Kastamonu, Türkiye.
 
 ### Invited Presentations
 
-- **Akcaoglu, M.** (2024). *Teaching and Learning with AI.* National Ministry of Education Teacher Professional Development Series. Kastamonu, Turkiye.
-- **Akcaoglu, M.** (2021). Oyun Tasarimi in K12 (Game Design in K12). *Yarinin Egitimi Seanslari (Tomorrow's Education Sessions).*
-- **Akcaoglu, M.** (2019). Connecting Game Design and Problem Solving. EDUCAUSE.
-- **Akcaoglu, M.** (2014). *Game-design with Microsoft Kodu.* Playful Learning Summit. Clemson, SC.
-- **Akcaoglu, M.** (2014). *Digital games to support learning.* Michigan State University Bridge Webinar Series.
+1. **Akcaoglu, M.** (2024). *Teaching and Learning with AI.* National Ministry of Education Teacher Professional Development Series. Kastamonu, Turkiye.
+2. **Akcaoglu, M.** (2021). Oyun Tasarimi in K12 (Game Design in K12). *Yarinin Egitimi Seanslari (Tomorrow's Education Sessions).*
+3. **Akcaoglu, M.** (2019). Connecting Game Design and Problem Solving. EDUCAUSE.
+4. **Akcaoglu, M.** (2014). *Game-design with Microsoft Kodu.* Playful Learning Summit. Clemson, SC.
+5. **Akcaoglu, M.** (2014). *Digital games to support learning.* Michigan State University Bridge Webinar Series.
 
 ### Peer-reviewed Conference Presentations
 
@@ -270,8 +268,8 @@ June 2003
 
 ### Unpublished Theses
 
-- **Akcaoglu, M.** (2013). *Cognitive and motivational impacts of learning game design on middle school children.* Doctoral Dissertation, Michigan State University. ProQuest (Order No. 3587683).
-- **Akcaoglu, M.** (2008). *Exploring technology integration in English language teaching: Defining the competence, perceived barriers, attitudes, usage frequencies and educational value of technology integration for preservice and in-service ELT teachers.* Master's Thesis, Middle East Technical University, Ankara, Turkey.
+1. **Akcaoglu, M.** (2013). *Cognitive and motivational impacts of learning game design on middle school children.* Doctoral Dissertation, Michigan State University. ProQuest (Order No. 3587683).
+2. **Akcaoglu, M.** (2008). *Exploring technology integration in English language teaching: Defining the competence, perceived barriers, attitudes, usage frequencies and educational value of technology integration for preservice and in-service ELT teachers.* Master's Thesis, Middle East Technical University, Ankara, Turkey.
 
 ## Grants [NSF PI · $300K]{.section-kicker}
 
@@ -393,18 +391,18 @@ Aug 2003–June 2008
 
 ### Doctoral Advisees
 
-- William Bell (2025–Present) – *Role of Engagement on Student Academic Performance in Rural Schools*
-- Moneak McCray (2025–Present) – *Impact of Instructional Leadership on School Success in Rural Contexts*
+1. William Bell (2025–Present) – *Role of Engagement on Student Academic Performance in Rural Schools*
+2. Moneak McCray (2025–Present) – *Impact of Instructional Leadership on School Success in Rural Contexts*
 
 ## Awards & Fellowships
 
 ### Honors and Awards
 
-- Stanford/Elsevier Top 2% Scientists in Education (2023, 2024)
-- Jack Miller Research Award, Georgia Southern University, College of Education (August 2022)
-- Jack Miller Educator of the Year, Georgia Southern University, College of Education (August 2018)
-- Georgia Southern University Innovation and Discovery Award (Nominated, November 2020)
-- Georgia Southern University Research Award (Nominated, November 2018)
+1. Stanford/Elsevier Top 2% Scientists in Education (2023, 2024)
+2. Jack Miller Research Award, Georgia Southern University, College of Education (August 2022)
+3. Jack Miller Educator of the Year, Georgia Southern University, College of Education (August 2018)
+4. Georgia Southern University Innovation and Discovery Award (Nominated, November 2020)
+5. Georgia Southern University Research Award (Nominated, November 2018)
 
 ### Fellowships
 
@@ -486,9 +484,9 @@ Spring 2016
 
 ### Professional Affiliations
 
-- American Educational Research Association (AERA)
-- Association for Educational Communications and Technology (AECT)
-- Scholarly Consortium for Innovative Psychology in Education (SCIPIE)
+1. American Educational Research Association (AERA)
+2. Association for Educational Communications and Technology (AECT)
+3. Scholarly Consortium for Innovative Psychology in Education (SCIPIE)
 
 ---
 
