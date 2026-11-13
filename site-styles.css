@@ -1374,6 +1374,24 @@ hr + p a:hover { color: var(--accent); }
   aspect-ratio: 320 / 140;
 }
 
+/* CV: slim artifact entries (the post artifact box, without fill or buttons) */
+.cv-artifacts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px 28px;
+  margin: 10px 0 28px;
+}
+.cv-artifact {
+  border-left: 3px solid var(--accent);
+  padding: 2px 0 2px 14px;
+  break-inside: avoid;
+}
+.cv-artifact p { margin: 0 0 4px; }
+.cv-artifact p:last-child { margin-bottom: 0; font-family: var(--mono); font-size: 12px; }
+@media (max-width: 600px) {
+  .cv-artifacts { grid-template-columns: 1fr; }
+}
+
 /* ── Latest stream (posts + news.yml) ───────────────────────── */
 .latest-listing { margin: 0; }
 

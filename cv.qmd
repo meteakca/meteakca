@@ -235,6 +235,44 @@ June 2003
 - **Akcaoglu, M.** (2013). *Cognitive and motivational impacts of learning game design on middle school children.* Doctoral Dissertation, Michigan State University. ProQuest (Order No. 3587683).
 - **Akcaoglu, M.** (2008). *Exploring technology integration in English language teaching: Defining the competence, perceived barriers, attitudes, usage frequencies and educational value of technology integration for preservice and in-service ELT teachers.* Master's Thesis, Middle East Technical University, Ankara, Turkey.
 
+## Tools & Public Artifacts [Open · live]{.section-kicker}
+
+:::: {.cv-artifacts}
+
+::: {.cv-artifact}
+[Dashboard · R Shiny · 2026]{.artifact-kicker}
+
+**Georgia School Ratings.** GreatSchools ratings beside Georgia's CCRPI scores, student poverty, and home values for 2,020 public schools.
+
+[meteakca.shinyapps.io/georgia-school-ratings](https://meteakca.shinyapps.io/georgia-school-ratings/)
+:::
+
+::: {.cv-artifact}
+[Prototype · HTML · 2026]{.artifact-kicker}
+
+**Learning-Focused LMS.** A course layout built around a project timeline and an activity feed, piloted in FRIT 7231.
+
+[doi.org/10.5281/zenodo.23773997](https://doi.org/10.5281/zenodo.23773997)
+:::
+
+::: {.cv-artifact}
+[Open-access book · R · 2026]{.artifact-kicker}
+
+**Computational Analysis of Educational Data.** A field guide to computational methods in R for education researchers, with Wang, Rosenberg, and Kellogg.
+
+[data-edu.github.io/computational-social-science-cookbook](https://data-edu.github.io/computational-social-science-cookbook/)
+:::
+
+::: {.cv-artifact}
+[Dashboard · R Shiny · 2024]{.artifact-kicker}
+
+**LTHD Enrollment Dashboard.** Daily-updated enrollment trends for the department's programs, from a Python scraper.
+
+[meteakca.shinyapps.io/lthd_dashboard](https://meteakca.shinyapps.io/lthd_dashboard/)
+:::
+
+::::
+
 ## Grants [NSF PI · $300K]{.section-kicker}
 
 ### As Principal Investigator
