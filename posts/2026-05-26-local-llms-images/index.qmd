@@ -18,6 +18,12 @@ This analysis was possible through the [`{kuzco}` package](https://github.com/fr
 
 Visual data has been treated as supplementary in educational research mostly because analyzing it at scale was impractical. Local vision-language models now make it practical. For researchers working with classroom images, observational photos, or any kind of visual data, education or not, the chapter is a working starting point in R. The book is open access, so you can read it online for free, and the code is all available on GitHub. I hope this encourages more researchers to consider visual data in their work, and to use local LLMs to analyze it in a way that is ethical, practical, and insightful.
 
----
+::: {.artifact-box}
+[Open-access book · R]{.artifact-kicker}
 
-*Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). [Computational Analysis of Educational Data: A Field Guide Using R](https://data-edu.github.io/computational-social-science-cookbook/).*
+**Computational Analysis of Educational Data**
+
+Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.*
+
+[Read the book →](https://data-edu.github.io/computational-social-science-cookbook/){.artifact-cta target="_blank"} [LLMs for qualitative analysis →](https://data-edu.github.io/computational-social-science-cookbook/section-3-Intro.html){.artifact-cta target="_blank"}
+:::
