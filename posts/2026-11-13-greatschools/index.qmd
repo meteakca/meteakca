@@ -28,6 +28,8 @@ I built the dashboard in R Shiny so that parents, teachers, and school leaders c
 
 The full analysis is in a paper I am preparing for submission. I would like to hear from parents and educators in Georgia who look up their school, especially if the comparison surprised them.
 
+*How I used AI.* I wrote the code for this project with Claude Code: the scrapers that pulled the GreatSchools ratings, the R scripts for the analysis, and the Shiny dashboard and its publishing. Over many sessions, I directed each step, from the question and the data sources to checking the results, and I am responsible for the code and the numbers.
+
 **References**
 
 Angrist, J. D., Hull, P., Pathak, P. A., & Walters, C. R. (2024). Race and the mismeasure of school quality. *American Economic Review: Insights, 6*(1), 20–37. <https://doi.org/10.1257/aeri.20220292>
