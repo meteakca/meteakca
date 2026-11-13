@@ -726,6 +726,16 @@ figure img {
   border: 1px solid var(--rule);
 }
 
+/* Post marks used inside a post: smaller than a full-width figure */
+img.post-mark {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  margin: 8px auto;
+}
+figure:has(img.post-mark) { max-width: 420px; margin-left: auto; margin-right: auto; }
+
 figcaption {
   font-family: var(--mono);
   font-size: 11.5px;
