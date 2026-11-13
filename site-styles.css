@@ -726,15 +726,43 @@ figure img {
   border: 1px solid var(--rule);
 }
 
-/* Post marks used inside a post: smaller than a full-width figure */
+/* Post marks inside a post: float beside the text (right by default,
+   .left to alternate); section headings clear them; stacked on phones */
+p:not(figure p):has(> img.post-mark),
+.quarto-figure:has(img.post-mark) {
+  float: right;
+  width: 38%;
+  margin: 4px 0 12px 24px;
+}
+p:not(figure p):has(> img.post-mark.left),
+.quarto-figure:has(img.post-mark.left) {
+  float: left;
+  margin: 4px 24px 12px 0;
+}
+figure p:has(> img.post-mark) { margin: 0; }
 img.post-mark {
   display: block;
   width: 100%;
-  max-width: 420px;
   height: auto;
-  margin: 8px auto;
+  margin: 0;
+  border: 1px solid var(--rule);
+  border-radius: 5px;
+  padding: 6px;
 }
-figure:has(img.post-mark) { max-width: 420px; margin-left: auto; margin-right: auto; }
+.quarto-figure:has(img.post-mark) figure { margin: 0; }
+.quarto-figure:has(img.post-mark) figure img { border: 1px solid var(--rule); }
+.blog-post h2, .blog-post .artifact-box, .blog-post #quarto-appendix { clear: both; }
+/* Long URLs (references) must wrap, or they widen the page on phones */
+#quarto-document-content p, #quarto-document-content li { overflow-wrap: anywhere; }
+@media (max-width: 600px) {
+  p:not(figure p):has(> img.post-mark),
+  .quarto-figure:has(img.post-mark) {
+    float: none;
+    width: 100%;
+    max-width: 360px;
+    margin: 12px auto;
+  }
+}
 
 /* Artifact box: a prominent link to a live tool, prototype, or preprint */
 .artifact-box {
