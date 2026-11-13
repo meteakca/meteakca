@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" fill="none">
+<!-- axes -->
+<line x1="70" y1="120.5" x2="250" y2="120.5" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="70.5" y1="20" x2="70.5" y2="120" stroke="#0e0e0e" stroke-width="1"/>
+<!-- 1-10 rating ticks on the vertical axis -->
+<line x1="66" y1="110" x2="70" y2="110" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="100" x2="70" y2="100" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="90" x2="70" y2="90" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="80" x2="70" y2="80" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="70" x2="70" y2="70" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="60" x2="70" y2="60" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="50" x2="70" y2="50" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="40" x2="70" y2="40" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="30" x2="70" y2="30" stroke="#0e0e0e" stroke-width="1"/>
+<line x1="66" y1="20" x2="70" y2="20" stroke="#0e0e0e" stroke-width="1"/>
+<!-- schools -->
+<circle cx="88" cy="104" r="2.5" fill="#707070"/>
+<circle cx="96" cy="94" r="2.5" fill="#707070"/>
+<circle cx="104" cy="108" r="2.5" fill="#707070"/>
+<circle cx="112" cy="88" r="2.5" fill="#707070"/>
+<circle cx="120" cy="98" r="2.5" fill="#707070"/>
+<circle cx="128" cy="80" r="2.5" fill="#707070"/>
+<circle cx="136" cy="90" r="2.5" fill="#707070"/>
+<circle cx="146" cy="72" r="2.5" fill="#707070"/>
+<circle cx="154" cy="84" r="2.5" fill="#707070"/>
+<circle cx="162" cy="64" r="2.5" fill="#707070"/>
+<circle cx="170" cy="76" r="2.5" fill="#707070"/>
+<circle cx="180" cy="58" r="2.5" fill="#707070"/>
+<circle cx="188" cy="68" r="2.5" fill="#707070"/>
+<circle cx="198" cy="48" r="2.5" fill="#707070"/>
+<circle cx="206" cy="60" r="2.5" fill="#707070"/>
+<circle cx="216" cy="42" r="2.5" fill="#707070"/>
+<circle cx="226" cy="52" r="2.5" fill="#707070"/>
+<circle cx="236" cy="34" r="2.5" fill="#707070"/>
+<!-- schools rated high that sit low on the state scores -->
+<circle cx="98" cy="40" r="4" fill="#ff3b00"/>
+<circle cx="118" cy="48" r="4" fill="#ff3b00"/>
+<line x1="80" y1="60.5" x2="250" y2="60.5" stroke="#d9d7d1" stroke-width="1" stroke-dasharray="3 3"/>
+</svg>

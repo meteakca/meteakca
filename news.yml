@@ -3,6 +3,11 @@
 # `date` sorts the stream; `when` is what's shown (year or range).
 # A blog post that announces something doesn't need a news item too.
 
+- title: "Released the Georgia School Ratings dashboard, comparing GreatSchools ratings with state CCRPI scores for 2,020 schools"
+  date: 2026-11-13
+  when: "2026"
+  path: https://meteakca.shinyapps.io/georgia-school-ratings/
+
 - title: "Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg"
   date: 2026-01-01
   when: "2026"

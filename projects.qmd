@@ -75,6 +75,29 @@ The foundational research line behind Project GAME. Starting with my dissertatio
 :::
 
 ::: {.project}
+### GreatSchools Ratings {#greatschools}
+
+![](images/marks/greatschools.svg){.project-mark}
+
+[Research · 2026]{.project-kicker}
+
+[A statewide look at how GreatSchools ratings compare with Georgia's own school performance scores, with a public dashboard for families.]{.project-teaser}
+
+:::: {.project-body}
+*What GreatSchools Measures: Georgia's Public Schools*
+
+Many families choose a school by choosing a house, and the 1–10 GreatSchools rating sits beside the price on many home listings. I collected the GreatSchools ratings for Georgia's public schools and matched each school to its 2024 CCRPI scores, the state's accountability index, along with its student poverty rate and local home values. I then built a dashboard where anyone can look up a school by name or ZIP code and see its rating next to its state scores.
+
+- 2,020 Georgia public schools with both a GreatSchools rating and a 2024 CCRPI score
+- Python scrapers for the ratings; R for the analysis and a Shiny dashboard
+- Builds on earlier work on GreatSchools in Denver and New York City and on its nationwide rollout
+- Paper in preparation
+
+[Open the dashboard →](https://meteakca.shinyapps.io/georgia-school-ratings/) · [Read the post →](posts/2026-11-13-greatschools/index.qmd)
+::::
+:::
+
+::: {.project}
 ### Innovation Studio {#innovation-studio}
 
 ![](images/marks/innovation-studio.svg){.project-mark}
