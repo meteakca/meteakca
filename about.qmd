@@ -22,7 +22,7 @@ I am a professor of instructional technology and department chair at Georgia Sou
   <dt>Position</dt>
   <dd>Professor and Department Chair, Leadership, Technology, and Human Development, Georgia Southern University</dd>
   <dt>Department</dt>
-  <dd>20 faculty · six graduate programs, ten degrees · ~600 students</dd>
+  <dd>20 faculty · six graduate programs, seven degrees · ~600 students</dd>
   <dt>Ph.D.</dt>
   <dd>Michigan State University, 2013</dd>
   <dt>Say it</dt>

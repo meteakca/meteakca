@@ -24,6 +24,13 @@ cv-dean.pdf
 cv-dean.typ
 /cv-dean_files/
 
+# AVP CV (GSU internal application) — private, do not publish or push
+cv-avp.qmd
+cv-avp.html
+cv-avp.pdf
+cv-avp.typ
+/cv-avp_files/
+
 # Worktrees
 .worktrees/
 
@@ -39,3 +46,9 @@ UPDATES.md
 # Session working notes — never publish
 handoff.md
 HANDOFF.md
+
+# Application letters — private, do not publish or push
+letter-*.qmd
+letter-*.html
+/letter-*_files/
+_signature.png
