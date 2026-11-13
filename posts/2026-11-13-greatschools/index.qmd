@@ -18,17 +18,15 @@ The earlier studies covered a few cities, single components of the rating, or wh
 
 ## The Dataset
 
-In spring 2026, I wrote a set of Python scrapers that collected GreatSchools ratings for Georgia's public schools, starting from the federal list of 2,293 schools. I filled most of the gaps with retry passes and manual checks. The final dataset holds 2,020 schools with both a GreatSchools rating and a 2024 CCRPI score, Georgia's accountability index. For each school, I added the share of students on free or reduced-price lunch and the Zillow home value index for its ZIP code, so I could read the rating against the school's performance and its neighborhood at once.
+In spring 2026, I used Claude Code to write a set of Python scrapers that collected GreatSchools ratings for Georgia's public schools, starting from the federal list of 2,293 schools. I filled most of the gaps with retry passes and manual checks. The final dataset holds 2,020 schools with both a GreatSchools rating and a 2024 CCRPI score, Georgia's accountability index. For each school, I added the share of students on free or reduced-price lunch and the Zillow home value index for its ZIP code, so I could read the rating against the school's performance and its neighborhood at once.
 
 ## A Dashboard for Families
 
-I built the dashboard in R Shiny so that parents, teachers, and school leaders can check a school for themselves. You search for a school by name or ZIP code and see its GreatSchools rating beside its CCRPI scores, its student poverty rate, and local home values. You can also narrow the list by grade level and by locale (city, suburb, town, or rural).
+I built the dashboard in R Shiny with Claude Code and published it so that parents, teachers, and school leaders can check a school for themselves. You search for a school by name or ZIP code and see its GreatSchools rating beside its CCRPI scores, its student poverty rate, and local home values. You can also narrow the list by grade level and by locale (city, suburb, town, or rural).
 
 [Open the Georgia School Ratings dashboard](https://meteakca.shinyapps.io/georgia-school-ratings/){target="_blank"}
 
-The full analysis is in a paper I am preparing for submission. I would like to hear from parents and educators in Georgia who look up their school, especially if the comparison surprised them.
-
-*How I used AI.* I wrote the code for this project with Claude Code: the scrapers that pulled the GreatSchools ratings, the R scripts for the analysis, and the Shiny dashboard and its publishing. Over many sessions, I directed each step, from the question and the data sources to checking the results, and I am responsible for the code and the numbers.
+I ran the analysis in R, with scripts I wrote using Claude Code, and the full results are in a paper I am preparing for submission. I would like to hear from parents and educators in Georgia who look up their school, especially if the comparison surprised them.
 
 **References**
 
