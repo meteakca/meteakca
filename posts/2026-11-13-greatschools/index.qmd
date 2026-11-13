@@ -32,7 +32,15 @@ I ran the analysis in R, with scripts I wrote using Claude Code. The results sho
 
 I built the dashboard in R Shiny with Claude Code and published it so that parents, teachers, and school leaders can check a school for themselves. You search for a school by name or ZIP code and see its GreatSchools rating beside its CCRPI scores, its student poverty rate, and local home values. You can also narrow the list by grade level and by locale (city, suburb, town, or rural).
 
-[Open the Georgia School Ratings dashboard](https://meteakca.shinyapps.io/georgia-school-ratings/){target="_blank"}
+::: {.artifact-box}
+[Interactive dashboard · R Shiny]{.artifact-kicker}
+
+**Georgia School Ratings**
+
+Look up any Georgia public school by name or ZIP code and see its GreatSchools rating next to its CCRPI scores, student poverty rate, and local home values.
+
+[Open the dashboard →](https://meteakca.shinyapps.io/georgia-school-ratings/){.artifact-cta target="_blank"}
+:::
 
 I would like to hear from parents and educators in Georgia who look up their school, especially if the comparison surprised them.
 

@@ -16,7 +16,15 @@ The big idea is in the figure below. Tech-human partnership has always existed, 
 
 For learners, classrooms and courses need to determine the core and keep it off AI. AI companies need a better way to protect human learning.
 
-**Preprint (EdArXiv):** Akcaoglu, M. (2026). *The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence.* <https://doi.org/10.35542/osf.io/ys2fu_v1>
+::: {.artifact-box}
+[Preprint · EdArXiv]{.artifact-kicker}
+
+**The Offloading Ladder**
+
+Akcaoglu, M. (2026). *The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence.* <https://doi.org/10.35542/osf.io/ys2fu_v1>
+
+[Read the preprint →](https://doi.org/10.35542/osf.io/ys2fu_v1){.artifact-cta target="_blank"}
+:::
 
 ---
 

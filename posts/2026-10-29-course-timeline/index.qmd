@@ -20,7 +20,15 @@ I built the timeline for my Instructional Design course (FRIT 7231), and it runs
 
 ![The project timeline for FRIT 7231, viewed as of Week 6, with Part III (task analysis) open.](timeline-screenshot.png){fig-alt="A Gantt-style course timeline. Each assignment is a row across the 15-week term, with a red line marking today. One row, Part III Task analysis, is open and shows its due date, where to submit it, its weight, what to do, and the rule for AI use: only after the expert session."}
 
-[Open the working prototype](https://claude.ai/artifact/8jXYsPCujKgBVyVsPinQqj){target="_blank"}
+::: {.artifact-box}
+[Prototypes · HTML]{.artifact-kicker}
+
+**Learning-Focused LMS**
+
+Try the student and instructor views of the new LMS on invented data, or open the original FRIT 7231 project timeline.
+
+[Open the LMS prototype →](https://claude.ai/artifact/HBCHKNbKZE4PSZ3t3EdvnS){.artifact-cta target="_blank"} [Open the timeline →](https://claude.ai/artifact/8jXYsPCujKgBVyVsPinQqj){.artifact-cta target="_blank"}
+:::
 
 If you teach online and are trying something similar, I would like to hear how it goes.
 

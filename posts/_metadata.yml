@@ -1,3 +1,5 @@
 format:
   html:
     body-classes: blog-post
+filters:
+  - ../_filters/post-mark.lua
