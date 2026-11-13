@@ -139,7 +139,7 @@ June 2003
 
 1. **Akcaoglu, M.** (under review). The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence. Preprint: <https://doi.org/10.35542/osf.io/ys2fu_v1>
 2. **Akcaoglu, M.** & Ocak, C. (under review). Capturing Interest Development in Online Teacher Education: Retrospective Pretests and LLM Text Analysis.
-3. Ocak, C., Hodges, C.B., & **Akcaoglu, M.** (under review). Teacher Agency in the Age of Generative AI: A Three-Process Account of Deskilling, Reskilling, and Upskilling.
+3. Ocak, C., **Akcaoglu, M.**, & Hodges, C.B. (under review). Teacher Agency in the Age of Generative AI: A Three-Process Account of Deskilling, Reskilling, and Upskilling.
 4. Staudt Willet, B.K., Bai, C., Hur, J., & **Akcaoglu, M.** (2026). Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions. *The International Review of Research in Open and Distributed Learning, 27*(3), 137–157. <https://doi.org/10.19173/irrodl.v27i3.9316>
 5. Akcaoglu, M.O., Mor, E., **Akcaoglu, M.**\*, Coşkun, B.K., & Külekçi, E. (2026). Adaptation and validation of the Turkish version of the online learning readiness self-check survey. *American Journal of Distance Education.* *40*(2), 201–220 <https://doi.org/10.1080/08923647.2026.2631259>
 6. \***Ozcan, M.S.** & **Akcaoglu, M.** (2026). Development and validation of the multidimensional interest development survey (MIS). *Journal of Psychoeducational Assessment, 0*(0). <https://doi.org/10.1177/07342829261440809>
