@@ -48,7 +48,7 @@ listing:
   </a>
   <a class="feature-card" href="projects.html#book">
     <img src="images/marks/book.svg" alt="" class="feature-mark">
-    <span class="feature-kicker">Book · 2026</span>
+    <span class="feature-kicker">Book · Chapman & Hall/CRC · 2027</span>
     <span class="feature-title">Computational Analysis of Educational Data</span>
     <span class="feature-teaser">A field guide to computational methods in R for education researchers.</span>
   </a>

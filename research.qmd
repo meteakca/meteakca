@@ -28,7 +28,7 @@ thinking in K–12 settings.
 
 ## Book
 
-Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.* [Read online](https://data-edu.github.io/computational-social-science-cookbook/)
+Wang, W., Akcaoglu, M., Rosenberg, J. M., & Kellogg, S. (in press). *Computational Analysis of Educational Data: A Field Guide Using R.* Chapman & Hall/CRC. [Publisher page](https://www.routledge.com/Computational-Analysis-of-Educational-Data-A-Field-Guide-Using-R/Wang-Akcaoglu-Rosenberg-Kellogg/p/book/9781032436760) · [Read online](https://data-edu.github.io/computational-social-science-cookbook/)
 
 ## Selected Publications [40 articles · 8 chapters · 1 book]{.section-kicker}
 

@@ -23,7 +23,7 @@ Visual data has been treated as supplementary in educational research mostly bec
 
 **Computational Analysis of Educational Data**
 
-Wang, W., Akcaoglu, M., Rosenberg, J., & Kellogg, S. (2026). *Computational Analysis of Educational Data: A Field Guide Using R.*
+Wang, W., Akcaoglu, M., Rosenberg, J. M., & Kellogg, S. (in press). *Computational Analysis of Educational Data: A Field Guide Using R.* Chapman & Hall/CRC.
 
-[Read the book →](https://data-edu.github.io/computational-social-science-cookbook/){.artifact-cta target="_blank"} [LLMs for qualitative analysis →](https://data-edu.github.io/computational-social-science-cookbook/section-3-Intro.html){.artifact-cta target="_blank"}
+[Read the book →](https://data-edu.github.io/computational-social-science-cookbook/){.artifact-cta target="_blank"} [LLMs for qualitative analysis →](https://data-edu.github.io/computational-social-science-cookbook/section-3-Intro.html){.artifact-cta target="_blank"} [Publisher page →](https://www.routledge.com/Computational-Analysis-of-Educational-Data-A-Field-Guide-Using-R/Wang-Akcaoglu-Rosenberg-Kellogg/p/book/9781032436760){.artifact-cta target="_blank"}
 :::

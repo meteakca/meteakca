@@ -8,10 +8,10 @@
   when: "2026"
   path: https://meteakca.shinyapps.io/georgia-school-ratings/
 
-- title: "Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg"
+- title: "Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg, in press with Chapman & Hall/CRC"
   date: 2026-01-01
   when: "2026"
-  path: https://data-edu.github.io/computational-social-science-cookbook/
+  path: https://www.routledge.com/Computational-Analysis-of-Educational-Data-A-Field-Guide-Using-R/Wang-Akcaoglu-Rosenberg-Kellogg/p/book/9781032436760
 
 - title: "Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)"
   date: 2025-08-01

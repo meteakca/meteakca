@@ -131,18 +131,18 @@ I co-founded this makerspace with Eunbae Lee inside the College of Education's I
 
 ![](images/marks/book.svg){.project-mark}
 
-[Book · 2026]{.project-kicker}
+[Book · Chapman & Hall/CRC · 2027]{.project-kicker}
 
 [A field guide to computational methods in R for education researchers.]{.project-teaser}
 
 :::: {.project-body}
-I co-authored this field guide with Wei Wang, Joshua Rosenberg, and Shaun Kellogg (2026), written for education researchers who already know R and statistics and want to push into computational methods. Every chapter follows the same format: data quality guidance, structural requirements, sample research questions, an R workflow, and template write-ups for the Methods and Results sections.
+I co-authored this field guide with Wei Wang, Joshua Rosenberg, and Shaun Kellogg, in press with Chapman & Hall/CRC and open online now. It is written for education researchers who already know R and statistics and want to push into computational methods. Every chapter follows the same format: data quality guidance, structural requirements, sample research questions, an R workflow, and template write-ups for the Methods and Results sections.
 
 - Covers text analysis, network analysis, machine learning, and LLM-based methods
 - Includes practical chapters on cloud vs. local LLMs and AI coding assistants
 - Designed for doctoral coursework and as a reference for working academics
 
-[Read online →](https://data-edu.github.io/computational-social-science-cookbook/)
+[Read online →](https://data-edu.github.io/computational-social-science-cookbook/) · [Publisher page →](https://www.routledge.com/Computational-Analysis-of-Educational-Data-A-Field-Guide-Using-R/Wang-Akcaoglu-Rosenberg-Kellogg/p/book/9781032436760)
 ::::
 :::
 

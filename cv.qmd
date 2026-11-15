@@ -108,7 +108,7 @@ June 2003
 ::: {.cv-artifact}
 [Open-access book · R · 2026]{.artifact-kicker}
 
-**Computational Analysis of Educational Data.** A field guide to computational methods in R for education researchers, with Wang, Rosenberg, and Kellogg.
+**Computational Analysis of Educational Data.** A field guide to computational methods in R for education researchers, with Wang, Rosenberg, and Kellogg; in press with Chapman & Hall/CRC.
 
 [data-edu.github.io/computational-social-science-cookbook](https://data-edu.github.io/computational-social-science-cookbook/)
 :::
@@ -183,7 +183,7 @@ June 2003
 
 ### Books
 
-1. Wang, W., **Akcaoglu, M.**, Rosenberg, J., & Kellogg, S. (in press). *Computational Analysis of Educational Data: A Field Guide Using R.* Open version: <https://data-edu.github.io/computational-social-science-cookbook/>
+1. Wang, W., **Akcaoglu, M.**, Rosenberg, J. M., & Kellogg, S. (in press). *Computational Analysis of Educational Data: A Field Guide Using R.* Chapman & Hall/CRC. <https://www.routledge.com/Computational-Analysis-of-Educational-Data-A-Field-Guide-Using-R/Wang-Akcaoglu-Rosenberg-Kellogg/p/book/9781032436760> Open version: <https://data-edu.github.io/computational-social-science-cookbook/>
 
 ### Peer-reviewed Book Chapters
 
