@@ -24,7 +24,7 @@ format:
     css: site-styles.css
     toc: false
     number-sections: false
-    page-layout: article
+    page-layout: full
     format-links: false
     include-in-header: _includes/_analytics.html
     include-before-body: _includes/_navbar.html

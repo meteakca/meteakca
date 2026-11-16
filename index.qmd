@@ -1,5 +1,6 @@
 ---
 title: "Mete Akcaoglu"
+body-classes: home
 listing:
   - id: stories
     contents: posts
@@ -11,16 +12,27 @@ listing:
   - id: news
     contents: news.yml
     sort: "date desc"
-    max-items: 3
+    max-items: 5
     type: custom
     template: _includes/latest-listing.ejs
-    fields: [title, date, description, path, when]
+    fields: [title, date, description, path, when, kind]
 ---
 
-::: {.byline-strip}
-![](images/profilePic.jpg){.byline-photo}
+::: {.home-intro}
+:::: {.home-intro-id}
+![](images/profilePic.jpg){.home-intro-photo}
 
-[**Mete Akcaoglu** · Professor of Instructional Technology and Department Chair, Georgia Southern University. I study how people learn with and through technology. [About me →](about.html)]{.byline-text}
+[Mete Akcaoglu]{.home-intro-name}
+[Professor & Chair · Georgia Southern]{.home-intro-role}
+::::
+
+:::: {.home-intro-bio}
+I am a professor of instructional technology and chair of the Department of Leadership, Technology, and Human Development at Georgia Southern University. I study how people learn with and through technology, with a focus on motivation, interest, and the design of learning environments.
+
+[Now]{.home-intro-now} I'm working on what learners should and shouldn't hand to AI, and on online courses built around the learner's work.
+
+[[CV](cv.html) · [Google Scholar](https://scholar.google.com/citations?user=0y1b0oEAAAAJ&hl=en) · [Email](mailto:makcaoglu@georgiasouthern.edu) · [About&nbsp;me&nbsp;→](about.html)]{.home-intro-links}
+::::
 :::
 
 ::: {.section-header}
@@ -32,46 +44,60 @@ listing:
 ::: {#stories}
 :::
 
-::: {.section-header}
+::: {.home-rails}
+:::: {.home-rail}
+::::: {.section-header}
 ## Selected Work
 
 [→ All projects](projects.html){.section-cta}
-:::
+:::::
 
 ```{=html}
-<div class="feature-grid">
-  <a class="feature-card" href="projects.html#project-game">
-    <img src="images/marks/project-game.svg" alt="" class="feature-mark">
-    <span class="feature-kicker">NSF · $299,895 · 2020–2022</span>
-    <span class="feature-title">Project GAME</span>
-    <span class="feature-teaser">An NSF-funded middle school computer science curriculum that teaches programming through game design in Unity 3D.</span>
+<div class="work-list">
+  <a class="work-row" href="projects.html#project-game">
+    <img src="images/marks/project-game.svg" alt="" class="work-mark">
+    <span class="work-text">
+      <span class="feature-kicker">NSF · $299,895 · 2020–2022</span>
+      <span class="work-title">Project GAME</span>
+      <span class="work-teaser">An NSF-funded middle school computer science curriculum that teaches programming through game design in Unity 3D.</span>
+    </span>
   </a>
-  <a class="feature-card" href="projects.html#book">
-    <img src="images/marks/book.svg" alt="" class="feature-mark">
-    <span class="feature-kicker">Book · Chapman & Hall/CRC · 2027</span>
-    <span class="feature-title">Computational Analysis of Educational Data</span>
-    <span class="feature-teaser">A field guide to computational methods in R for education researchers.</span>
+  <a class="work-row" href="projects.html#book">
+    <img src="images/marks/book.svg" alt="" class="work-mark">
+    <span class="work-text">
+      <span class="feature-kicker">Book · Chapman & Hall/CRC · 2027</span>
+      <span class="work-title">Computational Analysis of Educational Data</span>
+      <span class="work-teaser">A field guide to computational methods in R for education researchers.</span>
+    </span>
   </a>
-  <a class="feature-card" href="projects.html#timeline-prototype">
-    <img src="images/marks/timeline-prototype.svg" alt="" class="feature-mark">
-    <span class="feature-kicker">HTML · 2026</span>
-    <span class="feature-title">Project Timeline Prototype</span>
-    <span class="feature-teaser">A course project laid out as one timeline, with a rule for AI use at each step.</span>
+  <a class="work-row" href="projects.html#timeline-prototype">
+    <img src="images/marks/timeline-prototype.svg" alt="" class="work-mark">
+    <span class="work-text">
+      <span class="feature-kicker">HTML · 2026</span>
+      <span class="work-title">Project Timeline Prototype</span>
+      <span class="work-teaser">A course project laid out as one timeline, with a rule for AI use at each step.</span>
+    </span>
   </a>
-  <a class="feature-card" href="projects.html#program-comparator">
-    <img src="images/marks/program-comparator.svg" alt="" class="feature-mark">
-    <span class="feature-kicker">R · 2026</span>
-    <span class="feature-title">Program Comparator Analysis</span>
-    <span class="feature-teaser">Benchmarks my department's twelve graduate programs against every comparable program in the University System of Georgia.</span>
+  <a class="work-row" href="projects.html#program-comparator">
+    <img src="images/marks/program-comparator.svg" alt="" class="work-mark">
+    <span class="work-text">
+      <span class="feature-kicker">R · 2026</span>
+      <span class="work-title">Program Comparator Analysis</span>
+      <span class="work-teaser">Benchmarks my department's twelve graduate programs against every comparable program in the University System of Georgia.</span>
+    </span>
   </a>
 </div>
 ```
+::::
 
-::: {.section-header}
-## News
+:::: {.home-rail}
+::::: {.section-header}
+## News & Papers
 
 [→ All news](about.html#news){.section-cta}
-:::
+:::::
 
 ::: {#news}
+:::
+::::
 :::

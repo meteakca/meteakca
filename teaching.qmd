@@ -1,4 +1,5 @@
 ---
+body-classes: rail-page
 title: "Teaching — Mete Akcaoglu"
 ---
 

@@ -1,12 +1,32 @@
 # News items for the landing-page "Latest" stream and the About page.
 # Each item is one line; `path` is where the row links (external or site page).
 # `date` sorts the stream; `when` is what's shown (year or range).
-# A blog post that announces something doesn't need a news item too.
+# A blog post that announces something doesn't need a news item too,
+# except papers: `kind: paper` items fill the landing page's News & Papers rail
+# and show a "Paper" tag.
 
 - title: "Released the Georgia School Ratings dashboard, comparing GreatSchools ratings with state CCRPI scores for 2,020 schools"
   date: 2026-11-13
   when: "2026"
   path: https://meteakca.shinyapps.io/georgia-school-ratings/
+
+- title: "Preprint: *The Offloading Ladder: How Experience Changes What Learners and Practitioners Should Hand to Artificial Intelligence*"
+  date: 2026-10-28
+  when: "2026"
+  kind: paper
+  path: https://doi.org/10.35542/osf.io/ys2fu_v1
+
+- title: "Staudt Willet, Bai, Hur, & Akcaoglu, “Structure and content of interactions: Social presence in asynchronous online whole-class vs. small-group discussions,” *IRRODL*"
+  date: 2026-08-07
+  when: "2026"
+  kind: paper
+  path: https://doi.org/10.19173/irrodl.v27i3.9316
+
+- title: "Ozcan & Akcaoglu, “Development and validation of the multidimensional interest development survey (MIS),” *Journal of Psychoeducational Assessment*"
+  date: 2026-06-01
+  when: "2026"
+  kind: paper
+  path: https://doi.org/10.1177/07342829261440809
 
 - title: "Co-authored *Computational Analysis of Educational Data: A Field Guide Using R* with Wang, Rosenberg, & Kellogg, in press with Chapman & Hall/CRC"
   date: 2026-01-01
@@ -16,6 +36,12 @@
 - title: "Co-PI on Math Nation Georgia Pilot Program Evaluation ($1M, Georgia Department of Education)"
   date: 2025-08-01
   when: "2025–26"
+
+- title: "Flanigan, Brady, Akcaoglu, et al., “The interplay among digital distraction, self-regulation of learning tendencies, and motivational influences,” *The Internet and Higher Education*"
+  date: 2025-06-01
+  when: "2025"
+  kind: paper
+  path: https://doi.org/10.1016/j.iheduc.2025.101023
 
 - title: "Named to Stanford/Elsevier Top 2% Scientists in Education (2023, 2024)"
   date: 2024-10-01
