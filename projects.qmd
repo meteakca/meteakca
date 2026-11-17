@@ -214,6 +214,26 @@ I built a project timeline for my Instructional Design course (FRIT 7231) as a f
 :::
 
 ::: {.project}
+### Student AI Guide {#student-ai-guide}
+
+![](images/marks/student-ai-guide.svg){.project-mark}
+
+[HTML · 2026]{.project-kicker}
+
+[A short guide to using AI in courses, with a quiz and a completion certificate students can upload.]{.project-teaser}
+
+:::: {.project-body}
+Students often can't tell what counts as AI or what's acceptable. We keep hearing "I was just using Grammarly, I thought that was OK." I built this guide so students get that guidance before the first assignment. It walks them through AI in learning, acceptable and unacceptable uses, and the university's conduct rules. Then they take a quiz, sign an acknowledgment, and download a certificate that a course can require. It won't stop misuse. It adds some friction, and I hope a few students think twice before using AI in ways their course doesn't allow.
+
+- Nine short sections, an eight-question quiz, and a signed acknowledgment
+- A PDF completion certificate students upload to each course, plus a PDF copy of the guide
+- Static, with nothing stored or sent; written to work for any course in the college, undergraduate courses included
+
+[Open the guide →](https://meteakca.github.io/student-ai-guide/)
+::::
+:::
+
+::: {.project}
 ### This Website {#this-website}
 
 ![](images/marks/this-website.svg){.project-mark}

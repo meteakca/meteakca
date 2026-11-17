@@ -106,6 +106,14 @@ June 2003
 :::
 
 ::: {.cv-artifact}
+[Web guide · HTML · 2026]{.artifact-kicker}
+
+**Student AI Guide.** A guide to acceptable AI use and the conduct rules, with a quiz and a completion certificate that courses can require.
+
+[meteakca.github.io/student-ai-guide](https://meteakca.github.io/student-ai-guide/)
+:::
+
+::: {.cv-artifact}
 [Open-access book · R · 2026]{.artifact-kicker}
 
 **Computational Analysis of Educational Data.** A field guide to computational methods in R for education researchers, with Wang, Rosenberg, and Kellogg; in press with Chapman & Hall/CRC.

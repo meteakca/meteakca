@@ -5,6 +5,11 @@
 # except papers: `kind: paper` items fill the landing page's News & Papers rail
 # and show a "Paper" tag.
 
+- title: "Released a Student AI Guide that walks students through acceptable AI use, with a quiz and a completion certificate"
+  date: 2026-11-17
+  when: "2026"
+  path: https://meteakca.github.io/student-ai-guide/
+
 - title: "Released the Georgia School Ratings dashboard, comparing GreatSchools ratings with state CCRPI scores for 2,020 schools"
   date: 2026-11-13
   when: "2026"
