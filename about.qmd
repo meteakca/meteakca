@@ -28,7 +28,7 @@ I am a professor of instructional technology and department chair at Georgia Sou
   <dt>Say it</dt>
   <dd>MEH-teh ahk-CHA-oh-loo</dd>
   <dt>Citations</dt>
-  <dd>h-index 28 · 5,390 citations</dd>
+  <dd>h-index 28 · 5,457 citations</dd>
   <dt>Elsewhere</dt>
   <dd><a href="https://scholar.google.com/citations?user=0y1b0oEAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://github.com/meteakca">GitHub</a> · <a href="https://www.linkedin.com/in/meteakcaoglu/">LinkedIn</a> · <a href="https://bsky.app/profile/meteakca.bsky.social">Bluesky</a></dd>
 </dl>

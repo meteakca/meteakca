@@ -9,7 +9,7 @@ title: "Research — Mete Akcaoglu"
 
 <div class="stats-block">
   <div class="stat-cell"><div class="stat-value">28</div><div class="stat-label">h-index</div></div>
-  <div class="stat-cell"><div class="stat-value">5,390</div><div class="stat-label">Citations</div></div>
+  <div class="stat-cell"><div class="stat-value">5,457</div><div class="stat-label">Citations</div></div>
   <div class="stat-cell"><div class="stat-value">40</div><div class="stat-label">Articles</div></div>
   <div class="stat-cell"><div class="stat-value">NSF</div><div class="stat-label">PI Grant · $300K</div></div>
 </div>
