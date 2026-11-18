@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" fill="none">
+<!-- fork -->
+<line x1="92" y1="26" x2="92" y2="44" stroke="#0e0e0e" stroke-width="1.5"/>
+<line x1="98" y1="26" x2="98" y2="44" stroke="#0e0e0e" stroke-width="1.5"/>
+<line x1="104" y1="26" x2="104" y2="44" stroke="#0e0e0e" stroke-width="1.5"/>
+<path d="M92 44 Q 98 52, 104 44" stroke="#0e0e0e" stroke-width="1.5"/>
+<line x1="98" y1="50" x2="98" y2="114" stroke="#0e0e0e" stroke-width="3"/>
+<!-- plate -->
+<circle cx="160" cy="70" r="46" stroke="#0e0e0e" stroke-width="2"/>
+<circle cx="160" cy="70" r="34" stroke="#d9d7d1" stroke-width="1.5"/>
+<!-- a spreadsheet served on it -->
+<rect x="138.5" y="56.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="149.5" y="56.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="160.5" y="56.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="171.5" y="56.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="138.5" y="65.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="149.5" y="65.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="160.5" y="65.5" width="11" height="9" fill="#ff3b00" stroke="#ff3b00" stroke-width="1"/>
+<rect x="171.5" y="65.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="138.5" y="74.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="149.5" y="74.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="160.5" y="74.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<rect x="171.5" y="74.5" width="11" height="9" stroke="#707070" stroke-width="1"/>
+<!-- knife -->
+<path d="M222 26 C 230 34, 230 52, 222 62 Z" fill="#0e0e0e"/>
+<line x1="222" y1="26" x2="222" y2="114" stroke="#0e0e0e" stroke-width="3"/>
+</svg>

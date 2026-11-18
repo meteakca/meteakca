@@ -1,0 +1,147 @@
+---
+title: "A Modest Proposal and a Modest Conversation with AI"
+date: 2026-11-18
+categories: [AI in Education]
+description: "A conversation with Claude on my drive to work: why the AI revolution may not follow the Industrial Revolution's pattern of creating new jobs."
+image: "../../images/marks/posts/modest-proposal.svg"
+---
+
+On the 15-minute drive to my Savannah office, I talked it through with Claude about jobs, something I had been thinking a lot about recently. I thought it would be an interesting blog post, so below is the conversation. I edited my own lines lightly (mostly the ums and false starts) and left Claude's as they were.
+
+Also, a side note, and evolution in my thinking: In May, I wrote [The Radiology Lesson](../2026-05-19-radiology-lesson/index.qmd), where I argued that AI takes over the lower-order tasks of a job and leaves its purpose, so teaching will persist. I still think the tasks-and-purpose argument holds for a single job. This conversation is about something larger: the whole chain that produces knowledge workers is exposed at once, from the coder to the professor teaching coding to the schools preparing kids for college, and the new "workers" never buy what they make. On that question, I think I'm leaning pessimistic.
+
+:::: {.chat}
+
+
+::: {.msg .me}
+[Mete]{.msg-who} People compare the AI movement to the Industrial Revolution: it disrupted jobs, and so on. One difference, of course, is how long that change took, and that's an obvious one. But the other argument is that the AI revolution will erase jobs and not necessarily add new ones, as the industrial revolution did. Most of the jobs we do today exist, or there are more of them, because of the Industrial Revolution. I have a really hard time seeing it go that way this time, because the jobs that are going to be replaced, like a coder, and a professor who teaches people coding, or the schools that are preparing kids for college, might all be impacted. That's nowhere near the effect the Industrial Revolution had, which was the opposite.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Yeah, I think you've put your finger on the real asymmetry. The Industrial Revolution automated muscle, and that raised the value of cognition. It's literally why mass schooling exists: factories and offices needed literate, numerate people. AI goes after cognition itself, so the whole chain that produces knowledge workers is exposed at once, the coder, the person teaching coding, and the school preparing kids for that path.
+
+The optimists' best reply is that we've always been bad at imagining the new jobs. Nobody in 1850 could have pictured a UX designer. And when something gets cheap, demand for it often grows instead of shrinking. Cheaper code might mean far more software, not fewer people building it.
+
+The weak spot in that argument is that every past wave left humans a refuge, some kind of work machines couldn't do. If AI keeps closing in on general cognition, it's not obvious where the next refuge is, apart from work where being human is the point itself: care, trust, physical presence, accountability.
+
+So for education, maybe the question shifts from what jobs we're preparing kids for to what's worth knowing when expertise is cheap. Where do you lean on that?
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} I hear what the optimists are saying, but going along the line of argument I made before, and what you raised about cognition, I think being pessimistic is more accurate, because I don't see what could be generated as a new human job.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} That's a fair position. The optimists' argument depends on jobs we can't name yet, and that's hard to test until it's too late. One thing that might soften the pessimism a little: even if there aren't new jobs, there may still be new roles, like supervising and judging AI output. Of course, that only works if people still build the expertise to do the judging, which runs straight into your point about the education pipeline.
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} Yep. I don't know.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Yeah, honestly, nobody does. It's one of those questions where uncertainty is the right answer for now. Want to keep chewing on it, or switch to something else?
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} Another way to add to this point: we are, in effect, adding an infinite number (not infinite, but you know what I mean) of PhD-level intelligences to our existing 8 billion people.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} That's a powerful way to frame it. It's basically a massive labour supply shock, like the global workforce suddenly gaining millions of tireless experts who work for the cost of electricity. And unlike immigration or population growth, these new "workers" don't consume anything. They don't buy houses, eat at restaurants, or create demand that would generate jobs for other people.
+
+That's the part that breaks the usual economic story. Historically, more workers also meant more consumers, so the economy grew around them. Here you get the supply side without the demand side, so the gains flow to whoever owns the compute.
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} Right. And the problem is, these free workers (I think that's the point you raised as well) don't need anything other than electricity. Obviously the data centers, the water, and all those environmental impacts are there. But compared to a human worker, they don't consume the products we create as a byproduct of these activities, so that's going to be disruptive.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Exactly, and it leads to a real paradox. If AI replaces enough paid human work, firms lose their customers too, because unemployed people can't buy what the AI produces. Henry Ford supposedly understood this when he paid workers enough to afford his cars.
+
+So the system can't really run on the old logic of earning wages and then spending them. Something has to get the money back to people, whether that's universal basic income, wider ownership of AI capital, or taxing compute. In the end the disruption may turn out to be less a technology problem than a distribution problem.
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} What do you see coming out of this?
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Honestly, I see two plausible paths, and the technology alone won't decide between them.
+
+In the hopeful one, productivity gains get shared, through policy or broad ownership. Work shrinks but meaning doesn't, and people put more time into care, community, learning, and craft, things that matter partly because a human does them.
+
+In the darker one, gains concentrate among those who own the compute, the middle class hollows out, and we get a lot of abundance with a lot of precarity sitting next to it.
+
+My sense is that the transition is the dangerous part. Even if things settle somewhere good, the next 10 to 20 years could be rough, because institutions like schools, labour law, and tax systems move much more slowly than the technology. That's where people like you in education really matter: you're deciding now what expertise means for a generation that will live through it.
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} It also reminds me of, I think it's called *A Mother's Proposal*. I read it in English 101, I think.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Ah, you probably mean *A Modest Proposal*, Jonathan Swift's 1729 satire. Yes, that fits darkly well. Swift was skewering people who looked at the Irish poor as an economic surplus to be managed rather than human beings, and he took that logic to its monstrous end: suggesting they sell their babies as food to the rich.
+
+The parallel is the worry that if humans are no longer needed as workers, a cold economic logic starts treating them as a cost. Was that the connection you were drawing?
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} Yeah, absolutely. I think he was even suggesting eating the…
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Yes, eating the children was the whole shock of it. He laid it out in calm, rational, almost cheerful economic language, and that's what makes it so chilling. The horror is in how reasonable it sounds once people are treated purely as numbers. That's a good warning for AI debates too, since a lot of the talk about displaced workers already slips into that detached, spreadsheet tone.
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} I remember there was a really iconic sentence, or passage. What was it?
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} The most famous passage is probably this one:
+
+> "I have been assured by a very knowing American of my acquaintance in London, that a young healthy child well nursed is at a year old a most delicious, nourishing, and wholesome food, whether stewed, roasted, baked, or boiled; and I make no doubt that it will equally serve in a fricassee, or a ragout."
+
+That cookbook tone is what makes it so devastating.
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} Yeah, absolutely brilliant. Anyway, I just remember that.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} It really is brilliant, and it's stuck with people for nearly 300 years. Funny how an English 101 reading comes back when it suddenly fits. Anything else on your mind?
+
+:::
+
+::: {.msg .me}
+[Mete]{.msg-who} Nope, that's it. Thank you.
+
+:::
+
+::: {.msg .ai}
+[Claude]{.msg-who} Thanks for the good conversation, Mete. Take care, goodbye!
+:::
+
+::::
