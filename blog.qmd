@@ -1,8 +1,13 @@
 ---
-title: "Blog"
+title: "Blog — Mete Akcaoglu"
 listing:
   contents: posts
   sort: "date desc"
   type: custom
   template: _includes/blog-listing.ejs
+  feed: true
 ---
+
+# Blog
+
+[Essays and notes on AI, learning, and education research.]{.page-subtitle} `<a class="blog-feed" href="/blog.xml" title="Blog RSS feed"><svg viewBox="0 0 16 16" width="10" height="10" aria-hidden="true"><circle cx="2.5" cy="13.5" r="2.5" fill="currentColor"/><path d="M0 6a10 10 0 0 1 10 10h-2.5A7.5 7.5 0 0 0 0 8.5z M0 0a16 16 0 0 1 16 16h-2.5A13.5 13.5 0 0 0 0 2.5z" fill="currentColor"/></svg> RSS</a>`{=html}

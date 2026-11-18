@@ -419,6 +419,8 @@ dl.news-feed {
 
 .site-footer a { color: var(--muted); text-decoration: none; }
 .site-footer a:hover { color: var(--accent); }
+.site-footer .rss-link { white-space: nowrap; }
+.site-footer .rss-link svg { vertical-align: -1px; }
 
 
 /* ── Section headings / H2 ─────────────────────────────────── */
@@ -873,6 +875,24 @@ code {
 .blog-listing {
   margin: 0;
 }
+
+p:has(> .blog-feed) {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+}
+.blog-feed {
+  font-family: var(--mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  color: var(--muted);
+  text-decoration: none;
+}
+.blog-feed:hover { color: var(--accent); }
+.blog-feed svg { vertical-align: -1px; }
 
 .blog-item {
   display: grid;
