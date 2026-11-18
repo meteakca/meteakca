@@ -23,6 +23,7 @@ Quarto website, deployed to GitHub Pages by `.github/workflows/deploy.yml` on pu
 - Screen-only page frame: outer grey `#c8c5bd`, a 40px `--rule` band around the sheet on three sides (`box-shadow` spread). Print is untouched.
 - Sheet width: site pages use `page-layout: full` (in `_quarto.yml`) and a 1040px sheet, screen only. The private CVs and letters set `page-layout: article` and stay at 803px. Print output is unchanged (checked by diffing PDF text before and after).
 - Left rail: posts, plus pages with `body-classes: rail-page` (Research, Teaching), get a 200px left column for the date, tags, § numbers, and `dl` labels, with a ~736px text column; it folds to one column below 900px. These pages have no rules between sections, only one `--rule` gray rule under the page header.
+- RSS: `blog.qmd`'s listing has `feed: true` (needs `site-url` in `_quarto.yml`) and builds `/blog.xml`. Links to it sit beside the Blog subtitle (`.blog-feed`, raw HTML in `blog.qmd`) and in the footer (`.rss-link`).
 - `news.yml` items with `kind: paper` show a "Paper" tag; they fill the landing page's News & Papers rail.
 
 ## Verifying a deploy
