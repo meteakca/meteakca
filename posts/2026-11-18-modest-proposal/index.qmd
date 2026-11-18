@@ -90,12 +90,12 @@ My sense is that the transition is the dangerous part. Even if things settle som
 :::
 
 ::: {.msg .me}
-[Mete]{.msg-who} It also reminds me of, I think it's called *A Mother's Proposal*. I read it in English 101, I think.
+[Mete]{.msg-who} It also reminds me of, I think it's called *A Modest Proposal*. I read it in English 101, I think.
 
 :::
 
 ::: {.msg .ai}
-[Claude]{.msg-who} Ah, you probably mean *A Modest Proposal*, Jonathan Swift's 1729 satire. Yes, that fits darkly well. Swift was skewering people who looked at the Irish poor as an economic surplus to be managed rather than human beings, and he took that logic to its monstrous end: suggesting they sell their babies as food to the rich.
+[Claude]{.msg-who} Ah, *A Modest Proposal*, Jonathan Swift's 1729 satire. Yes, that fits darkly well. Swift was skewering people who looked at the Irish poor as an economic surplus to be managed rather than human beings, and he took that logic to its monstrous end: suggesting they sell their babies as food to the rich.
 
 The parallel is the worry that if humans are no longer needed as workers, a cold economic logic starts treating them as a cost. Was that the connection you were drawing?
 
