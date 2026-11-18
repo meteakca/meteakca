@@ -6,7 +6,7 @@ description: "A conversation with Claude on my drive to work: why the AI revolut
 image: "../../images/marks/posts/modest-proposal.svg"
 ---
 
-On the 15-minute drive to my Savannah office, I talked with Claude about jobs, something I had been thinking a lot about recently. I thought it would be an interesting blog post, so below is the conversation. I edited my own lines lightly (mostly the ums and false starts) and left Claude's as they were.
+On the 15-minute drive to my Savannah office, I talked with Claude about jobs, something I had been thinking a lot about recently. I thought it would be an interesting blog post, so below is the conversation. I edited my own lines lightly (mostly the ums and false starts) and left Claude's as they were, except for one line that answered a transcription error.
 
 Also, a side note, and evolution in my thinking: In May, I wrote [The Radiology Lesson](../2026-05-19-radiology-lesson/index.qmd), where I argued that AI takes over the lower-order tasks of a job and leaves its purpose, so teaching will persist. I still think the tasks-and-purpose argument holds for a single job. This conversation is about something larger: the whole chain that produces knowledge workers is exposed at once, from the coder to the professor teaching coding to the schools preparing kids for college, and the new "workers" never buy what they make. On that question, I think I'm leaning pessimistic.
 
