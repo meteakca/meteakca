@@ -20,7 +20,7 @@ listing:
 
 ::: {.home-intro}
 :::: {.home-intro-id}
-![](images/profilePic.jpg){.home-intro-photo}
+![](images/marks/monogram.svg){.home-intro-photo}
 
 [Mete Akcaoglu]{.home-intro-name}
 [Professor & Chair · Georgia Southern]{.home-intro-role}

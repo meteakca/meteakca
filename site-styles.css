@@ -1702,7 +1702,7 @@ body.blog-post #title-block-header {
 @media (max-width: 640px) {
   .home-intro { grid-template-columns: 1fr; gap: 20px; padding-bottom: 24px; }
   .home-intro-id { display: flex; align-items: center; gap: 16px; }
-  .home-intro-id p:first-child { margin-bottom: 0; }
+  .home-intro-id p:first-child { margin-bottom: 0; flex-shrink: 0; }
   .home-intro-photo { width: 72px; height: 72px; }
   .home-intro-bio { border-left: none; padding-left: 0; }
   .home-intro-bio p { font-size: 17px; }
