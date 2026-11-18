@@ -12,7 +12,7 @@ Quarto website, deployed to GitHub Pages by `.github/workflows/deploy.yml` on pu
 - `site-styles.css`: all styling; Swiss brand tokens (see `~/swiss-brand-tokens.md`) plus `--shade` for hover and panel fills
 
 ## Conventions
-- Every post needs `image:` in its front matter, or the landing lead story shows an empty box. Marks live in `images/marks/`; all are Claude-made (disclosed in the footer).
+- Every post needs `image:` in its front matter, or the landing lead story shows an empty box. `lead: false` keeps a post out of the lead slot (it shows as a dated row); the newest post without it leads. Marks live in `images/marks/`; all are Claude-made (disclosed in the footer).
 - `_filters/post-mark.lua` (via `posts/_metadata.yml`) floats a post's `images/marks/posts/` mark to the right of its first paragraph (stacked on phones). A post can place that image itself (`{.post-mark}`, or `{.post-mark .left}` to float left), or opt out with `post-mark: false`.
 - Links to live artifacts (dashboards, prototypes, preprints) go in a `::: {.artifact-box}` with an `{.artifact-kicker}` span, a bold title, one line of text, and `{.artifact-cta}` button links.
 - Selected Work cards in `index.qmd` copy text from `projects.qmd`; edit both.

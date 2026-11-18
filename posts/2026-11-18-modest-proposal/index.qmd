@@ -4,6 +4,7 @@ date: 2026-11-18
 categories: [AI in Education]
 description: "A conversation with Claude on my drive to work: why the AI revolution may not follow the Industrial Revolution's pattern of creating new jobs."
 image: "../../images/marks/posts/modest-proposal.svg"
+lead: false
 ---
 
 On the 15-minute drive to my Savannah office, I talked with Claude about jobs, something I had been thinking a lot about recently. I thought it would be an interesting blog post, so below is the conversation. I edited my own lines lightly (mostly the ums and false starts) and left Claude's as they were, except for one line that answered a transcription error.

@@ -8,7 +8,7 @@ listing:
     max-items: 4
     type: custom
     template: _includes/front-listing.ejs
-    fields: [title, date, description, path, image]
+    fields: [title, date, description, path, image, lead]
   - id: news
     contents: news.yml
     sort: "date desc"

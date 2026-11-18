@@ -1,9 +1,10 @@
 <%
   // Landing page: newest post as the lead story, the next ones as dated rows.
+  // A post with `lead: false` in its front matter is skipped for the lead and shows as a row.
   // Keep each item on one line: Pandoc re-reads this output as markdown.
   const fmt = (d) => new Date(d).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
-  const lead = items[0];
-  const rest = items.slice(1);
+  const lead = items.find((i) => String(i.lead) !== 'false') || items[0];
+  const rest = items.filter((i) => i !== lead);
 %><div class="front-stories">
 <% if (lead) { %><div class="front-lead-row"><a class="front-lead" href="<%= lead.path %>"><span class="front-lead-media"><img src="<%= lead.image %>" alt=""></span><span class="front-lead-text"><span class="front-meta">Post · <%= fmt(lead.date) %></span><span class="front-lead-title"><%= lead.title %></span><span class="front-lead-desc"><%= lead.description || '' %></span><span class="front-more">Read →</span></span></a></div><% } %>
 <div class="front-rows">
