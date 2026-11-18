@@ -14,6 +14,8 @@ Quarto website, deployed to GitHub Pages by `.github/workflows/deploy.yml` on pu
 ## Conventions
 - Every post needs `image:` in its front matter, or the landing lead story shows an empty box. `lead: false` keeps a post out of the lead slot (it shows as a dated row); the newest post without it leads. Marks live in `images/marks/`; all are Claude-made (disclosed in the footer).
 - `_filters/post-mark.lua` (via `posts/_metadata.yml`) floats a post's `images/marks/posts/` mark to the right of its first paragraph (stacked on phones). A post can place that image itself (`{.post-mark}`, or `{.post-mark .left}` to float left), or opt out with `post-mark: false`.
+- Conversation posts (e.g. the Modest Proposal post) use chat bubbles: wrap the transcript in `:::: {.chat}`, each turn in `::: {.msg .me}` (right, dark) or `::: {.msg .ai}` (left, shaded), starting with a `[Name]{.msg-who}` label.
+- The home intro shows the MA monogram (`images/marks/monogram.svg`); the photo stays on About.
 - Links to live artifacts (dashboards, prototypes, preprints) go in a `::: {.artifact-box}` with an `{.artifact-kicker}` span, a bold title, one line of text, and `{.artifact-cta}` button links.
 - Selected Work cards in `index.qmd` copy text from `projects.qmd`; edit both.
 - Custom EJS listings: Pandoc re-reads the output as markdown, so keep each item on one line inside a block `<div>`.
